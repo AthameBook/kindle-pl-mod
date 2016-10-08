@@ -1,86 +1,86 @@
-{0,select,mrpr{Sync to Most Recent Page Read} other{Sync to Furthest Page Read}}
-Add Note
-Animation
-Beginning
-Book Description
-Buy This Book Now
-Cancel
-Contrast
-CONTRAST
-Cover
-darker
-darkest
-DARKEST
-default
-Delete Note
-Delete
-Display Settings
-Edit Note
-End
-Enter a location ({0} - {1})
-Enter a page ({0}) or location ({1} - {2})
-Enter a page ({0})
-Enter a page (1 - {0}) or location ({1} - {2})
-Enter a page (1 - {0})
-Enter a page or location ({1} - {2})
-Enter a page
-Enter password: 
-Fit to Screen
-font options
-font size options
-FONT
-Go to Page or Location
-Go to...
-Go To
-GO TO
-Highlight
-Incorrect password. Please try again.
-Incorrect Password
-lighter
-lightest
-LIGHTEST
-line spacing options
-Loc {0} of {1}
-Loc {0}
-Location
-Lock Rotation
-Low Memory
-margin options
-MARGINS
-Menu
-More Options
-More
-narrow
-NORMAL
-Note
-ORIENTATION
-Page {0} of {1}
-Page {0}
-Page or Location
-Page Refresh
-Page 
-PAGE
-Password-Protected
-PDF Display Settings
-Publisher Font
-READING PROGRESS
-Save
-Settings
-Shared Notes & Highlights
-Share
-Shop in Kindle Store
-size {0}
-SPACING
-Submit
-Sync Results
-Sync to Furthest Page Read
-Sync
-Table of Contents
-Table of Contents...
-There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.
-This PDF is password-protected.
-Unlock Rotation
-View in Store
-View Notes
-View Note
-wide
+{0,select,mrpr{Sync to Most Recent Page Read} other{Sync to Furthest Page Read}}	{0,select,mrpr{Synchronizuj ostatnio czytaną stronę} other{Synchronizuj najdalszą czytaną stronę}}
+Add Note	Dodaj notatkę
+Animation	Animacja
+Beginning	Początek
+Book Description	Opis książki
+Buy This Book Now	Kup teraz tę książkę
+Cancel	Anuluj
+Contrast	Kontrast
+CONTRAST	KONTRAST
+Cover	Okładka
+darker	+1
+darkest	+2
+DARKEST	NAJCIEMNIEJSZY
+default	domyślnie
+Delete Note	Usuń notatkę
+Delete	Usuń
+Display Settings	Ustawienia wyświetlania
+Edit Note	Edytuj notatkę
+End	Koniec
+Enter a location ({0} - {1})	Podaj lokację ({0}–{1})
+Enter a page ({0}) or location ({1} - {2})	Podaj stronę ({0}) lub lokację ({1}–{2})
+Enter a page ({0})	Podaj stronę ({0})
+Enter a page (1 - {0}) or location ({1} - {2})	Podaj stronę (1–{0}) lub lokację ({1}–{2})
+Enter a page (1 - {0})	Podaj stronę (1–{0})
+Enter a page or location ({1} - {2})	Podaj stronę lub lokację ({1}–{2})
+Enter a page	Podaj stronę
+Enter password: 	Wprowadź hasło: 
+Fit to Screen	Dopasuj do ekranu
+font options	ustawienia czcionki
+font size options	ustawienia rozmiaru czcionki
+FONT	CZCIONKA
+Go to Page or Location	Przejdź do strony lub lokacji
+Go to...	Idź do...
+Go To	Idź do
+GO TO	IDŹ DO
+Highlight	Podkreśl
+Incorrect password. Please try again.	Nieprawidłowe hasło. Spróbuj jeszcze raz.
+Incorrect Password	Nieprawidłowe hasło
+lighter	-1
+lightest	-2
+LIGHTEST	NAJJAŚNIEJSZY
+line spacing options	ustawienia odstępu między wierszami
+Loc {0} of {1}	Lokacja {0} z {1}
+Loc {0}	Lokacja {0}
+Location	Lokacja
+Lock Rotation	Blokada rotacji
+Low Memory	Mało pamięci
+margin options	ustawienia marginesu
+MARGINS	MARGINESY
+Menu	Menu
+More Options	Więcej opcji
+More	Więcej
+narrow	wąski
+NORMAL	NORMALNY
+Note	Notatka
+ORIENTATION	ORIENTACJA
+Page {0} of {1}	Strona {0} z {1}
+Page {0}	Strona {0}
+Page or Location	Strona lub lokacja
+Page Refresh	Odświeżanie strony
+Page 	Strona
+PAGE	STRONA
+Password-Protected	Chronione hasłem
+PDF Display Settings	Ustawienia wyświetlania PDF
+Publisher Font	Czcionka wydawcy
+READING PROGRESS	POSTĘP CZYTANIA
+Save	Zapisz
+Settings	Ustawienia
+Shared Notes & Highlights	Udostępnione notatki i podkreślenia
+Share	Udostępnij
+Shop in Kindle Store	Zakupy w sklepie Kindle
+size {0}	rozmiar {0}
+SPACING	ODSTĘP
+Submit	Prześlij
+Sync Results	Status synchronizacji
+Sync to Furthest Page Read	Zsynchronizuj ost. czytaną stronę
+Sync	Synchronizuj
+Table of Contents	Spis treści
+Table of Contents...	Spis treści...
+There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	Brak wystarczającej ilości pamięci, aby dodawać lub edytować notatki i podkreślenia w tym dokumencie. Spróbuj zwolnić pamięć usuwając część zawartości ze swojego Kindle.
+This PDF is password-protected.	Ten PDF jest chroniony hasłem.
+Unlock Rotation	Odblokowanie rotacji
+View in Store	Pokaż w sklepie
+View Notes	Zobacz notatki
+View Note	Zobacz notatkę
+wide	szeroki

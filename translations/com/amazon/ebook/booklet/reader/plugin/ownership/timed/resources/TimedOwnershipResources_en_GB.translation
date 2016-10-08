@@ -1,2 +1,2 @@
-Buy ▶
-Read for Free time remaining: {0,plural,=0 {Expired} one {<1 min.} other {{0,number,integer} mins.}}
+Buy ▶	Kup ▶
+Read for Free time remaining: {0,plural,=0 {Expired} one {<1 min.} other {{0,number,integer} mins.}}	Pozostały czas darmowego czytania: {0,plural,=0 {upłynął} one {mniej niż 1 min.} other {{0,number,integer} min.}}

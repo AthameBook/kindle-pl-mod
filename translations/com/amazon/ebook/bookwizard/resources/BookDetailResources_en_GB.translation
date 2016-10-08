@@ -1,8 +1,8 @@
-Book Details
-by {0}
-Loading description...
-Rating:{0}
-SELECT BOOK
-There is no description for this book.
-Unable to load description...
-WANT TO READ
+Book Details	Szczegóły książki
+by {0}	autorstwa {0}
+Loading description...	Ładowanie opisu...
+Rating:{0}	Ocena:{0}
+SELECT BOOK	WYBIERZ KSIĄŻKĘ
+There is no description for this book.	Ta książka nie posiada opisu.
+Unable to load description...	Nie mogę załadować opisu...
+WANT TO READ	CHCĘ PRZECZYTAĆ

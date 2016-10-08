@@ -1,87 +1,87 @@
-{0}: {1,date,EEE}, {1,date,medium}~~~~Are you sure you want to delete this issue?
-"{0}" cannot be delivered because of the file size. You can either cancel the download, transfer the item via USB or connect to Wi-Fi to download this item.
-"{0}" cannot be delivered. You can either cancel the download or connect to Wi-Fi to download this item.
-"{0}" cannot be downloaded because Aeroplane Mode is turned on. You can either cancel the download or turn off Aeroplane Mode.
-"{0}" cannot be downloaded because wireless is turned off. You can either cancel the download or turn on wireless.
-"{0}" cannot be downloaded because your Kindle doesnʼt have enough free memory. You can either make more Kindle memory available by removing content from the Home screen or cancel the download.
-"{0}" cannot be downloaded because your Kindle has lost connection to the network. You can either cancel the download or try connecting to a network again.
-{0}~~~~Are you sure you want to delete this audiobook?
-{0}~~~~Are you sure you want to delete this blog?
-{0}~~~~Are you sure you want to delete this book?
-{0}~~~~Are you sure you want to delete this document?
-{0}~~~~Are you sure you want to delete this image folder?
-{0}~~~~Are you sure you want to delete this image package?
-{0}~~~~Are you sure you want to delete this image?
-{0}~~~~Are you sure you want to delete this item?
-{0}~~~~Are you sure you want to delete this letter?
-{0}~~~~Are you sure you want to delete this MP3?
-{0}~~~~Are you sure you want to delete this notice?
-{0}~~~~Are you sure you want to delete this receipt?
-{0}~~~~Are you sure you want to delete this sample?
-{0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?
-About Kindle FreeTime
-About Vocabulary Builder
-Aeroplane Mode
-Cancel Download
-Cancel
-Collections that appear in all views on this device are displayed with a star.
-connection required
-CONNECTION REQUIRED
-Connect
-Content Not Synced
-Delete everywhere
-Delete This Audiobook
-Delete This Blog
-Delete This Book
-Delete This Collection
-Delete This Document
-Delete This Image Folder
-Delete This Image Package
-Delete This Image
-Delete This Issue
-Delete This Item
-Delete This Letter
-Delete This MP3
-Delete This Notice
-Delete This Receipt
-Delete This Sample
-Delete
-DOWNLOAD COMPLETE
-downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
-DOWNLOADING - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
-downloading-{0,choice,0.09#{0,number,#%}|0.09<{0,number,#%}}
-error
-ERROR
-Ignore
-insufficient space
-INSUFFICIENT SPACE
-Kindle for Kids has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and Kindle for Kids.
-Kindle FreeTime has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and FreeTime.
-licence at limit
-Memory is Full
-Network Connection Failed
-on loan
-queued
-QUEUED
-Remove from device
-Remove From Device
-Remove from Device
-Show in All Views
-Show Only in Collections
-TAP TO OPEN
-The item you added to this collection was added to this device directly from a computer. Adding it to a collection will not sync the item to the Cloud, so you may not see this item on your other Kindle devices or apps.
-This Collection is synced across all your devices and will be deleted on any devices that support Cloud Collections.~~~~Deleting or removing a collection does not remove the content stored on your device or in the Cloud.
-This collection will no longer appear on your device. You can see the collection in the Cloud by tapping All. To add it to your device again, press and hold the collection. Removing a collection from your device does not remove the content inside that collection from your library.
-This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.
-Turn Off FreeTime
-Turn Off Kindle for Kids
-Turn Off
-Turn On Wireless?
-Unable to Sync
-Vocabulary Builder has been turned off and will no longer appear on your Home screen. To turn it on, go to Settings, Reading Options, Language Learning and Vocabulary Builder.
-Vocabulary Builder helps you learn new words as you read.~~~~Words that you look up in the dictionary whilst reading are added to Vocabulary Builder automatically. You can then view Flashcards or review usage examples for these words.
-Vocabulary Builder Turned Off
-Wi-Fi Required
-Wi-Fi required
-WI-FI REQUIRED
-You are currently offline and your collection will not be updated until you connect to the Internet.~~~~Do you want to connect now?
+{0}: {1,date,EEE}, {1,date,medium}~~~~Are you sure you want to delete this issue?	{0}: {1,date,EEE}, {1,date,medium}~~~~Czy na pewno chcesz usunąć ten problem?
+"{0}" cannot be delivered because of the file size. You can either cancel the download, transfer the item via USB or connect to Wi-Fi to download this item.	Nie udało się dostarczyć pliku "{0}" ze względu na zbyt duży rozmiar. Skopiuj tę pozycję przez USB lub połącz się z siecią Wi-Fi i ponownie spróbuj ją pobrać.
+"{0}" cannot be delivered. You can either cancel the download or connect to Wi-Fi to download this item.	Nie udało się dostarczyć pliku "{0}". Zrezygnuj z pobierania lub połącz się z siecią Wi-Fi i ponownie spróbuj pobrać tę pozycję.
+"{0}" cannot be downloaded because Aeroplane Mode is turned on. You can either cancel the download or turn off Aeroplane Mode.	Nie można pobrać pliku "{0}" ponieważ włączony jest tryb samolotowy. Zrezygnuj z pobierania lub wyłącz tryb samolotowy.
+"{0}" cannot be downloaded because wireless is turned off. You can either cancel the download or turn on wireless.	Nie można pobrać pliku "{0}" ponieważ sieć bezprzewodowa jest wyłączona. Zrezygnuj z pobierania lub włącz sieć bezprzewodową.
+"{0}" cannot be downloaded because your Kindle doesnʼt have enough free memory. You can either make more Kindle memory available by removing content from the Home screen or cancel the download.	Nie można pobrać pliku "{0}" ponieważ na Twoim Kindle brakuje wolnej pamięci. Spróbuj zwolnić pamięć usuwając ze swojego Kindle część zawartości lub zrezygnuj z pobierania.
+"{0}" cannot be downloaded because your Kindle has lost connection to the network. You can either cancel the download or try connecting to a network again.	Nie można pobrać pliku "{0}" ponieważ zostało utracone połączenie z siecią. Spróbuj ponownie połączyć się z siecią lub zrezygnuj z pobierania.
+{0}~~~~Are you sure you want to delete this audiobook?	{0}~~~~Czy na pewno chcesz usunąć ten audiobook?
+{0}~~~~Are you sure you want to delete this blog?	{0}~~~~Czy na pewno chcesz usunąć ten blog?
+{0}~~~~Are you sure you want to delete this book?	{0}~~~~Czy na pewno chcesz usunąć tę książkę?
+{0}~~~~Are you sure you want to delete this document?	{0}~~~~Czy na pewno chcesz usunąć ten dokument?
+{0}~~~~Are you sure you want to delete this image folder?	{0}~~~~Czy na pewno chcesz usunąć ten katalog obrazków?
+{0}~~~~Are you sure you want to delete this image package?	{0}~~~~Czy na pewno chcesz usunąć tę paczkę obrazków?
+{0}~~~~Are you sure you want to delete this image?	{0}~~~~Czy na pewno chcesz usunąć ten obrazek?
+{0}~~~~Are you sure you want to delete this item?	{0}~~~~Czy na pewno chcesz usunąć tę pozycję?
+{0}~~~~Are you sure you want to delete this letter?	{0}~~~~Czy na pewno chcesz usunąć ten list?
+{0}~~~~Are you sure you want to delete this MP3?	{0}~~~~Czy na pewno chcesz usunąć ten plik MP3?
+{0}~~~~Are you sure you want to delete this notice?	{0}~~~~Czy na pewno chcesz usunąć to ogłoszenie?
+{0}~~~~Are you sure you want to delete this receipt?	{0}~~~~Czy na pewno chcesz usunąć ten paragon?
+{0}~~~~Are you sure you want to delete this sample?	{0}~~~~Czy na pewno chcesz usunąć tę próbkę?
+{0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?	{0}~~~~Ta pozycja zostanie przeniesiona do chmury, ale wszystkie dane i ustawienia z nią związane zostaną trwale usunięte. Czy chcesz kontynuować?
+About Kindle FreeTime	O Kindle FreeTime
+About Vocabulary Builder	O powtarzaniu słówek
+Aeroplane Mode	Tryb samolotowy
+Cancel Download	Przewij pobieranie
+Cancel	Anuluj
+Collections that appear in all views on this device are displayed with a star.	Kolekcje pokazywane we wszystkich widokach są oznaczone gwiazdką.
+connection required	wymagane połączenie
+CONNECTION REQUIRED	WYMAGANE POŁĄCZENIE
+Connect	Połącz
+Content Not Synced	Zawartość niezsynchronizowana
+Delete everywhere	Usuń wszędzie
+Delete This Audiobook	Usuń tego audiobooka
+Delete This Blog	Usuń tego bloga
+Delete This Book	Usuń tę książkę
+Delete This Collection	Usuń tę kolekcję
+Delete This Document	Usuń ten dokument
+Delete This Image Folder	Usuń ten katalog obrazków
+Delete This Image Package	Usuń tę paczkę obrazków
+Delete This Image	Usuń ten obrazek
+Delete This Issue	Usuń to wydanie
+Delete This Item	Usuń tę pozycję
+Delete This Letter	Usuń ten list
+Delete This MP3	Usuń tę MP3
+Delete This Notice	Usuń to ogłoszenie
+Delete This Receipt	Usuń ten paragon
+Delete This Sample	Usuń tę próbkę
+Delete	Usuń
+DOWNLOAD COMPLETE	POBIERANIE ZAKOŃCZONE
+downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	pobieranie – {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
+DOWNLOADING - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	POBIERANIE – {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
+downloading-{0,choice,0.09#{0,number,#%}|0.09<{0,number,#%}}	pobieranie – {0,choice,0.09#{0,number,#%}|0.09<{0,number,#%}}
+error	błąd
+ERROR	BŁĄD
+Ignore	Ignoruj
+insufficient space	za mało miejsca
+INSUFFICIENT SPACE	ZA MAŁO MIEJSCA
+Kindle for Kids has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and Kindle for Kids.	Kindle dla Dzieci zostało wyłączone i nie będzie więcej pojawiało się na głównym ekranie. Aby je włączyć, idź do Ustawienia, Opcje urządzenia, Kontrola rodzicielskai i Kindle dla Dzieci.
+Kindle FreeTime has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and FreeTime.	Kindle FreeTime zostało wyłączone i nie będzie dłużej wyświetlane na Twoim ekranie głównym. Aby właczyć tę usługę, przejdź do Ustawień, Opcji urządzenia, Kontroli rodzicielskiej i FreeTime.
+licence at limit	kończy się licencja
+Memory is Full	Pamięć jest pełna
+Network Connection Failed	Bład połączenia sieciowego
+on loan	wypożyczone
+queued	w kolejce
+QUEUED	W KOLEJCE
+Remove from device	Usuń z czytnika
+Remove From Device	Usuń z czytnika
+Remove from Device	Usuń z urządzenia
+Show in All Views	Pokazuj we wszystkich widokach
+Show Only in Collections	Pokazuj tylko w Kolekcjach
+TAP TO OPEN	DOTKNIJ BY OTWORZYĆ
+The item you added to this collection was added to this device directly from a computer. Adding it to a collection will not sync the item to the Cloud, so you may not see this item on your other Kindle devices or apps.	Pozycja dodana do tej kolekcji była dodana do tego urządzenia bezpośrednio z komputera. Dodanie jej do kolekcji nie będzie synchronizowało pozycji w chrmurze, więc nie będziesz mógł zobaczyć tej pozycji na innych urządzeniach Kindle lub aplikacjach.
+This Collection is synced across all your devices and will be deleted on any devices that support Cloud Collections.~~~~Deleting or removing a collection does not remove the content stored on your device or in the Cloud.	Ta kolekcja jest synchronizowana na wszystkich Twoich urządzeniach i zostanie usunięta z wszystkich Twoich urządzeń, korzystających z kolekcji w Chmurze.~~~~Usunięcie kolekcji nie spowoduje usunięcia jej zawartości z czytnika lub Chmury.
+This collection will no longer appear on your device. You can see the collection in the Cloud by tapping All. To add it to your device again, press and hold the collection. Removing a collection from your device does not remove the content inside that collection from your library.	Ta kolekcja nie będzie dłużej widoczna na urządzeniu. Możesz zobaczyć kolekcję w chmurze przez dotknięcie Wszystkie. Aby dodać ją ponownie do urządzenia, naciśnij i przytrzymaj kolekcję. Usunięcie kolekcji z urządzenia nie usuwa zawartości kolekcji z biblioteki.
+This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	Ta kolekcja będzie pokazywana tylko w widoku Kolekcje. Naciśnij i przytrzymaj kolekcję, aby zmienić jej ustawienia wyświetlania.
+Turn Off FreeTime	Wyłącz FreeTime
+Turn Off Kindle for Kids	Wyłącz Kindle dla Dzieci
+Turn Off	Wyłącz
+Turn On Wireless?	Czy włączyć sieć bezprzewodową?
+Unable to Sync	Nie można zsynchronizować
+Vocabulary Builder has been turned off and will no longer appear on your Home screen. To turn it on, go to Settings, Reading Options, Language Learning and Vocabulary Builder.	Powtarzanie słówek zostało wyłączone i nie będzie się więcej pojawiało na głównym ekranie. Aby je włączyć, idź do Ustawienia, Opcje czytania, Nauka języka i Powtarzanie słówek.
+Vocabulary Builder helps you learn new words as you read.~~~~Words that you look up in the dictionary whilst reading are added to Vocabulary Builder automatically. You can then view Flashcards or review usage examples for these words.	Powtarzanie słówek pomoże Ci nauczyć się nowych słów, które przeczytałeś.~~~~Słowa, których definicje sprawdzałeś w słowniku będą automatycznie zapamiętywane. Możesz je później jeszcze raz przejrzeć lub sprawdzić przykłady ich użycia. 
+Vocabulary Builder Turned Off	Powtarzanie słówek zostało wyłączone
+Wi-Fi Required	Wymagane połączenie Wi-Fi
+Wi-Fi required	wymagane Wi-Fi
+WI-FI REQUIRED	WYMAGANE WI-FI
+You are currently offline and your collection will not be updated until you connect to the Internet.~~~~Do you want to connect now?	Nie jesteś w tej chwili połączony z Internetem i dlatego nie można aktualizować kolekcji.~~~~Czy chcesz się teraz połączyć?

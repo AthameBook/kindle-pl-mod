@@ -1,6 +1,6 @@
-{0,choice,0#{0,plural,one {Your free sample is downloading} other {Your {0,number,integer} free samples are downloading}}}
-Already a member?
-Get more recommendations and see what your friends are reading.
-Join Goodreads
-Not Right Now
-Start reading now 
+{0,choice,0#{0,plural,one {Your free sample is downloading} other {Your {0,number,integer} free samples are downloading}}}	{0,choice,0#{0,plural,one {Pobieranie bezpłatnej próbki} other {Pobieranie {0,number,integer} bezpłatnych próbkek}}}
+Already a member?	Jesteś członkiem?
+Get more recommendations and see what your friends are reading.	Zyskaj więcej poleceń i zobacz co czytają Twoi znajomi.
+Join Goodreads	Dołącz do Goodreads
+Not Right Now	Nie teraz
+Start reading now 	Zacznij czytać teraz 

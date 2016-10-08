@@ -1,2 +1,2 @@
-{0, choice, 0.66#{0}x (Slowest)| 0.66<{0}x| 1#{0}x (Default)| 1<{0}x| 4#{0}x (Fastest)}
-Reading Speed
+{0, choice, 0.66#{0}x (Slowest)| 0.66<{0}x| 1#{0}x (Default)| 1<{0}x| 4#{0}x (Fastest)}	{0, choice, 0.66#{0}x (Najwolniej)| 0.66<{0}x| 1#{0}x (Domyślna)| 1<{0}x| 4#{0}x (Najszybciej)}
+Reading Speed	Prędkość czytania

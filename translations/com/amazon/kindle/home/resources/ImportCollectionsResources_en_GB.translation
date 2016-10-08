@@ -1,6 +1,6 @@
-{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}
-Import Collections
-Importing Collections...
-No Devices
-The following devices are registered with your Amazon account. Select the device that has the Collections you want to import to this Kindle. Be sure to transfer the content first, then transfer the Collections.
-You are about to import the Collections from "{0}" to "{1}".~~~~Items that are currently on both devices will automatically be organised into the new Collections. This may take a few minutes if you have a large number of items. Would you like to continue?
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	{0,plural,=0 {1 of 1} one {{1,number,integer} z {2,number,integer}} other {{1,number,integer} z {2,number,integer}}}
+Import Collections	Importuj kolekcje
+Importing Collections...	Importuję kolekcje...
+No Devices	Brak urządzeń
+The following devices are registered with your Amazon account. Select the device that has the Collections you want to import to this Kindle. Be sure to transfer the content first, then transfer the Collections.	Następujące urządzenia są zarejestrowane na Twoim koncie Amazon. Wybierz urządzenie, na którym znajduje się kolekcja, którą chcesz zaimportować. Pamiętaj, żeby najpierw przenieść zawartość, a dopiero później kolekcję.
+You are about to import the Collections from "{0}" to "{1}".~~~~Items that are currently on both devices will automatically be organised into the new Collections. This may take a few minutes if you have a large number of items. Would you like to continue?	Masz zamiar zaimportować kolekcje od "{0}" do "{1}".~~~~Pozycje, które znajdują się w obu urządzeniach zostaną automatycznie dodane do nowych kolekcji. Jeśli pozycji jest dużo, to proces może zająć kilka minut. Czy chcesz kontynuować?

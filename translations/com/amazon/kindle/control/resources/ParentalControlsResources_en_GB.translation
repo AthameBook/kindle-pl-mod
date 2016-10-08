@@ -1,26 +1,26 @@
-{0,select, has_hint {Hint: {1}} other {}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.amazon.com/devicesupport to receive help resetting your device.
-Access to Cloud.
-Access to Experimental Web Browser.
-Access to Kindle Store.
-Access to the Goodreads network of readers.
-Cancel
-Change Password
-Cloud
-Confirm Password:
-Current Parental Controls Password:
-Enter Parental Controls Password:
-Enter Password Hint: Enter a phrase that can help you remember your password.
-Goodreads on Kindle
-Incorrect password. Please try again:
-Incorrect Password
-Invalid Password
-Kindle Store
-New Parental Controls Password:
-Parental Controls
-Passwords Do Not Match. Please try again.
-Please enter a valid password.
-Restrictions
-Set Parental Controls Password:
-Web Browser
-When Parental Controls are enabled, Deregistration and Reset Device are disabled.
-When Parental Controls are enabled, Deregistration and Reset Device are disabled.~~~~When the Kindle Store is locked, you can continue buying books from your computer and send them to your Kindle.
+{0,select, has_hint {Hint: {1}} other {}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.amazon.com/devicesupport to receive help resetting your device.	{0,select, has_hint {Wskazówka: {1}} other {}}~~~~Jeśli zapomniałeś swoje hasło, prosimy o kontakt z działem obsługi klienta Kindle na www.amazon.com/devicesupport w celu zresetowania Twojego urządzenia.
+Access to Cloud.	Dostęp do chmury.
+Access to Experimental Web Browser.	Dostęp do przeglądarki internetowej.
+Access to Kindle Store.	Dostęp do sklepu Kindle.
+Access to the Goodreads network of readers.	Dostęp do sieci czytelników Goodreads.
+Cancel	Anuluj
+Change Password	Zmień hasło
+Cloud	Chmura
+Confirm Password:	Potwierdź hasło: 
+Current Parental Controls Password:	Aktualne hasło kontroli rodzicielskiej:
+Enter Parental Controls Password:	Wprowadź hasło kontroli rodzicielskiej:
+Enter Password Hint: Enter a phrase that can help you remember your password.	Wskazówka dotycząca wprowadzonego hasła, która pomoże ci je sobie później przypomnieć. 
+Goodreads on Kindle	Goodreads na Kindle
+Incorrect password. Please try again:	Nieprawidłowe hasło. Spróbuj jeszcze raz:
+Incorrect Password	Nieprawidłowe hasło
+Invalid Password	Nieprawidłowe hasło
+Kindle Store	Sklep Kindle
+New Parental Controls Password:	Nowe hasło kontroli rodzicielskiej:
+Parental Controls	Kontrola rodzicielska
+Passwords Do Not Match. Please try again.	Hasła się różnią. Spróbuj jeszcze raz.
+Please enter a valid password.	Proszę wprowadzić prawidłowe hasło.
+Restrictions	Ograniczenia
+Set Parental Controls Password:	Ustaw hasło kontroli rodzicielskiej:
+Web Browser	Przeglądarka internetowa
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować urządzenia ani przywrócić ustawień fabrycznych.
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.~~~~When the Kindle Store is locked, you can continue buying books from your computer and send them to your Kindle.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować urządzenia ani przywrócić ustawień fabrycznych.~~~~Przy zablokowanym sklepie Kindle, możesz kupować książki przy użyciu swojego komputera, a potem wysłać je na swój czytnik.

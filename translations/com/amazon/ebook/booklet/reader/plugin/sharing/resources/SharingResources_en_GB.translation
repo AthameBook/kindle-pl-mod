@@ -1,26 +1,26 @@
-{0,select, left {{1,plural, =0 {No characters left} one {{1} character left} other {{1} characters left}}} over {{1,plural, one {{1} character over} other {{1} characters over}}} other {}}
-A link to the book will be included with your message.
-A link to the passage will be included with your message.
-Cancel
-Clipping Error
-Close
-Communication Error
-Enter Your Message
-Invalid Social Networks
-Manage
-Message Shared
-One or more of the social networks registered on your Kindle are not configured properly. Selecting Manage below will open the Manage Your Social Networks web page so you can enter your account information. When your changes are complete, select Continue Reading to return to this item.
-Register
-Share
-Sharing Failed
-Sharing Not Supported
-Sharing Unavailable
-Social Networks Not Registered
-The sharing service encountered a communication error. Please try again later.
-The sharing service encountered an unrecoverable error. Sharing cancelled.
-The sharing service is currently unavailable. Please try again later.
-This content does not support sharing.
-Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.
-Unable to share. You have reached the clipping limit for this item set by the publisher.
-Unable to share. You have reached the clipping limit for this item.
-Your Kindle is not registered with any social networks. Selecting Register below will open the Manage Your Social Networks web page so you can enter your account information. When your registration is complete, select Continue Reading to return to this item.
+{0,select, left {{1,plural, =0 {No characters left} one {{1} character left} other {{1} characters left}}} over {{1,plural, one {{1} character over} other {{1} characters over}}} other {}}	{0,select, left {{1,plural, =0 {nie brakuje żadnego znaku} one {brakuje {1} znaku} other {brakuje znaków: {1}}}} over {{1,plural, one {{1} znak za dużo} other {znaków za dużo: {1}}}} other {}}
+A link to the book will be included with your message.	Link do książki będzie dołączony do Twojej wiadomości.
+A link to the passage will be included with your message.	Link do fragmentu będzie dołączony do Twojej wiadomości.
+Cancel	Anuluj
+Clipping Error	Błąd podczas wycinania
+Close	Zamknij
+Communication Error	Błąd komunikacji
+Enter Your Message	Wpisz swoją wiadomość
+Invalid Social Networks	Niepoprawne sieci społecznościowe
+Manage	Zarządzaj
+Message Shared	Wiadomość udostępniona
+One or more of the social networks registered on your Kindle are not configured properly. Selecting Manage below will open the Manage Your Social Networks web page so you can enter your account information. When your changes are complete, select Continue Reading to return to this item.	Jedna lub więcej sieci społecznościowych nie jest prawidłowo skonfigurowana na czytniku. Wybierz "Zarządzaj", aby otworzyć okno, w którym możesz podać dane Twojego konta. Gdy dane będą już kompletne, wybierz "Kontynuuj czytanie", aby powrócić do tej pozycji.
+Register	Rejestruj
+Share	Udostępnij
+Sharing Failed	Udostępnianie nieudane
+Sharing Not Supported	Udostępnianie nie jest wspierane
+Sharing Unavailable	Udostępnianie niemożliwe
+Social Networks Not Registered	Sieci społecznościowe niepowiązane
+The sharing service encountered a communication error. Please try again later.	Serwis udostępniania napotkał błąd komunikacji. Spróbuj ponownie później.
+The sharing service encountered an unrecoverable error. Sharing cancelled.	Usługa udostępniania napotkała na nieodwracalny błąd. Udostępnianie anulowane.
+The sharing service is currently unavailable. Please try again later.	Serwis udostępniania jest obecnie niedostępny. Spróbuj ponownie później.
+This content does not support sharing.	Ta treść nie wspiera udostępniania.
+Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.	Nie można udostępnić. Wyczerpałeś limit udostępnień dla tej pozycji ustawiony przez wydawcę {0}.
+Unable to share. You have reached the clipping limit for this item set by the publisher.	Nie można udostępnić. Wyczerpałeś limit udostępnień dla tej pozycji ustawiony przez wydawcę.
+Unable to share. You have reached the clipping limit for this item.	Nie można udostępnić. Wyczerpałeś limit udostępnień dla tej pozycji.
+Your Kindle is not registered with any social networks. Selecting Register below will open the Manage Your Social Networks web page so you can enter your account information. When your registration is complete, select Continue Reading to return to this item.	Twój Kindle nie jest połączony z żadną siecią społecznościową. Wybierz "Zarejestruj", aby otworzyć okno, w którym możesz podać dane Twojego konta. Gdy dane będą już kompletne, wybierz "Kontynuuj czytanie", aby powrócić do tej pozycji.

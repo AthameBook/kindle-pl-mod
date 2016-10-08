@@ -1,32 +1,32 @@
-{0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }
-{0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }
-About Vocabulary Builder
-Add to Downloaded
-Add To Home
-Add/Remove Items
-Date: 
-Delete
-Download Latest Issue
-Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }
-Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }
-Edit Child Profiles
-Edit Pronunciation
-In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }
-In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }
-Latest Issue: {0,date,short}
-Learn more
-Manage FreeTime Items
-Manage Kindle for Kids Items
-Narrator: 
-Open Latest Issue
-Remove All Back Issues
-Remove from Device
-Rename
-Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }
-Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }
-Turn Off FreeTime
-Turn Off Kindle for Kids
-Turn Off Vocabulary Builder
-Unknown
-View Achievements
-View Back Issues
+{0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	{0,plural,=0 {{0,number,integer} słów do nauki} one {{0,number,integer} słowo do nauki} other {Słów do nauki: {0,number,integer}} }
+{0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {Liczba opanowanych słów: {0,number,integer}} one {Liczba opanowanych słów: {0,number,integer} word} other {Liczba opanowanych słów: {0,number,integer} words} }
+About Vocabulary Builder	O powtarzaniu słówek
+Add to Downloaded	Dodaj do pobranych
+Add To Home	Dodaj do ekranu głównego
+Add/Remove Items	Dodaj/Usuń pozycje
+Date: 	Data:
+Delete	Usuń
+Download Latest Issue	Pobierz najnowsze wydanie
+Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Pobrane: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {{0,number,integer} wydań} }
+Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pobrane: {0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
+Edit Child Profiles	Edytuj profile dzieci
+Edit Pronunciation	Edytuj wymowę
+In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	W Chmurze: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {wydania: {0,number,integer}} }
+In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje w chmurze: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Latest Issue: {0,date,short}	Najnowsze wydanie: {0,date,short}
+Learn more	Dowiedz się więcej
+Manage FreeTime Items	Zarządzaj pozycjami FreeTime
+Manage Kindle for Kids Items	Zarządzaj pozycjami Kindle dla Dzieci
+Narrator: 	Narrator:
+Open Latest Issue	Otwórz najnowsze wydanie
+Remove All Back Issues	Usuń wszystkie archiwalne numery
+Remove from Device	Usuń z urządzenia
+Rename	Zmień nazwę
+Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Razem: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {wydania: {0,number,integer}} }
+Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Turn Off FreeTime	Wyłącz FreeTime
+Turn Off Kindle for Kids	Wyłącz Kindle dla Dzieci
+Turn Off Vocabulary Builder	Wyłącz funkcję powtarzania słówek
+Unknown	Nieznany
+View Achievements	Pokaż osiągnięcia
+View Back Issues	Zobacz archiwalne numery

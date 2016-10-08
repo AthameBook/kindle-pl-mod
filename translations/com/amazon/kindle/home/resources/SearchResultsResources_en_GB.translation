@@ -1,23 +1,23 @@
-{0, select, 0 {Dictionary} 1 {Dictionary and {1}} other {Dictionary and References}}
-{0, select, 1 {{1}} other {Other References}}
-{0,select,empty {There are no results} loading {Loading results…} connectionerror {Connect to network } error {Problem loading results} other {}}
-Dictionary
-Items Not Yet Indexed
-Items Not Yet Indexed ({0,number,integer})
-Kindle Store
-Kindle Store ({0,number,integer})
-Memory Full
-My Items
-My Items ({0})
-Search Results
-SEARCH RESULTS
-Search Results for "{0}"
-Search Summary
-See All 
-Showing {0, number, integer}
-Text in Books
-TEXT IN BOOKS
-Text in Books ({0,number,integer})
-There werenʼt any content matches in your library for "{0}".
-There werenʼt any title or author matches in your library for "{0}".
-Your search was not successful because your Kindle memory is full. Please make more Kindle memory available by removing content from the Home screen.
+{0, select, 0 {Dictionary} 1 {Dictionary and {1}} other {Dictionary and References}}	{0, select, 0 {słowników} 1 {słownik i {1}} other {Słownik i odniesienia}}
+{0, select, 1 {{1}} other {Other References}}	{0, select, 1 {{1}} other {Inne odniesienia}}
+{0,select,empty {There are no results} loading {Loading results…} connectionerror {Connect to network } error {Problem loading results} other {}}	{0,select,empty {Brak wyników} loading {Ładowanie wyników…} connectionerror {Podłącz do sieci } error {Problem podczas ładowania wyników} other {}}
+Dictionary	Słownik
+Items Not Yet Indexed	Pozycje nie są jeszcze zindeksowane
+Items Not Yet Indexed ({0,number,integer})	Pozycje nie są jeszcze zindeksowane ({0,number,integer})
+Kindle Store	Sklep Kindle
+Kindle Store ({0,number,integer})	Sklep Kindle ({0,number,integer})
+Memory Full	Pełna pamięć
+My Items	Moje pozycje
+My Items ({0})	Moje pozycje ({0})
+Search Results	Wyniki wyszukiwania
+SEARCH RESULTS	WYNIKI WYSZUKIWANIA
+Search Results for "{0}"	Wyniki wyszukiwania „{0}”
+Search Summary	Podsumowanie wyszukiwania
+See All 	Zobacz wszystkie 
+Showing {0, number, integer}	Pokazuję {0, number, integer}
+Text in Books	Tekst w książkach
+TEXT IN BOOKS	TEKST W KSIĄŻKACH
+Text in Books ({0,number,integer})	Tekst w książkach ({0,number,integer})
+There werenʼt any content matches in your library for "{0}".	Nie ma żadnych wyników w Twojej bibliotece przy wyszukiwaniu „{0}”.
+There werenʼt any title or author matches in your library for "{0}".	Nie ma żadnego tytułu lub autora w bibliotece zgodnych z wyszukiwaniem „{0}”.
+Your search was not successful because your Kindle memory is full. Please make more Kindle memory available by removing content from the Home screen.	Twoje wyszukiwanie nie powiodło się ponieważ pamięć Twojego Kindle jest pełna. Usuń niektóre pozycje z ekranu głównego, aby zwiększyć dostępną pamięć na czytniku.

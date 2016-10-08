@@ -1,29 +1,29 @@
-{0} - {1,number,percent}
-{0} of {1}
-Achievements
-Cancel
-Close
-Go to Book Wizard
-Go to Home
-Go to Image Viewer
-Go to Reader
-Kindle Store Recommendations
-Kindle Store
-Landscape Mode
-Menu
-No
-Off
-On
-Portrait Mode
-Save
-Screen Light
-Settings
-Time {0}. AMPM
-Time {0}. Hour
-Time {0}. Minute
-Turn Off Wireless
-Turn On Wireless
-Update
-View Progress
-View Special Offers
-Yes
+{0} - {1,number,percent}	{0} – {1,number,percent}
+{0} of {1}	{0} z {1}
+Achievements	Osiągnięcia
+Cancel	Anuluj
+Close	Zamknij
+Go to Book Wizard	Idź do kreatora książek
+Go to Home	Idź do ekranu głównego
+Go to Image Viewer	Idź do przeglądarki obrazków
+Go to Reader	Przejdź do czytnika
+Kindle Store Recommendations	Rekomendacje ze sklepu Kindle
+Kindle Store	Sklep Kindle
+Landscape Mode	Orientacja pozioma
+Menu	Menu
+No	Nie
+Off	Wył.
+On	Wł.
+Portrait Mode	Orientacja pionowa
+Save	Zapisz
+Screen Light	Oświetlenie ekranu
+Settings	Ustawienia
+Time {0}. AMPM	Czas {0}. AMPM
+Time {0}. Hour	Czas {0}. Godzina
+Time {0}. Minute	Czas {0}. Minuta
+Turn Off Wireless	Wyłącz Wi-Fi
+Turn On Wireless	Włącz Wi-Fi
+Update	Aktualizuj
+View Progress	Zobacz postęp
+View Special Offers	Zobacz oferty specjalne
+Yes	Tak

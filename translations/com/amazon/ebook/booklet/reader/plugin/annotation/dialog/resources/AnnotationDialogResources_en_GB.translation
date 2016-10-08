@@ -1,26 +1,26 @@
-{0,plural,=0 {} =1 {1 highlighter} other {{0,number,integer} highlighters}}
-{0}’s Highlight
-{0}’s Note
-{0,select, false{Page {1}} true{Loc {1}} other {}}
-Cancel
-Chapter
-Delete
-Edit
-Export Notes
-Exporting Notes...
-Go to Location
-Note
-Notes Exported
-Notes
-Popular
-Public
-Send
-Share
-Sorry, we are having trouble with exporting your notes at the moment. Please try again later.
-Sorry! We don't have an e-mail address for your Amazon account.
-Thanks – the e-mail with your notes is on its way.
-Unable to Export Notes
-View
-We will send your notes and highlights to the e-mail address on your Amazon account.
-You do not have any notes or highlights.
-Yours
+{0,plural,=0 {} =1 {1 highlighter} other {{0,number,integer} highlighters}}	{0,plural,=0 {} =1 {1 podkreślający} other {{0,number,integer} podkreślających}}
+{0}’s Highlight	Podkreślenie {0}
+{0}’s Note	Notatka {0}
+{0,select, false{Page {1}} true{Loc {1}} other {}}	{0,select, false{Strona {1}} true{Lokacja {1}} other {}}
+Cancel	Anuluj
+Chapter	Rozdział
+Delete	Usuń
+Edit	Edytuj
+Export Notes	Eksportuj notatki
+Exporting Notes...	Eksportowanie notatek...
+Go to Location	Idź do lokacji
+Note	Notatka
+Notes Exported	Notatki wyeksportowane
+Notes	Notatki
+Popular	Popularne
+Public	Publiczne
+Send	Wyślij
+Share	Udostępnij
+Sorry, we are having trouble with exporting your notes at the moment. Please try again later.	Przykro nam, mamy kłopoty z eksportem Twoich notatek w tej chwili. Spróbuj ponownie później.
+Sorry! We don't have an e-mail address for your Amazon account.	Przykro nam! Nie masz adresu e-mail dla konta Amazon.
+Thanks – the e-mail with your notes is on its way.	Dziękujemy – e-mail z Twoimi notatkami jest w drodze.
+Unable to Export Notes	Nie można wyeksportować notatek
+View	Zobacz
+We will send your notes and highlights to the e-mail address on your Amazon account.	Wyślemy Twoje notatki i podkreślenia na adres e-mail przypisany do Twojego konta Amazon.
+You do not have any notes or highlights.	Nie masz żadnych notatek ani podkreśleń.
+Yours	Twoje

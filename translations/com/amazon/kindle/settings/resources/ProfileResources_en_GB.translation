@@ -1,41 +1,41 @@
-{0, plural, =0 {{0,number,integer} Books } one {{0,number,integer} Book } other {{0,number,integer} Books }}{1,plural, =0 {} one {} other {from your household}}
-{0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}
-{0, select, male {Boy} female {Girl} other {Boy}}
-{0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}
-{0, select, male {You have not added any items to {1}'s Kindle for Kids.} female {You have not added any items to {1}'s Kindle for Kids.} other {You have not added any items to {1}'s Kindle for Kids.}}
-{0} will be removed from your Household on all your devices.
-{0} will no longer be able to access all your books by default. You can still share individual books with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?
-Access Achievements
-Add Items
-All progress and achievements will be lost upon deletion. The profile will also not be available on other devices. Are you sure you want to delete {0, select, male {<em>{1}ʼs</em> profile} female {<em>{1}ʼs</em> profile} other {<em>{1}ʼs</em> profile}}?
-All progress and achievements will be lost upon removal, but will be available on other devices. Are you sure you want to delete the profile, <em>{0}</em>, from this device?
-Are you sure you want to leave this Household? You will not be allowed to join or start a household with another adult for 180 days.~~~~You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted.~~~~You will no longer be able to administer child accounts that are part of this household.
-Cancel
-Daily Reading Goal
-Date of Birth
-Delete Profile
-Delete
-Devices
-Enabled
-Family Library 
-Finish
-First Name
-Gender
-Ignore
-Leave Household
-Let your child see their Achievement Reports.
-Manage payment methods associated with your Amazon account for purchases on Amazon.
-Name
-No Content
-Not Enabled
-Payment Information
-Select devices that should show {0}'s shared content.
-Set how many minutes your child should read for each day.
-Share All Books
-Share all your current and future purchased books with {0}.
-Share books and other digital content with {0}. 
-This will share all your current and future purchased books with {0}. You can still block individual books from being shared with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?
-Turn Off Book Sharing
-Turn Off Family Library
-Unrestricted Access to Wikipedia
-You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted. Do you want to continue?
+{0, plural, =0 {{0,number,integer} Books } one {{0,number,integer} Book } other {{0,number,integer} Books }}{1,plural, =0 {} one {} other {from your household}}	{0, plural, =0 {{0,number,integer} książek } one {{0,number,integer} książka } other {{0,number,integer} książek }}{1,plural, =0 {} one {} other {z Rodziny}}
+{0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}	{0, select, male {Biblioteka syna {1}} female {Biblioteka córki {1}} other {Biblioteka dziecka {1}}}
+{0, select, male {Boy} female {Girl} other {Boy}}	{0, select, male {Chłopiec} female {Dziewczynka} other {Chłopiec}}
+{0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}	{0, select, male {Nie dodałeś żadanej pozycji do profilu syna {1}.} female {Nie dodałeś żadanej pozycji do profilu córki {1}.} other {Nie dodałeś żadanej pozycji do profilu dziecka {1}.}}
+{0, select, male {You have not added any items to {1}'s Kindle for Kids.} female {You have not added any items to {1}'s Kindle for Kids.} other {You have not added any items to {1}'s Kindle for Kids.}}	{0, select, male {Nie dodałeś żadnych pozycji do {1} Kindle dla Dzieci.} female {Nie dodałeś żadnych pozycji do {1} Kindle dla Dzieci.} other {Nie dodałeś żadnych pozycji do {1} Kindle dla Dzieci.}}
+{0} will be removed from your Household on all your devices.	{0} został usunięty z Twojej Rodziny na wszystkich Twoich urządzeniach.
+{0} will no longer be able to access all your books by default. You can still share individual books with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?	{0} nie będzie miał dłużej dostępu do wszystkich Twoich książek. Wciąż możesz współdzielić pojedyncze książki z {0} na stronie Amazonu w działach Manage Your Content oraz Devices. Chcesz kontynuować?
+Access Achievements	Dostęp do osiągnięć
+Add Items	Dodaj pozycje
+All progress and achievements will be lost upon deletion. The profile will also not be available on other devices. Are you sure you want to delete {0, select, male {<em>{1}ʼs</em> profile} female {<em>{1}ʼs</em> profile} other {<em>{1}ʼs</em> profile}}?	Po usunięciu profilu zostaną utracone informacje o postępach i osiągnięciach. Profil zostanie usunięty również z innych urządzeń. Czy na pewno chcesz usunąć profil {0, select, male {syna <em>{1}</em>} female {córki <em>{1}</em>} other {dziecka <em>{1}</em>}}?
+All progress and achievements will be lost upon removal, but will be available on other devices. Are you sure you want to delete the profile, <em>{0}</em>, from this device?	Po usunięciu profilu zostaną utracone informacje o postępach i osiągnięciach. Pozostaną one jednak dostępne na innych urządzeniach. Czy na pewno chcesz usunąć profil <em>{0}</em> z tego urządzenia?
+Are you sure you want to leave this Household? You will not be allowed to join or start a household with another adult for 180 days.~~~~You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted.~~~~You will no longer be able to administer child accounts that are part of this household.	Na pewno chcesz opuścić Rodzinę? Jeśli to zrobisz nie będziesz mógł dołączyć do innej lub założyć nowej Rodziny przez najbliższe 180 dni.~~~~Ty i {0} utracicie wzajemny dostęp do książek i pozostałych zasobów cyfrowych. Ustawienia płatności skopiowane pomiędzy Twoimi kontami zostaną usunięte.~~~~Nie będziesz mógł dłużej kontrolować kont dzieci, które są częścią Rodziny.
+Cancel	Anuluj
+Daily Reading Goal	Dzienna dawka lektury
+Date of Birth	Data urodzenia
+Delete Profile	Usuń profil
+Delete	Usuń
+Devices	Urządzenia
+Enabled	Włączony
+Family Library 	Biblioteka rodzinna
+Finish	Koniec
+First Name	Imię
+Gender	Płeć
+Ignore	Ignoruj
+Leave Household	Opuść Rodzinę
+Let your child see their Achievement Reports.	Pozwól dziecku oglądać jego raporty osiągnięć.
+Manage payment methods associated with your Amazon account for purchases on Amazon.	Zarządzaj metodami płatności przypisanymi do Twojego konta w Amazonie.
+Name	Nazwa
+No Content	Brak zawartości
+Not Enabled	Wyłączony
+Payment Information	Informacje o płatnościach
+Select devices that should show {0}'s shared content.	Wybierz urządzenia, które powinny pokazywać zawartość współdzieloną przez {0}.
+Set how many minutes your child should read for each day.	Określ ile minut dziennie powinno czytać Twoje dziecko.
+Share All Books	Współdziel wszystkie książki
+Share all your current and future purchased books with {0}.	Współdziel wszystkie obecne i zakupione w przyszłości książki z {0}.
+Share books and other digital content with {0}. 	Współdziel książki i inną zawartość cyfrową z {0}.
+This will share all your current and future purchased books with {0}. You can still block individual books from being shared with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?	To spowoduje współdzielenie wszystkich obecnych oraz wszystkich zakupionych w przyszłości książek z {0}. Wciąż może zablokować pojedyncze książki współdzielone z {0} na stronie Amazonu w działach Mange Your Content oraz Devices. Chcesz kontynuować?
+Turn Off Book Sharing	Wyłącz udostępnianie książek
+Turn Off Family Library	Wyłącz bibliotekę rodzinną
+Unrestricted Access to Wikipedia	Nieograniczony dostęp do Wikipedii
+You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted. Do you want to continue?	Ty i {0} utracicie wzajemny dostęp do książek i pozostałych zasobów cyfrowych. Ustawienia płatności skopiowane pomiędzy Twoimi kontami zostaną usunięte. Chcesz kontynuować?

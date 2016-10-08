@@ -1,11 +1,11 @@
-{0,plural,=0 {{0,number,integer} Books You Marked as "Want to Read"} one {{0,number,integer} Book You Marked as "Want to Read"} other {{0,number,integer} Books You Marked as "Want to Read"}}
-{0,plural,=0 {Skip} one {Download {0,number,integer} Sample} other {Download {0,number,integer} Samples}}
-Are you sure you want to exit without selecting any books to read?
-Download your Samples
-Getting your Books
-No Books Selected
-Powered by Goodreads
-Powered by
-Suggestions Based on Your Ratings
-Thanks. Please tap below to download the ticked samples.
-Want to download
+{0,plural,=0 {{0,number,integer} Books You Marked as "Want to Read"} one {{0,number,integer} Book You Marked as "Want to Read"} other {{0,number,integer} Books You Marked as "Want to Read"}}	{0,plural,=0 {{0,number,integer} książek zaznaczyłeś jako „Chcę przeczytać”} one {{0,number,integer} książkę zaznaczyłeś jako „Chcę przeczytać”} few {{0,number,integer} książki zaznaczyłeś jako „Chcę przeczytać”} many {{0,number,integer} książek zaznaczyłeś jako „Chcę przeczytać”} other {{0,number,integer} książek zaznaczyłeś jako „Chcę przeczytać”}}
+{0,plural,=0 {Skip} one {Download {0,number,integer} Sample} other {Download {0,number,integer} Samples}}	{0,plural,=0 {Pomiń} one {Pobierz {0,number,integer} próbkę} few {Pobierz {0,number,integer} próbki} many {Pobierz {0,number,integer} próbek} other {Pobierz {0,number,integer} próbek}}
+Are you sure you want to exit without selecting any books to read?	Czy na pewno chcesz wyjść bez wybierania żadnej książki do przeczytania?
+Download your Samples	Pobierz swoje próbki
+Getting your Books	Dostarczanie Twoich książek
+No Books Selected	Nie wybrano żadnych książek
+Powered by Goodreads	Obsługiwany przez Goodreads
+Powered by	Obsługiwany przez
+Suggestions Based on Your Ratings	Sugestie oparte na Twoich ocenach
+Thanks. Please tap below to download the ticked samples.	Dzięki. Proszę dotknij poniżej, aby pobrać zaznaczone próbki.
+Want to download	Chcę pobrać

@@ -1,13 +1,13 @@
-Add Bookmark
-Add
-Bookmark: {0}
-Bookmarking Disabled
-Bookmarks are disabled for sample content.
-Bookmark
-Continue navigating to move to the preview pane
-Delete Bookmark
-Delete
-Loc {0}
-Page {0}
-Preview Pane for bookmark
-Selected
+Add Bookmark	Dodaj zakładkę
+Add	Dodaj
+Bookmark: {0}	Zakładka: {0}
+Bookmarking Disabled	Zakładki są wyłączone
+Bookmarks are disabled for sample content.	Zakładki są wyłączone dla próbek.
+Bookmark	Zakładka
+Continue navigating to move to the preview pane	Kontynuuj nawigację, aby przejść do panelu podglądu
+Delete Bookmark	Usuń zakładkę
+Delete	Usuń
+Loc {0}	Lok {0}
+Page {0}	Strona {0}
+Preview Pane for bookmark	Okienko podglądu dla zakładki
+Selected	Wybrano

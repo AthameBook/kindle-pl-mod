@@ -1,55 +1,55 @@
-An error occurred. If you purchased this item from Amazon, delete the item and download it from the Cloud.
-An error occurred. Some features may not work correctly.
-An error occurred while processing page data. Some features may not work. 
-Book Open Error
-Cannot Change Text Size
-Cannot Load Data
-Clipping Error
-Could not complete the search because your Kindle doesnʼt have enough free memory. To make more memory available, remove content from the Home screen.
-Dictionary not found for this book. 
-Error
-File Not Supported
-Insufficient Memory
-Item Not Available
-Item Not Supported
-Low Memory
-Memory Full
-No Dictionary Found
-Page cannot be displayed.
-Some data could not be displayed. 
-Some data could not be displayed.
-Sorry, you cannot change the size of text in the Section list.
-Table of Contents could not be loaded. 
-The item you were reading has been removed and is no longer available on your Kindle.
-The selected book could not be opened. Please try again.
-The selected item could not be opened. If you purchased this item from Amazon, delete the item and download it again from the Cloud on the Home screen.
-The selected item could not be opened. If you purchased this item from Amazon, you can try downloading the item again from the Cloud. For help, contact Kindle Customer Service at: www.amazon.com/devicesupport
-The selected item could not be opened. If you purchased this item from Amazon, you can try to download the item again from the Cloud. For additional help, please go to www.amazon.com/devicesupport
-The selected item could not be opened. The title is too large for the available memory. For help, please contact Kindle Customer Service at: www.amazon.com/devicesupport.
-The selected item could not be opened. Your Kindle doesnʼt have enough free memory.
-The selected item is missing important metadata and may cause system instability. For help, contact Kindle Customer Service at: www.amazon.com/devicesupport.
-There arenʼt any dictionaries on your device. To download a dictionary, go to the Cloud.
-This {0} action could not be performed.
-This item cannot be opened because it is licensed to a different user. Delete the item and download it from the Cloud or purchase a copy from the Kindle Store.
-This operation cannot be executed now. 
-Unable to Close Item
-Unable to close previous book. If some features do not work correctly, go to Home and reopen the book.
-Unable to Complete Search
-Unable to go to requested location. 
-Unable to Load Components
-Unable to load necessary system components. If you purchased this item from Amazon, delete the item and download it again from the Cloud.
-Unable to load necessary system components.
-Unable to load your preferences. 
-Unable to make this change.
-Unable to Open Item
-Unable to Perform Action
-Unable to save clipping. You have reached the clipping limit for this book.
-Unable to save clipping. You have reached the clipping limit set by the publisher{0,choice,0#|1#, {1}}.
-Unable to Sync to Furthest Page Read. 
-Unable to Sync
-Unable to update Home.
-You will not be able to add/share {0} this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.
-Your Kindle does not have enough free memory and your bookmark could not be saved. To make more memory available, remove content from the Home screen.
-Your Kindle does not have enough free memory and your highlight could not be saved. To make more memory available, remove content from the Home screen.
-Your Kindle does not have enough free memory and your note could not be saved. To make more memory available, remove content from the Home screen.
-Your search cannot be completed as this item has not yet been indexed. Please try again later.
+An error occurred. If you purchased this item from Amazon, delete the item and download it from the Cloud.	Wystąpił błąd. Jeśli pozycja została zakupiona w Amazon, usuń ją i pobierz ponownie z chmury.
+An error occurred. Some features may not work correctly.	Wystąpił błąd. Część funkcji może działać nieprawidłowo. 
+An error occurred while processing page data. Some features may not work. 	Wystąpił błąd przy przetwarzaniu danych. Niektóre funkcje mogą nie działać.
+Book Open Error	Błąd otwierania książki
+Cannot Change Text Size	Nie można zmienić rozmiaru tekstu
+Cannot Load Data	Nie mogę załadować danych
+Clipping Error	Błąd podczas wycinania
+Could not complete the search because your Kindle doesnʼt have enough free memory. To make more memory available, remove content from the Home screen.	Nie udało się zakończyć wyszukiwania ponieważ brakuje wolnej pamięci. Spróbuj zwolnić pamięć usuwając część zawartości z Kindle.
+Dictionary not found for this book. 	Brak słownika dla tej książki.
+Error	Błąd
+File Not Supported	Plik nie wspierany
+Insufficient Memory	Za mało pamięci
+Item Not Available	Pozycja niedostępna
+Item Not Supported	Pozycja nieobsługiwana
+Low Memory	Mało pamięci
+Memory Full	Pamięć pełna
+No Dictionary Found	Żaden słownik nie istnieje
+Page cannot be displayed.	Strona nie może być wyświetlona.
+Some data could not be displayed. 	Część danych nie mogła być wyświetlona.
+Some data could not be displayed.	Część danych nie mogła być wyświetlona.
+Sorry, you cannot change the size of text in the Section list.	Przepraszamy, nie możesz zmienić rozmiaru tekstu na liście działów.
+Table of Contents could not be loaded. 	Nie można załadować spisu treści.
+The item you were reading has been removed and is no longer available on your Kindle.	Pozycja, którą czytałeś, została usunięta i nie jest już dostępna na czytniku.
+The selected book could not be opened. Please try again.	Nie można otworzyć wybranej książki. Proszę spróbować jeszcze raz.
+The selected item could not be opened. If you purchased this item from Amazon, delete the item and download it again from the Cloud on the Home screen.	Nie można otworzyć wybranej pozycji. Jeśli zakupiłeś tę pozycję w Amazon, usuń ją i pobierz ponownie z chmury na głównym ekranie.
+The selected item could not be opened. If you purchased this item from Amazon, you can try downloading the item again from the Cloud. For help, contact Kindle Customer Service at: www.amazon.com/devicesupport	Nie można otworzyć wybranego elementu. Jeśli zakupiłeś ten element w Amazonie możesz spróbować pobrać go ponownie z chmury. W celu uzyskania pomocy skontaktuj się z działem obsługi klienta Kindle na www.amazon.com/devicesupport
+The selected item could not be opened. If you purchased this item from Amazon, you can try to download the item again from the Cloud. For additional help, please go to www.amazon.com/devicesupport	Nie można otworzyć wybranego elementu. Jeśli zakupiłeś ten element w Amazonie możesz spróbować pobrać go ponownie z chmury. W celu uzyskania dodatkowej pomocy wejdź na stronę www.amazon.com/devicesupport
+The selected item could not be opened. The title is too large for the available memory. For help, please contact Kindle Customer Service at: www.amazon.com/devicesupport.	W wybranej pozycji brak ważnych metadanych co może spowodować niestabilność systemu. Skontaktuj się z pomocą na: www.amazon.com/devicesupport.
+The selected item could not be opened. Your Kindle doesnʼt have enough free memory.	Nie można otworzyć wybranej pozycji. Twój Kindle nie ma wystarczającej ilości wolnej pamięci.
+The selected item is missing important metadata and may cause system instability. For help, contact Kindle Customer Service at: www.amazon.com/devicesupport.	W wybranej pozycji brak ważnych metadanych co może spowodować niestabilność systemu. Skontaktuj się z pomocą na: www.amazon.com/devicesupport.
+There arenʼt any dictionaries on your device. To download a dictionary, go to the Cloud.	Na urządzeniu nie ma żadnych słowników. Przejdź do chmury, aby pobrać słownik.
+This {0} action could not be performed.	Ta akcja {0} nie może zostać wykonana.
+This item cannot be opened because it is licensed to a different user. Delete the item and download it from the Cloud or purchase a copy from the Kindle Store.	Nie można otworzyć wybranej pozycji ponieważ licencja należy do innego użytkownika. Usuń tę pozycję i pobierz ją z chmury lub zakup swoją kopię w sklepie Kindle.
+This operation cannot be executed now. 	Teraz nie można wykonać tej operacji.
+Unable to Close Item	Nie można zamknąć pozycji
+Unable to close previous book. If some features do not work correctly, go to Home and reopen the book.	Nie powiodło się zamknięcie poprzedniej książki. Jeśli jakieś funkcje będą działać nieprawidłowo, to wróć do ekranu głównego i ponownie otwórz książkę.
+Unable to Complete Search	Nie można dokończyć wyszukiwania
+Unable to go to requested location. 	Nie można przejść do wybranej lokacji.
+Unable to Load Components	Nie można załadować komponentów
+Unable to load necessary system components. If you purchased this item from Amazon, delete the item and download it again from the Cloud.	Nie udało się załadować niezbędnych składników systemu. Jeśli pozycja została zakupiona w Amazon, to usuń ją i pobierz ponownie z chmury.
+Unable to load necessary system components.	Nie można załadować wymaganych komponentów systemu.
+Unable to load your preferences. 	Nie można załadować Twoich ustawień.
+Unable to make this change.	Nie można wykonać tej zmiany.
+Unable to Open Item	Nie można otworzyć pozycji
+Unable to Perform Action	Nie można wykonać działania
+Unable to save clipping. You have reached the clipping limit for this book.	Nie można zapisać wycinka. Osiągnąłeś limit wycinków dla tej książki.
+Unable to save clipping. You have reached the clipping limit set by the publisher{0,choice,0#|1#, {1}}.	Nie można zapisać wycinka. Dotarłeś do limitu wycinków ustawionego przez wydawcę {0,choice,0#|1#, {1}}.
+Unable to Sync to Furthest Page Read. 	Nie można zsynchronizować do ostatniej strony.
+Unable to Sync	Nie można zsynchronizować
+Unable to update Home.	Nie można zaktualizować głównego ekranu.
+You will not be able to add/share {0} this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.	Nie możesz dodać/udostępnić {0} tej pozycji ponieważ na karcie pamięci SD brakuje miejsca. Proszę zwolnić miejsce na karcie pamięci SD przez usunięcie części pozycji.
+Your Kindle does not have enough free memory and your bookmark could not be saved. To make more memory available, remove content from the Home screen.	Zakładka nie została zapisana z powodu braku wolnej pamięci. Spróbuj zwolnić pamięć usuwająć część zawartości z Twojego Kindle.
+Your Kindle does not have enough free memory and your highlight could not be saved. To make more memory available, remove content from the Home screen.	Podkreślenie nie zostało zapisane z powodu braku wolnej pamięci. Spróbuj zwolnić pamięć usuwająć część zawartości z Twojego Kindle.
+Your Kindle does not have enough free memory and your note could not be saved. To make more memory available, remove content from the Home screen.	Notatka nie została zapisana z powodu braku wolnej pamięci. Spróbuj zwolnić pamięć usuwająć część zawartości z Twojego Kindle.
+Your search cannot be completed as this item has not yet been indexed. Please try again later.	Twoje wyszukiwanie nie może być zakończone, ponieważ pozycja nie została jeszcze zindeksowana. Spróbuj później.

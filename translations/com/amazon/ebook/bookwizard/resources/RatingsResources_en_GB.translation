@@ -1,11 +1,11 @@
-{0} by {1}
-{0,plural,=0 {{0, number,integer} star} one {{0, number,integer} star} other {{0, number,integer} stars}}
-Books Rated: {0, number, integer}
-Done exploring?
-I'm Done
-Now, rate some books you've read or mark books you're interested in as "Want to Read". Rate at least 10 books to get the best recommendations.
-Rate More
-SHOW 3 MORE BOOKS
-Step 2 of 2
-WANT TO READ
-You've rated fewer than 10 books. Rate more books for better recommendations.
+{0} by {1}	„{0}” autorstwa {1}
+{0,plural,=0 {{0, number,integer} star} one {{0, number,integer} star} other {{0, number,integer} stars}}	{0,plural,=0 {{0, number,integer} gwiazdek} one {{0, number,integer} gwiazdka} few {{0, number,integer} gwiazdki} many {{0, number,integer} gwiazdek} other {{0, number,integer} gwiazdek}}
+Books Rated: {0, number, integer}	Książki ocenione: {0, number, integer}
+Done exploring?	Zakończyć odkrywanie?
+I'm Done	Skończyłem
+Now, rate some books you've read or mark books you're interested in as "Want to Read". Rate at least 10 books to get the best recommendations.	Teraz oceń kilka książek, które przeczytałeś lub zaznacz książki, które Cię interesują jako „Chcę przeczytać”. Oceń przynajmniej 10 książek, aby otrzymać najlepsze rekomendacje.
+Rate More	Oceń więcej
+SHOW 3 MORE BOOKS	POKAŻ 3 KOLEJNE KSIĄŻKI
+Step 2 of 2	Krok 2 z 2
+WANT TO READ	CHCĘ PRZECZYTAĆ
+You've rated fewer than 10 books. Rate more books for better recommendations.	Oceniłeś mniej niż 10 książek. Oceń więcej książek, aby mieć lepsze rekomendacje.

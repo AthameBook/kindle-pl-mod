@@ -1,27 +1,27 @@
-{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}
-Abc
-Archived Items
-Blog
-Book
-Collection
-COLLECTION
-COMPLETE
-Dictionaries
-Dictionary
-DOWNLOADING...
-EXPIRING
-Images
-Letter
-Magazine
-MUSIC
-My Clippings
-Newspaper
-Notice
-ON LOAN
-OPENING...
-Periodical Back Issues
-Personal
-Receipt
-Rental
-WHITE
+{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}	{0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} few {{0,number,integer} wydania} many {{0,number,integer} wydań} other {{0,number,integer} wydań}}
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} few {{0,number,integer} pozycje} many {{0,number,integer} pozycji} other {{0,number,integer} pozycji}}
+Abc	Abc
+Archived Items	Zarchiwizowane pozycje
+Blog	Blog
+Book	Książka
+Collection	Kolekcja
+COLLECTION	KOLEKCJA
+COMPLETE	UKOŃCZONY
+Dictionaries	Słowniki
+Dictionary	Słownik
+DOWNLOADING...	POBIERANIE...
+EXPIRING	WYGASAJĄCY
+Images	Obrazki
+Letter	List
+Magazine	Czasopismo
+MUSIC	MUZYKA
+My Clippings	Moje wycinki
+Newspaper	Gazeta
+Notice	Ogłoszenie
+ON LOAN	WYPOŻYCZONY
+OPENING...	OTWIERANIE...
+Periodical Back Issues	Archiwalne numery czasopisma
+Personal	Osobiste
+Receipt	Przepis
+Rental	Wypożyczanie
+WHITE	BIAŁY

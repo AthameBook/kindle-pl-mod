@@ -1,6 +1,6 @@
-{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}
-Compatible Devices
-Devices
-No devices found.
-Select your devices that should display {0}'s shared content.
-<ul>Don't see all your devices here?</ul>
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	{0,plural,=0 {1 z 1} one {{1,number,integer} z {2,number,integer}} other {{1,number,integer} z {2,number,integer}}}
+Compatible Devices	Urządzenia kompatybilne
+Devices	Urządzenia
+No devices found.	Brak urządzeń
+Select your devices that should display {0}'s shared content.	Wybierz swoje urządzenia, które powinny wyświetlać dla {0} udostepnione treści.
+<ul>Don't see all your devices here?</ul>	<ul>Nie widzisz tutaj wszystkich swoich urządzeń?</ul>

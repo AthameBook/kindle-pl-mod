@@ -1,11 +1,11 @@
-{0,plural,=0 {} one {{0,number,integer} more issue in the Cloud} other {{0,number,integer} more issues in the Cloud}}
-{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}
-Issues
-ISSUES
-My Items
-MY ITEMS
-No issues are available in the Cloud. Tap Downloaded to view issues on your device.
-No issues are on this device. Tap All to download issues.
-No items from this collection are available in the Cloud. Tap Downloaded to view items on your device or tap Menu to add items.
-No items from this collection are on this device. Tap All to download items or tap Menu to add items.
-There arenʼt any items in this Collection.~~Tap Menu to add items.
+{0,plural,=0 {} one {{0,number,integer} more issue in the Cloud} other {{0,number,integer} more issues in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} wydanie więcej w chmurze} few {{0,number,integer} wydania więcej w chmurze} many {{0,number,integer} wydań więcej w chmurze} other {{0,number,integer} wydań więcej w chmurze}}
+{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} pozycja więcej w chmurze} few {{0,number,integer} pozycje więcej w chmurze} many {{0,number,integer} pozycji więcej w chmurze} other {{0,number,integer} pozycji więcej w chmurze}}
+Issues	Wydania
+ISSUES	WYDANIA
+My Items	Moje pozycje
+MY ITEMS	MOJE POZYCJE
+No issues are available in the Cloud. Tap Downloaded to view issues on your device.	W Chmurze nie ma żadnych wydań. Wybierz Czytnik, aby zobaczyć wydania na swoim czytniku.
+No issues are on this device. Tap All to download issues.	Na czytniku nie ma żadnych wydań. Wybierz Chmura, aby pobrać wydania.
+No items from this collection are available in the Cloud. Tap Downloaded to view items on your device or tap Menu to add items.	W Chmurze nie ma pozycji z tej kolekcji. Wybierz Czytnik, aby zobaczyć pozycje na czytniku lub dotknij menu, aby dodać pozycje.
+No items from this collection are on this device. Tap All to download items or tap Menu to add items.	Na czytniku nie ma pozycji z tej kolekcji. Wybierz Chmura, aby pobrać pozycje lub dotknij menu, aby dodać pozycje.
+There arenʼt any items in this Collection.~~Tap Menu to add items.	W tej kolekcji nie ma żadnych pozycji.~~Dotknij menu, aby dodać pozycje.

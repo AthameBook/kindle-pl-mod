@@ -1,7 +1,7 @@
-{0,plural,=0 {You've picked 10 books. Tap 'Done' to start reading.} one {Choose up to {0,number,integer} more book. Tap 'Done' when you are ready to start reading.} other {Choose up to {0,number,integer} more books. Tap 'Done' when you are ready to start reading.}}
-Book information
-DONE
-Sorry, you can only pick 10 books at a time. Unselect a book before picking a new one.
-Step 2 of 2
-Unable to Select Book
-Welcome to Kindle Unlimited! Here are some of the top books in the genres you picked. Choose up to 10 books and start reading. 
+{0,plural,=0 {You've picked 10 books. Tap 'Done' to start reading.} one {Choose up to {0,number,integer} more book. Tap 'Done' when you are ready to start reading.} other {Choose up to {0,number,integer} more books. Tap 'Done' when you are ready to start reading.}}	{0,plural,=0 {Wybrałeś 10 książek. Dotnij „Gotowe”, aby zacząć czytać.} one {Możesz wybrać jeszcze {0,number,integer} książek. Dotknij „Gotowe” kiedy będziesz chciał rozpocząć czytanie.} other {Możesz wybrać jeszcze {0,number,integer} książek. Dotknij „Gotowe” kiedy będziesz chciał rozpocząć czytanie.}}
+Book information	Informacje o książce
+DONE	GOTOWE
+Sorry, you can only pick 10 books at a time. Unselect a book before picking a new one.	Przepraszamy, możesz jednorazowo zaznaczyć tylko 10 książek. Odznacz jakąś książkę przez zaznaczeniem kolejnej.
+Step 2 of 2	Krok 2 z 2
+Unable to Select Book	Nie można wybrać książki
+Welcome to Kindle Unlimited! Here are some of the top books in the genres you picked. Choose up to 10 books and start reading. 	Witaj w Kindle bez ograniczeń! Są tu najpopularniejsze książki z kategorii, które wybrałeś. Wskaż do 10 książek i zacznij czytać. 

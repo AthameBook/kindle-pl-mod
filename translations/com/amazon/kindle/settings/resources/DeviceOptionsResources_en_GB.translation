@@ -1,20 +1,20 @@
-{0, select, true {Set up Kindle for Kids and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store and Cloud.}}}}
-{0, select, true {Set up Kindle FreeTime and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}}}
-Device Options
-Device Passcode
-Device Time
-Enabled
-Language and Dictionaries
-Manage the Nightlight setting.
-Manage voice guidance settings, including turning VoiceView on and off, reading speed, volume and tutorial.
-Manage your device name, personal info, device time, content recommendations and Whispersync for Books, and view your Send-to-Kindle e-mail address.
-Manage your device name, personal info, device time, content recommendations, Whispersync for Books and VoiceView settings, and view your Send-to-Kindle e-mail address.
-Manage your Kindle language, keyboards and dictionaries.
-Not Enabled
-Parental Controls Locked
-Parental Controls
-Personalise Your Kindle
-Screen Light
-Set a passcode to protect the content on your Kindle.
-Set the local time on your Kindle.
-This is a managed device. Parental Controls are locked. For information, contact: {0}.
+{0, select, true {Set up Kindle for Kids and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store and Cloud.}}}}	{0, select, true {Skonfiguruj Kindle dla Dzieci i ogranicz dostęp do {1, select, true {przeglądarki internetowej, sklepu Kindle, chmury i Goodreads na Kindle.} other {przeglądarki internetowej, sklepu Kindle, Chmury.}}} other {Ogranicz dostęp do {1, select, true {przeglądarki internetowej, sklepu Kindle, Chmury i Goodreads na Kindle.} other {przeglądarki internetowej, sklepu Kindle i Chmury.}}}}
+{0, select, true {Set up Kindle FreeTime and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}}}	{0, select, true {Skonfiguruj Kindle FreeTime i ogranicz dostęp do {1, select, true {przeglądarki internetowej, sklepu Kindle, chmury i Goodreads na Kindle.} other {przeglądarki internetowej, sklepu Kindle, Chmury.}}} other {Ogranicz dostęp do {1, select, true {przeglądarki internetowej, sklepu Kindle, Chmury i Goodreads na Kindle.} other {przeglądarki internetowej, sklepu Kindle i Chmury.}}}}
+Device Options	Opcje urządzenia
+Device Passcode	Kod dostępu do urządzenia
+Device Time	Czas
+Enabled	Włączone
+Language and Dictionaries	Język i słowniki
+Manage the Nightlight setting.	Zarządzaj ustawieniami oświetlenia nocnego.
+Manage voice guidance settings, including turning VoiceView on and off, reading speed, volume and tutorial.	Zarządzaj ustawieniami wskazówek głosowych, m.in. włączaniem i wyłączaniem VoiceView, szybkością czytania, głośnością i samouczkiem.
+Manage your device name, personal info, device time, content recommendations and Whispersync for Books, and view your Send-to-Kindle e-mail address.	Zarządzaj nazwą swojego urządzenia, informacjami osobistymi, ustawieniami czasu, rekomendacją zawartości, funkcją Whispersync for Books oraz zobacz swój adres e-mail Send-to-Kindle.
+Manage your device name, personal info, device time, content recommendations, Whispersync for Books and VoiceView settings, and view your Send-to-Kindle e-mail address.	Zarządzaj nazwą swojego urządzenia, informacjami osobistymi, ustawieniami czasu, rekomendacją zawartości, funkcją Whispersync for Books, ustawieniami VoiceView oraz zobacz swój adres e-mail Send-to-Kindle.
+Manage your Kindle language, keyboards and dictionaries.	Zarządzaj językiem, klawiaturami i słownikami.
+Not Enabled	Wyłączone
+Parental Controls Locked	Kontrola rodzicielska jest zablokowana
+Parental Controls	Kontrola rodzicielska
+Personalise Your Kindle	Spersonalizuj swojego Kindle
+Screen Light	Oświetlenie ekranu
+Set a passcode to protect the content on your Kindle.	Ustaw kod dostępu, aby chronić swojego Kindle.
+Set the local time on your Kindle.	Ustaw czas na swoim Kindle.
+This is a managed device. Parental Controls are locked. For information, contact: {0}.	To urządzenie jest zdalnie zarządzane. Kontrola rodzicielska jest zablokowana. Kontakt: {0}.

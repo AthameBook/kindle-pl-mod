@@ -1,14 +1,14 @@
-411 Page
-611 Page
-711 Page
-Available Wireless Providers
-Cancel
-Close
-Currently you are connected to: {0}~~Select Switch Automatically to allow your Kindle to automatically choose the best wireless provider (default).
-Page {0,number,integer} of {1,number,integer}
-Retrieving data…
-Scanning for available wireless providers. This may take several minutes...
-Switch automatically (recommended)
-Switching Wireless Providers
-Unknown
-Your Kindle will lose its connection during this process. Manually switching wireless providers may take several minutes to complete, and your Kindle may not reconnect successfully to the Amazon Whispernet network.~~~~Do you wish to continue?
+411 Page	Strona 411
+611 Page	Strona 611
+711 Page	Strona 711
+Available Wireless Providers	Dostępne połączenia bezprzewodowe
+Cancel	Anuluj
+Close	Zamknij
+Currently you are connected to: {0}~~Select Switch Automatically to allow your Kindle to automatically choose the best wireless provider (default).	Obecnie jesteś połączony z: {0}~~Wybierz Automatyczne przełączanie, aby Twój Kindle wybierał najlepszą dostępną sieć bezprzewodową (domyślne).
+Page {0,number,integer} of {1,number,integer}	Strona {0,number,integer} z {1,number,integer}
+Retrieving data…	Pobieranie danych...
+Scanning for available wireless providers. This may take several minutes...	Skanowanie w poszukiwaniu dostępnych sieci bezprzewodowych. Może to potrwać kilka minut...
+Switch automatically (recommended)	Automatyczne przełączanie (zalecane)
+Switching Wireless Providers	Zmiana połączenia bezprzewodowego
+Unknown	Nieznany
+Your Kindle will lose its connection during this process. Manually switching wireless providers may take several minutes to complete, and your Kindle may not reconnect successfully to the Amazon Whispernet network.~~~~Do you wish to continue?	W trakcie tego procesu Twój Kindle straci połączenie z siecią. Ręczne przełączanie sieci bezprzewodowych może potrwać kilka minut. Może się również zdarzyć, że Twój Kindle nie połączy się ponownie z siecią Amazon Whispernet.~~~~Czy chcesz kontynuować?

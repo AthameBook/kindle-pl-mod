@@ -1,37 +1,37 @@
-{0,select, facebook {You are now linked to Facebook.} twitter {You are now linked to Twitter.} other {You are now linked to Facebook and Twitter.}} You can always change your settings later.
-A connection error occurred. Please try again.
-An error occurred. Please verify your login information.
-Back
-By connecting your Weibo account to Amazon, you will enable Amazon to obtain your personal information, see who you follow, post messages on your Weibo account and obtain your comments. Weibo allows you to revoke access to an application at any time from the My Applications section of the Applications tab on Weibo.com.
-By linking with Twitter, you will be able to tweet from Amazon devices and applications and you will enable Amazon to access your tweets, see who you follow, follow new people and update your profile information.
-Cancel
-Confirming your registration…
-Connect Later
-Connecting your Facebook account with Amazon means that Amazon may access your name, public profile, friend list, and e-mail address.~~~~Amazon will also be able to post on Facebook on your behalf from Amazon websites, applications, and devices.
-Connection Error
-Facebook E-mail
-Facebook Password
-Hide password
-Link Amazon with Facebook
-Link Amazon with Sina Weibo
-Link Amazon with Twitter
-Link your Facebook account
-Link Your Facebook Account
-Link Your Sina Weibo Account
-Link your social network accounts with your Amazon account to share with your friends.~~~~Linking also allows your friends to see your past reviews, public Wish Lists and other public activities on Amazon, including those submitted under an anonymous name.
-Link your social networks
-Link your Twitter account
-Link Your Twitter Account
-Link
-Login Verification
-Next
-Password
-Please enter a different Facebook security code. If you do not have one, go to facebook.com/help. You can always link with Facebook later in Settings.
-Security Code
-Social Networks
-Sorry, you have been locked out of your account. Please visit facebook.com/help for more information.
-The code you entered is incorrect. Please try again. If you do not have a security code, please visit facebook.com/help
-Username or E-mail
-Verification Failed
-You have enabled Login Approvals. Please enter the security code from Facebook. If you do not have a security code, please visit facebook.com/help
-Your Facebook account requires attention. Please visit facebook.com and sign in before proceeding here.
+{0,select, facebook {You are now linked to Facebook.} twitter {You are now linked to Twitter.} other {You are now linked to Facebook and Twitter.}} You can always change your settings later.	{0,select, facebook {Jesteś podłączony do Facebooka.} twitter {Jesteś podłączony do Twittera.} other {Jesteś podłączony do Facebooka i Twittera.}} Zawsze możesz zmienić swoje ustawienia później.
+A connection error occurred. Please try again.	Wystąpił błąd połączenia. Spróbuj ponownie później.
+An error occurred. Please verify your login information.	Wystąpił błąd. Prosimy zweryfikować dane logowania.
+Back	wstecz
+By connecting your Weibo account to Amazon, you will enable Amazon to obtain your personal information, see who you follow, post messages on your Weibo account and obtain your comments. Weibo allows you to revoke access to an application at any time from the My Applications section of the Applications tab on Weibo.com.	Przez połączenie konta Weibo z Amazonem, dajesz Amazonowi dostęp do Twoich informacji osobistych, będą widzieli kogo obserwujesz, wysyłać wiadomości z Twojego konta Weibo i otrzymywać Twoje komentarze. Weibo pozwala Ci na odebranie dostępu do aplikacji w dowolnej chwili w dziale Applications w zakładce Applications na Weibo.com.
+By linking with Twitter, you will be able to tweet from Amazon devices and applications and you will enable Amazon to access your tweets, see who you follow, follow new people and update your profile information.	Przez połączenie z Twitterem będziesz mógł tweetować z urządzeń i aplikacji Amazon i dajesz również Amazonowi dostęp do swoich tweetów, będą widzieli kto Cię obserwuje, obserwować nowe osoby i aktualizować Twoje informacje w profilu.
+Cancel	Anuluj
+Confirming your registration…	Potwierdzenie Twojej rejestracji...
+Connect Later	Połącz się później
+Connecting your Facebook account with Amazon means that Amazon may access your name, public profile, friend list, and e-mail address.~~~~Amazon will also be able to post on Facebook on your behalf from Amazon websites, applications, and devices.	Podłączenie swojego konta z Facebooka do Amazon oznacza, że Amazon otrzyma dostęp do Twojej nazwy, publicznego profilu, listy znajomych i adresu e-mail.~~~~Ponadto Amazon będzie mógł publikować wiadomości w Twoim imieniu ze strony internetowej, aplikacji i urządzeń.
+Connection Error	Błąd połączenia
+Facebook E-mail	E-mail z Facebooka
+Facebook Password	Hasło do Facebooka
+Hide password	Ukryj hasło
+Link Amazon with Facebook	Połącz Amazon z Facebookiem
+Link Amazon with Sina Weibo	Połącz Amazon z Sina Weibo
+Link Amazon with Twitter	Połącz Amazon z Twitterem
+Link your Facebook account	Połącz swoje konto z Facebooka
+Link Your Facebook Account	Połącz swoje konto z Facebooka
+Link Your Sina Weibo Account	Podłącz Twoje konto Sina Weibo
+Link your social network accounts with your Amazon account to share with your friends.~~~~Linking also allows your friends to see your past reviews, public Wish Lists and other public activities on Amazon, including those submitted under an anonymous name.	Połącz swoje konta sieci społecznościowych z kontem Amazon, aby udostępnić informacje swoim znajomym.~~~~Połączenie pozwoli znajomym przeglądać Twoje recenzje, listy życzeń i inne aktywności z Amazon, również te które zostały wykonane anonimowo.
+Link your social networks	Połącz swoje konta sieci społecznościowych
+Link your Twitter account	Połącz swoje konto z Twittera
+Link Your Twitter Account	Połącz swoje konto z Twittera
+Link	Połącz
+Login Verification	Weryfikacja loginu
+Next	Dalej
+Password	Hasło
+Please enter a different Facebook security code. If you do not have one, go to facebook.com/help. You can always link with Facebook later in Settings.	Proszę wprowadzić inny kod zabezpieczający Facebooka. Jeśli go nie posiadasz, przejdź do facebook.com/help. Połączenie z Facebookiem możesz ustawić później w Ustawieniach.
+Security Code	Kod bezpieczeństwa
+Social Networks	Sieci społecznościowe
+Sorry, you have been locked out of your account. Please visit facebook.com/help for more information.	Przepraszamy, ale Twoje konto zostało zablokowane. Aby uzyskać więcej informacji odwiedź stronę facebook.com/help.
+The code you entered is incorrect. Please try again. If you do not have a security code, please visit facebook.com/help	Wprowadzony kod jest nieprawidłowy. Spróbuj ponownie później. Jeśli nie posiadasz kodu zabezpieczającego, odwiedź facebook.com/help
+Username or E-mail	Nazwa użytkownika lub e-mail
+Verification Failed	Nieudana weryfikacja
+You have enabled Login Approvals. Please enter the security code from Facebook. If you do not have a security code, please visit facebook.com/help	Musisz włączyć aprobatę logowania. Wprowadź kod zabezpieczający z Facebook. Jeśli nie posiadasz kodu zabezpieczającego, odwiedź facebook.com/help
+Your Facebook account requires attention. Please visit facebook.com and sign in before proceeding here.	Twoje konto Facebooka wymaga uwagi. Odwiedź stronę facebook.com i zaloguj się przed kontynuowaniem tutaj.

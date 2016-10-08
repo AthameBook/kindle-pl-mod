@@ -1,19 +1,19 @@
-{0, select, create { We're currently experiencing problems creating new profiles, please try again later.}  update { We're currently experiencing problems editing profiles, please try again later.} remove { We're currently experiencing problems deleting profiles, please try again later.}  other { We're currently experiencing problems, please try again later.} }
-All adults in this household must belong to the same Country of Residence and Preferred Marketplace. Please change your Amazon account settings to match the other adult in the household and try again. 
-Limit Reached
-Merging Households
-Server Error
-The name you entered included characters that are not supported. Please enter the name again.
-This Amazon account is already part of another household and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.
-This Amazon account is already part of another household. Merging this household will exceed the limit of 4 child profiles and canʼt be completed. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.
-This Amazon account is already part of this household and cannot be added. Each adult in a household must have a unique Amazon account.
-This Amazon account was part of another household in the last 180 days and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.
-This household had another adult added in the last 180 days, so a new adult cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.
-Unable to Add
-Unsupported Characters
-Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.
-We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.
-You have reached the limit of adult profiles allowed for Kindle for Kids.
-You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.
-You have reached the limit on the number of adult profiles allowed for FreeTime.
-You have reached the limit on the number of children who can register with FreeTime.
+{0, select, create { We're currently experiencing problems creating new profiles, please try again later.}  update { We're currently experiencing problems editing profiles, please try again later.} remove { We're currently experiencing problems deleting profiles, please try again later.}  other { We're currently experiencing problems, please try again later.} }	{0, select, create { Aktualnie występują problemy z tworzeniem nowych profili. Spróbuj ponownie później.}  update { Aktualnie występują problemy z edytowaniem profili. Spróbuj ponownie później.} remove { Aktualnie występują problemy z usuwaniem profili. Spróbuj ponownie później.}  other { Aktualnie występują problemy. Spróbuj ponownie później.} }
+All adults in this household must belong to the same Country of Residence and Preferred Marketplace. Please change your Amazon account settings to match the other adult in the household and try again. 	Wszyscy dorośli w tej Rodzinie muszą posiadać ten sam kraj pobytu w Preferred Marketplace. Proszę zmienić ustawienia swojego konta Amazon, aby zachować zgodność z innymi dorosłymi tej Rodziny i spróbować ponownie. 
+Limit Reached	Limit został osiągnięty
+Merging Households	Łączenie Rodzin
+Server Error	Błąd serwera
+The name you entered included characters that are not supported. Please enter the name again.	Nazwa, którą wprowadziłeś zawiera niedozwolone znaki. Proszę ponownie wprowadzić nazwę.
+This Amazon account is already part of another household and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	To konto Amazon należy już do innej Rodziny i nie może być dodane. Prosimy o kontakt z obsługą klienta Kindle na www.amazon.com/devicesupport dla dalszej pomocy.
+This Amazon account is already part of another household. Merging this household will exceed the limit of 4 child profiles and canʼt be completed. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	To konto Amazon należy do innej Rodziny. Łączenie tej Rodziny przekroczyłoby limit 4 dziecięcych profili i nie może zostać zakończone. Prosimy o kontakt z obsługą klienta Kindle na www.amazon.com/devicesupport dla dalszej pomocy.
+This Amazon account is already part of this household and cannot be added. Each adult in a household must have a unique Amazon account.	To konto Amazon należy do innej Rodziny i nie może być dodane. Każdy dorosły w Rodzinie musi posiadać unikatowe konto Amazon.
+This Amazon account was part of another household in the last 180 days and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	To konto Amazon było częścią innej Rodziny w ostatnich 180 dniach i nie może być dodane. Prosimy o kontakt z obsługą klienta Kindle na www.amazon.com/devicesupport dla dalszej pomocy.
+This household had another adult added in the last 180 days, so a new adult cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	Ta Rodzina ma innego dorosłego dodanego w ostatnich 180 dniach, więc nowy dorosły nie może być dodany. Prosimy o kontakt z obsługą klienta Kindle na www.amazon.com/devicesupport dla dalszej pomocy.
+Unable to Add	Nie udało się dodać
+Unsupported Characters	Niedozwolone znaki
+Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z FreeTime bez ograniczeń. Prosimy spróbować później.
+We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z Kindle dla Dzieci bez ograniczeń. Prosimy spróbować później.
+You have reached the limit of adult profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dorosłych dozwolony dla Kindle dla Dzieci.
+You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dzieci dozwolony dla Kindle dla Dzieci.
+You have reached the limit on the number of adult profiles allowed for FreeTime.	Osiągnąłeś limit liczby profili dla dorosłych dozwolony w Kindle FreeTime.
+You have reached the limit on the number of children who can register with FreeTime.	Osiągnąłeś limit liczby dzieci, które można zarejestrować w Kindle FreeTime.

@@ -1,11 +1,11 @@
-{0,number,integer} of {1,number,integer}
-Book Results ({0,number,integer})
-Go To
-Location {0} · Page {1}
-Location {0} {2} Page {1}
-Location {0}
-Search failed.
-Search Results ({0,number,integer})
-Searching…
-There are no results found in this book.
-Title not yet indexed.
+{0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
+Book Results ({0,number,integer})	Wyniki w książce ({0,number,integer})
+Go To	Idź do
+Location {0} · Page {1}	Lokacja {0} · Strona {1}
+Location {0} {2} Page {1}	Lokacja {0} {2} Strona {1}
+Location {0}	Lokacja {0}
+Search failed.	Wyszukiwanie nie powiodło się.
+Search Results ({0,number,integer})	Wyniki wyszukiwania ({0,number,integer})
+Searching…	Wyszukiwanie...
+There are no results found in this book.	Brak wyników wyszukiwania w tej książce.
+Title not yet indexed.	Tytuł nie został jeszcze zindeksowany.

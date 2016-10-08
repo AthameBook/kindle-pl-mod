@@ -1,23 +1,23 @@
-{0,choice,0#+{0,number,integer} MORE|100#99+ MORE}
-Browse millions of titles from every genre, daily deals, editor's picks and more.
-Discover new books with Goodreads, the world's largest community of readers.
-Earth's Biggest Bookstore.
-Find books you want to read with Goodreads 
-Find books you want to read 
-Freedom to Explore
-Freedom to read from over one million titles.
-Home
-Library recents
-MORE BY {0}
-MORE LIKE {0}
-No Thanks
-Reading List recents
-Recommendation
-Start a list of books you want to read 
-Unlimited reading from over one million titles. Try your first month for free. It's on us!
-Updating your Home experience. This should take a few seconds.
-Updating Your Home
-Welcome to the new Home
-Yes
-You currently have recommendations turned off, which also disables the new Home experience.~~Would you like to try the new, improved Home? You can change this at any time in Settings.
-Your Library is empty. Go to the Kindle Store to find a book and start reading.
+{0,choice,0#+{0,number,integer} MORE|100#99+ MORE}	{0,choice,0#+{0,number,integer} WIĘCEJ|100#99+ WIĘCEJ}
+Browse millions of titles from every genre, daily deals, editor's picks and more.	Przeglądaj miliony tytułów z każdej kategorii, codzienne promocje, książki polecane i wiele więcej.
+Discover new books with Goodreads, the world's largest community of readers.	Okrywaj nowe książki z Goodreads, największą społecznością czytelników na świecie.
+Earth's Biggest Bookstore.	Największa księgarnia na Ziemi.
+Find books you want to read with Goodreads 	Znajdź w Goodreads książki, które chcesz przeczytać 
+Find books you want to read 	Znajdź książki, które chcesz przeczytać 
+Freedom to Explore	Swoboda Odkrywania
+Freedom to read from over one million titles.	Swoboda czytania z ponad miliona tytułów.
+Home	Ekran główny
+Library recents	Ostatnio w bibliotece
+MORE BY {0}	WIĘCEJ AUTORSTWA {0}
+MORE LIKE {0}	WIĘCEJ PODOBNYCH {0}
+No Thanks	Nie, dziękuję
+Reading List recents	Ostatnie listy lektur
+Recommendation	Rekomendacje
+Start a list of books you want to read 	Rozpocznij listę książek, które chcesz przeczytać 
+Unlimited reading from over one million titles. Try your first month for free. It's on us!	Nieograniczone czytanie wśród ponad miliona tytułów. Pierwszy miesiąc gratis. Tylko u nas!
+Updating your Home experience. This should take a few seconds.	Uaktualnij ustawienia ekranu głównego. To zajmie kilka sekund.
+Updating Your Home	Uaktualnij ekran główny
+Welcome to the new Home	Witaj na nowym ekranie głównym
+Yes	Tak
+You currently have recommendations turned off, which also disables the new Home experience.~~Would you like to try the new, improved Home? You can change this at any time in Settings.	Aktualnie masz wyłączone rekomendacje, co powoduje, że tracisz część doświadczeń przy korzystaniu z ekranu głównego.~~Czy chciałbyś wypróbować nowy, ulepszony ekran główny? Możesz zmienić to ustawienie w dowolnej chwili w menu ustawień.
+Your Library is empty. Go to the Kindle Store to find a book and start reading.	Twoja biblioteka jest pusta. Przejdź do sklepu Kindle, aby znaleźć książkę i rozpocząć czytanie.

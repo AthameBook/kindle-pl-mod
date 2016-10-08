@@ -1,17 +1,17 @@
-Aeroplane Mode must be turned off to use this feature.
-An error occurred. Please try again.
-<br/><strong><a href="{0}" style="text-decoration:none;" xor="true" title="Open Wikipedia ▶">Open Wikipedia &#x25B6</a></strong>
-<html lang="en"><head>{0}</head><body>{1}</body></html>
-No network detected. Please check your connection and try again.
-No Selection
-No Wikipedia results were found for your selection.
-Searching Wikipedia...
-Turn Off Aeroplane Mode
-Turn On Wireless
-Unable to contact the server. Please try again later.
-Waiting for connection...
-Wikipedia
-Wikipedia lookups are not available when using FreeTime.
-Wikipedia lookups are not available when using Kindle for Kids.
-Wikipedia lookups are not available while using Kindle for Kids.
-Wireless must be turned on to use this feature.
+Aeroplane Mode must be turned off to use this feature.	Aby skorzystać z tej funkcji trzeba wyłączyć tryb samolotowy.
+An error occurred. Please try again.	Wystąpił błąd. Spróbuj ponownie później.
+<br/><strong><a href="{0}" style="text-decoration:none;" xor="true" title="Open Wikipedia ▶">Open Wikipedia &#x25B6</a></strong>	<br/><strong><a href="{0}" style="text-decoration:none;" xor="true" title="Otwórz Wikipedię ▶">Otwórz Wikipedię &#x25B6</a></strong>
+<html lang="en"><head>{0}</head><body>{1}</body></html>	<html lang="pl"><head>{0}</head><body>{1}</body></html>
+No network detected. Please check your connection and try again.	Nie znaleziono żadnej sieci. Sprawdź swoje połączenie i spróbuj ponownie.
+No Selection	Nic nie zostało zaznaczone
+No Wikipedia results were found for your selection.	Brak wyników w Wikipedii dla zaznaczenia.
+Searching Wikipedia...	Wyszukiwanie w Wikipedii
+Turn Off Aeroplane Mode	Wyłącz tryb samolotowy
+Turn On Wireless	Włącz Wi-Fi
+Unable to contact the server. Please try again later.	Nie można połączyć się z serwerem. Spróbuj ponownie później.
+Waiting for connection...	Czekam na połączenie...
+Wikipedia	Wikipedia
+Wikipedia lookups are not available when using FreeTime.	Wyszukiwanie w Wikipedii nie jest dostępne podczas korzystania z FreeTime.
+Wikipedia lookups are not available when using Kindle for Kids.	Wyszukiwanie w Wikipedii nie jest dostępne podczas korzystania z Kindle dla Dzieci.
+Wikipedia lookups are not available while using Kindle for Kids.	Wyszukiwanie w Wikipedii nie jest dostępne podczas korzystania z Kindle dla Dzieci.
+Wireless must be turned on to use this feature.	Aby użyć tej funkcji, musi być włączona łączność bezprzewodowa.

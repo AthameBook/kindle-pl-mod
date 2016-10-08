@@ -1,5 +1,5 @@
- Exit Flashcards
-{0,select,learning {Mark as Learning} mastered {Mark as Mastered} other {}}
-See Definition
-See Usage
-Words mastered: {0}
+ Exit Flashcards	 Zamknij Słówka
+{0,select,learning {Mark as Learning} mastered {Mark as Mastered} other {}}	{0,select,learning {Oznacz jako Do nauki} mastered {Oznacz jako Opanowane} other {}}
+See Definition	Zobacz definicję
+See Usage	Zobacz przykłady użycia
+Words mastered: {0}	Opanowane słowa: {0}

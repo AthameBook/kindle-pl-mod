@@ -1,18 +1,18 @@
-{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}
-AUTHOR
-Collection
-COLLECTION
-DATE
-Done
-Filter by
-Home
-Library
-MEMBER COUNT
-NUMBER OF HITS
-Periodical Collection
-RECENT
-RELEVANCE
-Settings
-showing {0, number, integer}
-Sort by
-TITLE
+{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}	{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}
+AUTHOR	WG AUTORA
+Collection	Wg kolekcji
+COLLECTION	WG KOLEKCJI
+DATE	WG DATY
+Done	Gotowe
+Filter by	Filtruj wg
+Home	Ekran główny
+Library	Biblioteka
+MEMBER COUNT	WG LICZBY POZYCJI
+NUMBER OF HITS	WG LICZBY TRAFIEŃ
+Periodical Collection	Kolekcja czasopism
+RECENT	WG DATY OTWARCIA
+RELEVANCE	WG ZWIĄZKU Z TEMATEM
+Settings	Ustawienia
+showing {0, number, integer}	wyświetlanie {0, number, integer}
+Sort by	Sortuj wg
+TITLE	WG TYTUŁU

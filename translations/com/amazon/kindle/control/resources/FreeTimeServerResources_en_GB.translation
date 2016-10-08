@@ -1,11 +1,11 @@
-{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.}  update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.}  other { Weʼre currently experiencing problems editing profiles, please try again later.} }
-Limit Reached
-Server Error
-The name you entered included characters that are not supported. Please enter the name again.
-Unsupported Characters
-Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.
-We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.
-You have reached the limit of adult profiles allowed for Kindle for Kids.
-You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.
-You have reached the limit on the number of adult profiles allowed for FreeTime.
-You have reached the limit on the number of children who can register with FreeTime.
+{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.}  update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.}  other { Weʼre currently experiencing problems editing profiles, please try again later.} }	{0, select, create { Aktualnie występują problemy z tworzeniem nowych profili. Spróbuj ponownie później.}  update { Aktualnie występują problemy z edytowaniem profili. Spróbuj ponownie później.} remove { Aktualnie występują problemy z usuwaniem profili. Spróbuj ponownie później.}  other { Aktualnie występują problemy z edytowaniem profili. Spróbuj ponownie później.} }
+Limit Reached	Limit został osiągnięty
+Server Error	Błąd serwera
+The name you entered included characters that are not supported. Please enter the name again.	Nazwa, którą wprowadziłeś zawiera niedozwolone znaki. Proszę ponownie wprowadzić nazwę.
+Unsupported Characters	Niedozwolone znaki
+Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z FreeTime bez ograniczeń. Proszę spróbować później.
+We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z Kindle dla Dzieci bez ograniczeń. Proszę spróbować później.
+You have reached the limit of adult profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dla dorosłych dozwolony w Kindle dla Dzieci.
+You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dla dzieci dozwolony w Kindle dla Dzieci.
+You have reached the limit on the number of adult profiles allowed for FreeTime.	Osiągnąłeś limit liczby profili dla dorosłych dozwolony w Kindle FreeTime.
+You have reached the limit on the number of children who can register with FreeTime.	Osiągnąłeś limit liczby dzieci, które można zarejestrować w Kindle FreeTime.

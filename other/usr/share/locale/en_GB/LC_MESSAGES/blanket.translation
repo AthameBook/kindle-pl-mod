@@ -1,16 +1,16 @@
-"Screensaver"	
+"Screensaver"	"Wygaszacz"
 
 "Swipe to Unlock Kindle"	"Przesuń palcem, aby odblokować"
 
 "SWIPE TO UNLOCK KINDLE"	"PRZESUŃ PALCEM, ABY ODBLOKOWAĆ"
 
-"Language Picker"
+"Language Picker"	"Wybór języka"
 
 "Cancel"	"Anuluj"
 
-"Use %s as your device language?"	"Czy ustawić na Kindle język  %s?"
+"Use %s as your device language?"	"Czy ustawić na Kindle język %s?"
 
-"Updating"	
+"Updating"	"Aktualizowanie"
 
 "Update Error: %s"	"Błąd aktualizacji: %s"
 
@@ -27,10 +27,10 @@
 "Update successful.\n"	"Aktualizacja zakończyła się prawidłowo.\n"
 "Your Kindle is restarting..."	"Za chwilę Twój Kindle uruchomi się ponownie..."
 
-"We are updating your fonts. Your device will restart after the update is "
-"complete."
+"We are updating your fonts. Your device will restart after the update is "	"Zaktualizowaliśmy Twoje czcionki. Czytnik uruchomi się ponownie gdy "
+"complete."	"aktualizacja się zakończy"
 
-"Shutting down"	
+"Shutting down"	"Wyłączanie"
 
 "Repair Needed"	"Twój Kindle wymaga naprawy"
 
@@ -45,19 +45,19 @@
 
 "Please wait a moment while your Kindle starts up."	"Poczekaj na ponowne uruchomienie Twojego Kindle."
 
-"%d per cent loaded"	
+"%d per cent loaded"	"Załadowano %d procent"
 
-"Test Draw Defaults"	
+"Test Draw Defaults"	"Test rysowania domyślnego"
 
-"No fontsize entry"	
+"No fontsize entry"	"Brak wpisu fontsize"
 
-"No rect entry"	
+"No rect entry"	"Brak wpisu rect"
 
-"No fontsize entry"	
+"No fontsize entry"	"Brak wpisu "fontsize"
 
-"Test Mode"	
+"Test Mode"	"Tryb testowy"
 
-"USB mounted"	
+"USB mounted"	"Podłączono USB"
 
 "USB Drive Mode"	"Tryb dysku USB"
 

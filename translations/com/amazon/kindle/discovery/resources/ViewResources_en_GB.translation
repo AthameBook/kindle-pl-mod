@@ -31,7 +31,7 @@
 {0,select,empty {No books added yet.} unknown {Loading…} error {Unable to display books. Please try again.} other {}}	{0,select,empty {Brak dodanych książek.} unknown {Ładowanie…} error {Nie można wyświetlić książek. Spróbuj ponownie.} other {}}
 {0,select,empty {No books found.} unknown {Loading…} error {Unable to display books.} other {}}	{0,select,empty {Nie znaleziono żadnych książek.} unknown {Ładowanie…} error {Nie można wyświetlić książek.} other {}}
 {0,select,empty {No genres.} unknown {Loading…} error {Unable to display genres. Please try again.} other {}}	{0,select,empty {Brak gatunków.} unknown {Ładowanie…} error {Nie można wyświetlić gatunków. Spróbuj ponownie.} other {}}
-{0,select,empty {No matches were found for "{1}".} unknown {Loading search results…} error {Unable to display search results. Please try again.} other {}}	{0,select,empty {Brak wyników wyszukiwania dla "{1}".} unknown {Ładowanie wyników wyszukiwania…} error {Nie można wyświetlić wyników wyszukiwania. Spróbuj ponownie.} other {}}
+{0,select,empty {No matches were found for "{1}".} unknown {Loading search results…} error {Unable to display search results. Please try again.} other {}}	{0,select,empty {Brak wyników wyszukiwania dla „{1}”.} unknown {Ładowanie wyników wyszukiwania…} error {Nie można wyświetlić wyników wyszukiwania. Spróbuj ponownie.} other {}}
 {0,select,empty {No members of the Goodreads community have reviewed this book yet. Please try again later.} unknown {Loading Reviews…} error {Unable to display community reviews. Please try again.} other {}}	{0,select,empty {Brak członków społeczności Goodreads którzy zrecenzowali tę książkę. Spróbuj ponownie później.} unknown {Ładowanie recenzji…} error {Nie można wyświetlić ocen społeczności. Spróbuj ponownie.} other {}}
 {0,select,empty {No recent updates.}  unknown {Loading…} error {Unable to display updates. Please try again.} other {}}	{0,select,empty {Brak aktualizacji.}  unknown {Ładowanie…} error {Nie można wyświetlić aktualizacji. Spróbuj ponownie.} other {}}
 {0,select,empty {No recommendations available.} unknown {Loading…} error {Unable to display recommendations.} other {}}	{0,select,empty {Brak dostępnych rekomendacji.} unknown {Ładowanie…} error {Nie można wyświetlić rekomendacji.} other {}}
@@ -110,8 +110,8 @@ Hide Password	Ukryj hasło
 Hide	Ukryj
 Kindle Store Locked	Sklep Kindle jest zablokowany
 Loading…	Ładowanie...
-Mark as Currently Reading	Oznacz jako "Teraz czytam"
-Mark as Want to Read	Oznacz jako "Chcę przeczytać"
+Mark as Currently Reading	Oznacz jako „Teraz czytam”
+Mark as Want to Read	Oznacz jako „Chcę przeczytać”
 My Rating	Moja ocena
 My Rating:	Moja ocena:
 Name for Friends	Nazwa dla znajomych
@@ -121,7 +121,7 @@ Order cancelled	Zamówienie anulowane
 or	lub
 Public Name	Nazwa publiczna
 Purchased by accident?	Zakupione przez przypadek?
-Rate this Book:	Oceń tę ksiażkę:
+Rate this Book:	Oceń tę książkę:
 Rate this Book	Oceń tę książkę
 Read ({0,number,integer})	Przeczytane ({0,number,integer})
 Read ({0})	Przeczytane ({0})

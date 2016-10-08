@@ -1,4 +1,4 @@
-{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}	{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}
+{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}	{0,choice,0#1 z 1|2#{1,number,integer} z {2,number,integer}}
 AUTHOR	WG AUTORA
 Collection	Wg kolekcji
 COLLECTION	WG KOLEKCJI

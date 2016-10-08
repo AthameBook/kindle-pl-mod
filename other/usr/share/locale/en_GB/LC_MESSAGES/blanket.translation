@@ -1,78 +1,69 @@
-"Screensaver"
+"Screensaver"	
 
-"Swipe to Unlock Kindle"
+"Swipe to Unlock Kindle"	"Przesuń palcem, aby odblokować"
 
-"SWIPE TO UNLOCK KINDLE"
+"SWIPE TO UNLOCK KINDLE"	"PRZESUŃ PALCEM, ABY ODBLOKOWAĆ"
 
 "Language Picker"
 
-"Cancel"
+"Cancel"	"Anuluj"
 
-"Use %s as your device language?"
+"Use %s as your device language?"	"Czy ustawić na Kindle język  %s?"
 
-"OK"
+"Updating"	
 
-"Updating"
+"Update Error: %s"	"Błąd aktualizacji: %s"
 
-"Update Error: %s"
+"The update was not successful.\n"	"W trakcie aktualizacji wystąpił błąd.\n"
+"If you need assistance visit www.amazon.com/devicesupport.\n"	"Jeśli potrzebujesz pomocy przejdź do strony www.amazon.com/devicesupport.\n"
+"To resume using your Kindle, please press the Power button."	"Aby kontynuować pracę z Kindle, naciśnij przycisk zasilania."
 
-"The update was not successful.\n"
-"\n"
-"If you need assistance visit www.amazon.com/devicesupport.\n"
-"\n"
-"To resume using your Kindle, please press the Power button."
+"Software Update"	"Aktualizacja oprogramowania"
 
-"Software Update"
+"Your Kindle software is updating. This can take a few minutes.\n"	"Twój Kindle jest aktualizowany. To może chwilę potrwać.\n"
+"DO NOT turn off your Kindle during the update process.\n"	"NIE WYŁĄCZAJ Kindle w trakcie procesu aktualizacji.\n"
+"Your Kindle will restart automatically as soon as the update is complete."	"Po zakończeniu aktualizacji, Twój Kindle uruchomi się ponownie."
 
-"Your Kindle software is updating. This can take a few minutes.\n"
-"\n"
-"DO NOT turn off your Kindle during the update process.\n"
-"\n"
-"Your Kindle will restart automatically as soon as the update is complete."
-
-"Update successful.\n"
-"\n"
-"Your Kindle is restarting..."
+"Update successful.\n"	"Aktualizacja zakończyła się prawidłowo.\n"
+"Your Kindle is restarting..."	"Za chwilę Twój Kindle uruchomi się ponownie..."
 
 "We are updating your fonts. Your device will restart after the update is "
 "complete."
 
-"Shutting down"
+"Shutting down"	
 
-"Repair Needed"
+"Repair Needed"	"Twój Kindle wymaga naprawy"
 
-"Your Kindle Needs Repairing.\n"
-"\n"
-"Please contact Kindle Customer Service at \n"
-"http://www.amazon.com/devicesupport\n"
-"Repair Code:%d\n"
-"Version:%lld\n"
-"DSN:%s"
+"Your Kindle Needs Repairing.\n"	"Twój Kindle wymaga naprawy.\n"
+"Please contact Kindle Customer Service at \n"	"Proszę skontaktować się z działem obsługi klienta na \n"
+"http://www.amazon.com/devicesupport\n"	"http://www.amazon.com/devicesupport\n"
+"Repair Code:%d\n"	"Kod bezpieczeństwa:%d\n"
+"Version:%lld\n"	"Wersja:%lld\n"
+"DSN:%s"	"DSN:%s"
 
-"Please wait whilst we install font updates. This may take a few minutes."
+"Please wait whilst we install font updates. This may take a few minutes."	"Proszę poczekać, aż zainstaluje się zaktualizowana czcionka. Może to potrwać kilka minut."
 
-"Please wait a moment while your Kindle starts up."
+"Please wait a moment while your Kindle starts up."	"Poczekaj na ponowne uruchomienie Twojego Kindle."
 
-"%d per cent loaded"
+"%d per cent loaded"	
 
-"Test Draw Defaults"
+"Test Draw Defaults"	
 
-"No fontsize entry"
+"No fontsize entry"	
 
-"No rect entry"
+"No rect entry"	
 
-"No fontsize entry"
+"No fontsize entry"	
 
-"Test Mode"
+"Test Mode"	
 
-"USB mounted"
+"USB mounted"	
 
-"USB Drive Mode"
+"USB Drive Mode"	"Tryb dysku USB"
 
-"If you want to read or shop on your Kindle while continuing to charge over "
-"USB, please keep the USB cable attached, but eject your Kindle from your "
-"computer."
+"If you want to read or shop on your Kindle while continuing to charge over "	"Jeśli chcesz czytać lub robić zakupy w trakcie ładowania przez USB, proszę "
+"USB, please keep the USB cable attached, but eject your Kindle from your "	"pozostawić podłączony przewód USB, ale odłączyć Kindle w systemie "
+"computer."	"komputera."
 
-"If you wish to use your Kindle, please eject it from your computer.\n"
-"\n"
-"Currently, your Kindle is not charging."
+"If you wish to use your Kindle, please eject it from your computer.\n"	"Jeśli chcesz pracować na swoim Kindle, to odłącz go od komputera\n"
+"Currently, your Kindle is not charging."	"Kindle nie jest ładowany."

@@ -1,0 +1,17 @@
+Bluetooth
+Devices ({numDevices,number,integer})
+Please make sure your Bluetooth device is on. Tap the device name to forget or connect to the device
+Bluetooth Wizard
+Disconnect and pair new audio device
+Disconnect
+OK
+Cancel
+Connect
+Forget
+Forget Device
+Connect to or Forget Device
+No Paired Devices Found
+Would you like to connect to or forget {string}?
+You are currently connected to {string}.
+Are you sure you want to forget this device? This will disable the VoiceView screen reader. <br><br>To enable VoiceView again, press and hold the Power button for 7 seconds, and then hold two fingers on your Kindle screen.
+Close

@@ -1,0 +1,167 @@
+OK
+Cancel
+Close
+Cancel Pairing
+Continue
+Feature Not Available
+This feature is not available in demo mode.
+Low Memory
+There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.
+Battery Level is Low
+Your battery is running low. Please charge your Kindle.
+Your battery is running low. Please connect your Kindle to a power source or the charging cover.
+Your battery is running low. Please charge your Kindle. If your wireless is turned on, try turning it off to extend your reading time.
+Your battery is running low. Please connect your Kindle to a power source or the charging cover. If your wireless is turned on, try turning it off to extend your reading time.
+Very Low Battery
+Your battery is almost depleted and your Kindle will soon shut down. To continue using your Kindle, connect it to a power source.
+Your battery is almost depleted and your Kindle will shut down soon. Please connect your Kindle to a power source or your charging cover immediately.
+Your charging cover battery is running low. Please connect your Kindle and cover, then connect your Kindle to a power source.
+Your charging cover battery is running low. Please connect your Kindle and cover, then connect your Kindle to a power source. If your wireless is turned on, try turning it off to extend your reading time.
+Your charging cover battery is almost depleted. Please connect your Kindle and cover, then connect your Kindle to a power source.
+Your batteries are running low. Please connect your Kindle and charging cover to a power source.
+Your batteries are running low. Please connect your Kindle and charging cover to a power source. If your wireless is turned on, try turning it off to extend your reading time.
+Very Low Batteries
+Your batteries are almost depleted and your Kindle will shut down soon. Please connect your Kindle and charging cover to a power source.
+Charging Cover Error
+Charging Cover Connection
+Your charging cover may not be properly connected to your Kindle. Please try connecting your cover and Kindle again. If your battery is low, connect your Kindle and cover to a USB charger.
+Your cover is not properly connected. Please check the connection. If it is still not charging, contact Kindle Customer Service at www.amazon.com/devicesupport.
+Your cover cannot charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. 
+The cover you have connected to your Kindle is not supported. Please connect a supported cover.
+Operating Temperature Alert
+Your Kindle is operating outside of its recommended temperature range and will suspend soon. Please make sure your Kindle is in a cool spot for a few minutes before suspending.
+Your Kindle is operating outside of its recommended temperature range and will suspend soon. Please make sure your Kindle is in a warm spot for a few minutes before suspending.
+Turn On Wireless?
+Wireless is turned off. Do you want to turn on wireless?
+Aeroplane Mode
+Your Kindle is unable to establish a wireless connection. Do you want to turn off Aeroplane Mode?
+No MP3 Files Found
+To play MP3 files, you must first copy them from your computer to the "music" folder on your Kindle.
+Error Starting Content
+The title could not be opened.
+Wi-Fi Login Required
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Experimental Web Browser to sign into: {essid}?
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet. Do you wish to go to the Experimental Web Browser to sign in?
+Application Error
+The selected application could not be started. Please try again.
+Unable to Open Content
+The selected content could not be opened. Please try again.
+Restart
+Restarting your Kindle
+The item failed to close properly. Unless you close this dialog box your device will restart in {restartTime,plural,=0 {# seconds} one {# second} other {# seconds}}.
+Shipping Mode Failed
+Unable to enter shipping mode owing to missing dictionaries or fonts.
+Unable to enter shipping mode owing to battery level falling below permissible range.
+Shipping Mode Error
+Your device is unable to enter shipping mode because the battery level is low. Please connect it to a charger. When the battery is sufficiently charged, your device will enter shipping mode automatically.
+Your device is unable to enter shipping mode because the battery level is high. Please disconnect it from the charger. When the battery is sufficiently discharged, your device will enter shipping mode automatically.
+Your Kindle is connected to a USB cable and is unable to enter shipping mode. Please disconnect the cable.
+Java Heap Low
+The Java Heap has been low for too long.
+Framework Error
+The application is not responding. Please wait while your Kindle restarts.
+Kindle Store Locked
+This is a managed device. Kindle Store is locked. For information, contact: {contactInfo}.
+Web Browser Locked
+This is a managed device. The Experimental Web Browser is locked. For information, contact: {contactInfo}.
+Cloud Locked
+This is a managed device. Access to Cloud is locked. For information, contact: {contactInfo}.
+Goodreads on Kindle Locked
+This is a managed device. Access to Goodreads on Kindle is locked. For information, contact: {contactInfo}.
+Social Networks Locked
+This is a managed device. Social Network access is locked. For information, contact: {contactInfo}.
+MP3 Player Locked
+This is a managed device. MP3 Player is locked. For information, contact: {contactInfo}.
+Active Content Locked
+This is a managed device. Active Content is locked. For information, contact: {contactInfo}.
+Settings Menu Locked
+This is a managed device. Settings Menu is locked. For information, contact: {contactInfo}.
+Toggle Wireless Locked
+This is a managed device. Toggle Wireless is locked. For information, contact: {contactInfo}.
+Aeroplane Mode Locked
+This is a managed device. Aeroplane Mode is locked. For information, contact: {contactInfo}.
+Wi-Fi Settings Locked
+This is a managed device. Wi-Fi Settings configuration is locked. For information, contact: {contactInfo}.
+Kindle Store Locked
+Parental Controls are enabled on your Kindle. Kindle Store is locked.
+Web Browser Locked
+Parental Controls are enabled on your Kindle. The Experimental Web Browser is locked.
+Cloud Locked
+Parental Controls are enabled on your Kindle. Access to Cloud is locked.
+Goodreads on Kindle Locked
+Parental Controls are enabled on your Kindle. Access to Goodreads on Kindle is locked.
+Purchasing Locked
+Parental Controls are enabled on your Kindle. Purchases are not allowed.
+Web Browser Unavailable
+The Experimental Web Browser is unavailable when VoiceView is Enabled.
+Device Restart Pending
+This Kindle has been instructed to restart. This process will begin shortly. Please wait until the device has fully restarted.
+Device Reset Pending
+This is a managed device. It has been instructed to reset to factory defaults, which will remove all downloaded and transferred content. This process will begin shortly. Please wait until this process is complete. For information, contact: {contactInfo}.
+Error
+Your purchase could not be completed. We are experiencing technical difficulties. Please try again later.
+Error
+We are unable to process your request. Please try again later.
+Purchase Limit Reached
+Your purchase could not be completed. You have reached the maximum purchase quantity.
+Offer Expired
+Your purchase could not be completed. This offer has expired.
+Kindle Special Offers
+Details for this Special Offer are no longer available. Turn on wireless to receive the latest content.
+Details for this Special Offer are not available while Parental Controls are enabled.
+Details for this Special Offer are no longer available.
+Device Not Registered
+You must register your Kindle to make a purchase.
+Purchases Pending
+You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.
+Debugging Scripts
+Extended debugging scripts are currently enabled
+Restart Required
+An update is available for the following fonts: ({language}). Do you want to restart now to complete the update?
+Power
+Please select from the following options:
+VoiceView
+VoiceView is not supported. Please turn off Parental Controls and Device Passcode, if any, and also keep the device language set to English to turn on VoiceView.
+VoiceView
+Please turn off Parental Controls before turning on VoiceView.
+VoiceView
+Please turn off the passcode on your Kindle to enable VoiceView.
+VoiceView
+Please set the device language to English (US) or English (UK) before turning on VoiceView.
+Alert
+We detect that you've unplugged your USB adaptor. VoiceView will be turned off.
+VoiceView
+The VoiceView screen reader has been enabled on your Kindle.&nbsp<br><br>VoiceView will provide spoken feedback when you interact with the Kindle screen.
+Screen Off
+Updating Fonts
+Your Kindle fonts are updating. This can take a moment...
+Later
+Now
+Device Error
+An unexpected error has occurred. This can happen if you recently disconnected your Kindle from a computer without ejecting it safely. Please wait while your Kindle attempts to resolve this error.
+Update Error
+An invalid update file has been loaded on your device. Please go to www.amazon.com/devicesupport to access the Kindle Software Update page or to contact Kindle Customer Service for assistance.
+Battery Too Low
+Kindle must be charged to resell. Please connect to charger for at least one hour and try again.
+Feature Not Available
+This feature is not available when Kindle is in demo mode.
+Continue
+Device Not Registered
+You must register your Kindle to view this offer.
+An exception occurred while recording. The logs have been collected in {log_name}.
+Recording of test case {test_name} has been completed successfully. Record log is in {record_log_name}. The test output logs have been collected in {log_name}. Keep recycling the folder to regain space.
+Device Error
+An unrecoverable device error has occurred. Please back up all of your non-Amazon content to avoid data loss. When your backup is complete, tap Continue.
+Continue
+Voice Files Not Detected
+We do not detect any voice files on your device. For voice file download instructions, please contact Kindle Customer Service at http://www.amazon.com/help/kindlevoicefiles.
+Alert
+The charging cover has been disconnected. VoiceView will be turned off.
+Alert
+Your Kindle battery is low. Enabling VoiceView will drain the battery faster.
+VoiceView
+Bluetooth Device not Found
+Searching for Bluetooth audio devices to pair with your Kindle VoiceView screen reader.<br><br>Please wait...
+Cannot find Bluetooth audio device.<br><br>Make sure your device is on and within range.
+We've detected a pairable Bluetooth audio device: {device_name}.<br><br>Hold two fingers on your Kindle screen to pair this device with the Kindle VoiceView screen reader. If you don't want to use VoiceView, tap \"Cancel Pairing.\"<br><br>VoiceView is an accessibility feature that provides spoken feedback when you interact with your Kindle screen.<br><br>Wait 5 seconds to skip this Bluetooth audio device.
+We could not connect to your Bluetooth audio device.<br><br> Make sure your audio device is on and in pairing mode, press and hold the Power button on your Kindle for 7 seconds, and then hold two fingers on the screen.

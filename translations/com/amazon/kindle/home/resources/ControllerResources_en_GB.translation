@@ -1,0 +1,15 @@
+{0,plural,=0 {} one {{0,number,integer} more Collection in the Cloud} other {{0,number,integer} more Collections in the Cloud}}
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}
+{1, select, 0 {{0, select, true {Showing your items available in the Cloud} other {Not showing your items available in the Cloud}}} other {{0, select, true {Showing your items available on device} other {Not showing your items available on device}}}} 
+ALL
+DOWNLOADED
+No books have been added to this device. Tap All to download books.
+No books have been synced to the Cloud. Tap Downloaded to see content on your device.
+No collections have been added to this device. Tap All to add existing collections or tap Menu to create a new collection.
+No collections have been synced to the Cloud. Tap Menu to create a new collection.
+No documents have been synced to the Cloud. Tap Downloaded to view documents on your device.
+No items have been added to this device. Tap All to download items.
+No periodicals have been added to this device. Tap All to download periodicals.
+No periodicals have been synced to the Cloud. Tap Downloaded to see content on your device.
+No Shared books have been added to your device. Tap All to download books.
+No Shared books have been synced to the Cloud. Tap Downloaded to see content on your device.

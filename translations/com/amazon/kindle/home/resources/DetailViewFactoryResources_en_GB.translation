@@ -1,0 +1,32 @@
+{0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }
+{0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }
+About Vocabulary Builder
+Add to Downloaded
+Add To Home
+Add/Remove Items
+Date: 
+Delete
+Download Latest Issue
+Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }
+Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }
+Edit Child Profiles
+Edit Pronunciation
+In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }
+In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }
+Latest Issue: {0,date,short}
+Learn more
+Manage FreeTime Items
+Manage Kindle for Kids Items
+Narrator: 
+Open Latest Issue
+Remove All Back Issues
+Remove from Device
+Rename
+Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }
+Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }
+Turn Off FreeTime
+Turn Off Kindle for Kids
+Turn Off Vocabulary Builder
+Unknown
+View Achievements
+View Back Issues

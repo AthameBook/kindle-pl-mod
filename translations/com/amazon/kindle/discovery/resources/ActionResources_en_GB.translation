@@ -1,0 +1,8 @@
+{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {Comments ({0,number,integer})}}
+Cancel
+Delete Activity
+Delete
+If others have commented on or liked your update, their activities will also be removed. Are you sure you want to delete this update?
+Read Now
+Refresh
+View Reviews

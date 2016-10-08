@@ -1,0 +1,20 @@
+{0, select, true {Set up Kindle for Kids and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store and Cloud.}}}}
+{0, select, true {Set up Kindle FreeTime and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}}}
+Device Options
+Device Passcode
+Device Time
+Enabled
+Language and Dictionaries
+Manage the Nightlight setting.
+Manage voice guidance settings, including turning VoiceView on and off, reading speed, volume and tutorial.
+Manage your device name, personal info, device time, content recommendations and Whispersync for Books, and view your Send-to-Kindle e-mail address.
+Manage your device name, personal info, device time, content recommendations, Whispersync for Books and VoiceView settings, and view your Send-to-Kindle e-mail address.
+Manage your Kindle language, keyboards and dictionaries.
+Not Enabled
+Parental Controls Locked
+Parental Controls
+Personalise Your Kindle
+Screen Light
+Set a passcode to protect the content on your Kindle.
+Set the local time on your Kindle.
+This is a managed device. Parental Controls are locked. For information, contact: {0}.

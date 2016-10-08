@@ -1,0 +1,11 @@
+{0,plural,=0 {} one {{0,number,integer} more issue in the Cloud} other {{0,number,integer} more issues in the Cloud}}
+{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}
+Issues
+ISSUES
+My Items
+MY ITEMS
+No issues are available in the Cloud. Tap Downloaded to view issues on your device.
+No issues are on this device. Tap All to download issues.
+No items from this collection are available in the Cloud. Tap Downloaded to view items on your device or tap Menu to add items.
+No items from this collection are on this device. Tap All to download items or tap Menu to add items.
+There arenʼt any items in this Collection.~~Tap Menu to add items.

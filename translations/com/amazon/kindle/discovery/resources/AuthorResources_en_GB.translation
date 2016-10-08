@@ -1,0 +1,5 @@
+ Goodreads Author
+{0,choice,0#{0,plural,=0 {<ul>{0,number,integer} Followers</ul>} one {<ul>{0,number,integer} Follower</ul>} other {<ul>{0,number,integer} Followers</ul>}}|100000#<ul>99,999+ Followers</ul>}
+{0,choice,0#{0,plural,=0 {<ul>{0,number,integer} Friends</ul>} one {<ul>{0,number,integer} Friend</ul>} other {<ul>{0,number,integer} Friends</ul>}}|100000#<ul>99,999+ Friends</ul>}
+{0,select, first_person {My Profile} other {About this Author}}
+About this Author

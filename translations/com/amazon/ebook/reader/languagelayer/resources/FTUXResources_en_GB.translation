@@ -1,0 +1,9 @@
+{0,select,true{Tap on Menu and choose Word Wise to turn off this feature.} other{Would you like to turn on Word Wise for all compatible books?}}
+{0,select,true{Want help with challenging words?} other{Want help reading English books?}}
+{0,select,true{Word Wise helps young readers and readers learning English by explaining the most challenging words in the book.} other{Word Wise helps readers learning English by explaining the most challenging words in a book.}}
+Chinese
+Close
+English
+Tap on a word to see a definition, similar words and more.
+Turn On Word Wise
+Word Wise

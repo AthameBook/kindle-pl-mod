@@ -1,0 +1,6 @@
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}
+Compatible Devices
+Devices
+No devices found.
+Select your devices that should display {0}'s shared content.
+<ul>Don't see all your devices here?</ul>

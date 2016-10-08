@@ -1,0 +1,171 @@
+➕ Add Friend
+➕ Follow
+{0} {1,choice,0# |1#{1,number,0.00}} • {2,plural,=0 {{2,number,integer} ratings} one {{2,number,integer} rating} other {{2,number,integer} ratings}}
+{0} by {1}
+{0} rated it
+{0}, there was a problem downloading your sample. To learn more, please visit the store page.
+{0}, there was a problem downloading your sample. To learn more, please visit the <ul>store page.</ul>
+{0}, there was a problem with your purchase. To learn more, please visit the Store page.
+{0}, there was a problem with your purchase. To learn more, please visit the <ul>Store page.</ul>
+{0}, We are sending you the Kindle Edition of {1} and it will automatically appear in your Home screen when the download is complete.
+{0}, You have cancelled this order.
+{0,choice,0#{0,plural,=0 {{0,number,integer} followers} one {{0,number,integer} follower} other {{0,number,integer} followers}}|1000#999+ followers}
+{0,choice,0#{0,plural,=0 {{0,number,integer} friends} one {{0,number,integer} friend} other {{0,number,integer} friends}}|1000#999+ friends}
+{0,plural,=0 {} one {{0,number,integer} book shelved} other {{0,number,integer} books shelved}}
+{0,plural,=0 {} one {Following {0,number,integer} new reader} other {Following {0,number,integer} new readers}}
+{0,plural,=0 {} one {Your free sample is downloading} other {Your {0,number,integer} free samples are downloading}}. Now, get your Goodreads network started by adding your Facebook friends.
+{0,plural,=0 {{0,number,integer} books} one {{0,number,integer} book} other {{0,number,integer} books}} | {1,choice,0#{1,plural,=0 {{1,number,integer} followers} one {{1,number,integer} follower} other {{1,number,integer} followers}}|1000#999+ followers}
+{0,plural,=0 {{0,number,integer} books} one {{0,number,integer} book} other {{0,number,integer} books}} | {1,choice,0#{1,plural,=0 {{1,number,integer} friends} one {{1,number,integer} friend} other {{1,number,integer} friends}}|1000#999+ friends}
+{0,plural,=0 {{0,number,integer} books} one {{0,number,integer} book} other {{0,number,integer} books}}
+{0,plural,=0 {{0,number,integer} ratings} one {{0,number,integer} rating} other {{0,number,integer} ratings}}
+{0,select, empty {No books added yet.} empty_first_author {You have not shelved any books yet.} unknown {Loading…} error {Unable to display books. Please try again.} other {}}
+{0,select, empty {No books yet.} empty_first_author {You have not added any books yet.} unknown {Loading…} error {Unable to display books. Please try again.} other {}}
+{0,select, empty {No books yet.} unknown {Loading…} error {Unable to display books. Please try again.} other {}}
+{0,select, empty {No recent updates.}  empty_first_author {No updates yet.} unknown {Loading…} error {Unable to display updates. Please try again.} other {}}
+{0,select, empty {There are no books yet.} unknown {Loading books…} error {Unable to display books. Please try again.} other {}}
+{0,select, empty {There are no shelved books yet.} unknown {Loading books…} error {Unable to display books. Please try again.} other {}}
+{0,select, empty {You do not have any books yet.} unknown {Loading books…} error {Unable to display books. Please try again.} other {}}
+{0,select, first_author_activity {My Recent Updates} other {Recent Updates}}
+{0,select,empty {Be the first to add {1} as a friend } empty_pending_friend {No friends yet.} unknown {Loading…} error {Unable to display friends. Please try again.} other {}}
+{0,select,empty {Be the first to follow {1} } empty_existing_friend {No followers yet.} unknown {Loading…} error {Unable to display followers. Please try again.}  other {}}
+{0,select,empty {No books added yet.} unknown {Loading…} error {Unable to display books. Please try again.} other {}}
+{0,select,empty {No books found.} unknown {Loading…} error {Unable to display books.} other {}}
+{0,select,empty {No genres.} unknown {Loading…} error {Unable to display genres. Please try again.} other {}}
+{0,select,empty {No matches were found for "{1}".} unknown {Loading search results…} error {Unable to display search results. Please try again.} other {}}
+{0,select,empty {No members of the Goodreads community have reviewed this book yet. Please try again later.} unknown {Loading Reviews…} error {Unable to display community reviews. Please try again.} other {}}
+{0,select,empty {No recent updates.}  unknown {Loading…} error {Unable to display updates. Please try again.} other {}}
+{0,select,empty {No recommendations available.} unknown {Loading…} error {Unable to display recommendations.} other {}}
+{0,select,empty {No samples.} unknown {Loading…} error {Unable to display samples. Please try again.} other {}}
+{0,select,empty {No updates have been posted yet.} unknown {Loading updates…} error {Unable to display updates. Please try again.}  other {}}
+{0,select,empty {No updates have been posted yet.~~Tap here to follow suggested readers or add Facebook friends on Goodreads } unknown {Loading updates…} error {Unable to display updates. Please try again.}  other {}}
+{0,select,empty {No updates yet.} unknown {Loading…} error {Unable to display updates. Please try again.} other {}}
+{0,select,empty {None of the people you are following have reviewed this book yet. Please try again later.} unknown {Loading Reviews…} error {Unable to display reviews from the people you are following. Please try again.} other {}}
+{0,select,empty {None of your friends have reviewed this book yet. Please try again later.} unknown {Loading Reviews…} error {Unable to display friend reviews. Please try again.} other {}}
+{0,select,empty {Not following any readers yet.} unknown {Loading…} error {Unable to display who this user is following. Please try again.} other {}}
+{0,select,empty {Tap here to add books from your Amazon library } unknown {Loading…} error {Unable to display books. Please try again.} other {}}
+{0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} error {Unable to display friends. Please try again.} other {}}
+{0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} error {Unable to display people you are following. Please try again.} other {}}
+{0,select,empty {There are currently no new readers for you to follow. Please try again later.} facebook_not_connected {There are currently no new readers for you to follow. Add your friends from Facebook to Goodreads } unknown {Loading suggested readers…}  error {Unable to display suggested readers. Please try again.}  other {}}
+{0,select,empty {There are no books in your library yet.~~See what your friends are reading } unknown {Loading Amazon books…} error {Unable to display books. Please try again.} other {}}
+{0,select,empty {There are no shelved books yet.} unknown {Loading books…} error {Unable to display shelved books. Please try again.} other {}}
+{0,select,empty {There arenʼt any books in your library. You can always add some later.} unknown {Loading Amazon books…} other {}}
+{0,select,empty {There was a problem retrieving comments. Please try again } unknown {Loading comments…} error {No comments currently available.} other {}}
+{0,select,empty {You are not following any readers yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Following…} error {Unable to display people you are following. Please try again.} other {}}
+{0,select,empty {You do not have any followers yet.} unknown {Loading…} error {Unable to display followers. Please try again.} other {}}
+{0,select,empty {You do not have any followers yet.} unknown {Loading Followers…}  error {Unable to display followers. Please try again.} other {}}
+{0,select,empty {You do not have any friends yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Friends…} error {Unable to display friends. Please try again.} other {}}
+{0,select,empty {You have not shelved any books yet. View your Amazon book purchases to add books to Goodreads } unknown {Loading books…} error {Unable to display shelved books. Please try again.} other {}}
+A refund will be applied to your method of payment. If the title has already downloaded to your device, it will be removed shortly.
+About Me
+Activate Goodreads
+Add a comment…
+Add Amazon Books to Goodreads
+Add Friends 
+Add physical and digital Amazon book purchases to Goodreads by rating them or adding them to a shelf.
+Already a Goodreads member?
+Are you sure you would like to remove {0} from your friend list? Friends aren't notified when you remove them.
+Authors
+Buy Now for {0}
+Buying…
+By {0}
+By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreads Terms of Service and Privacy Policy.
+By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreadsʼ Terms of Service and Privacy Policy.
+By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf.
+By <ul>{0}</ul>
+Cancel Request
+Cancel
+Close
+Cloud Access Locked
+commented on an activity
+Connect Goodreads with Facebook
+Connect
+Currently Reading ({0,number,integer})
+Currently Reading ({0})
+Currently Reading
+Done
+Download Sample
+Downloading
+Downloading…
+Download
+Edit About Me 
+Edit About Me (modified) 
+Edit Profile
+E-mail or password is incorrect.
+Enter your full name or your first name here. This will be the name that appears on your public Amazon and Goodreads profiles.
+Facebook E-mail
+Facebook Password
+Find and share books that you love, see what your friends are reading and get recommendations from the world's largest network of readers.
+finished reading
+Follow these notable readers and authors to view their reviews and recommendations.
+Follow these notable readers to view their reviews and recommendations{0,select, with_connect_message {, or connect with friends from Facebook.} other {.}}
+Followers ({0})
+Following ({0})
+Friends ({0})
+Get Started
+Get your Goodreads network started by adding your Facebook friends.
+Goodreads E-mail
+Goodreads may access your name, public profile, friend list and e-mail address.~~~~Goodreads will be able to post to Facebook automatically on your behalf (for example, books you have read).~~~~You can adjust these settings at goodreads.com/settings.
+Goodreads Password
+Hide Password
+Hide
+Kindle Store Locked
+Loading…
+Mark as Currently Reading
+Mark as Want to Read
+My Rating
+My Rating:
+Name for Friends
+Name
+Next
+Order cancelled
+or
+Public Name
+Purchased by accident?
+Rate this Book:
+Rate this Book
+Read ({0,number,integer})
+Read ({0})
+Read Now
+Read Reviews
+Readers to Follow
+Read
+Remove Friend
+Remove from Shelf
+Reviews ({0,number,integer})
+Save
+Search Store
+See what your friends are reading and share your reading activity on Facebook.
+shared a book
+shared a highlight
+shared a note
+shared an activity
+Shelved Books ({0})
+Shelved Books ({0,number,integer})
+Sign in to Goodreads using your Facebook account.
+Sign In to Goodreads
+Sign in with Facebook
+Sign In with Facebook
+Skip
+Start Following
+Step 1 of 2
+Stop Following
+Tap Edit to add a description
+Tap here to connect to a Wi-Fi network~~to see the most recent activity.
+Thank you for your purchase
+There is no description for this book.
+This Goodreads account is linked to another Amazon account. Edit your accounts at Goodreads.com > Edit Profile > Apps.
+To access the Kindle Store, turn off parental controls in Settings.
+To continue, activate Goodreads on your Kindle.
+To download your book, turn off parental controls in Settings.
+To update your name, sign in at Goodreads.com and select Edit Profile.
+Unable to purchase
+View in Store
+Want to Read ({0})
+Want to Read ({0,number,integer})
+Want to Read
+We canʼt seem to find this book.
+We can't seem to find this person.
+Welcome to the worldʼs largest network of readers, where you can find book recommendations to find and share the books you love with your friends.
+You are currently offline.
+You can <ul>cancel this order</ul> if you need to.
+You can <ul>visit the Store</ul> for details about the failure.

@@ -1,0 +1,77 @@
+"
+“{0}”
+{0}{1,plural,=0 {} one {… {1,number,integer} more person} other {… {1,number,integer} more people}}
+{0,number,percent} done
+{0,select,facebook_gr {Loading Facebook settings...} facebook {Loading Facebook settings...} twitter {Loading Twitter settings...} weibo {Loading Weibo settings...} other {Loading settings...}}
+{0,select,recipients {{1,select,true {EDIT} other {ADD}}} other {EDIT}}
+{0,select,recipients {{1,select,true {Edit Recipients} other {Add Recipients}}} subject {Edit Subject} other {Edit Personal Message}}
+{1,select,false{{0,plural,=0 {{0,number,integer} characters remaining.}one {{0,number,integer} character remaining.}other {{0,number,integer} characters remaining.}}}other {Message size exceeds the limit. {0,plural,=0 {Please remove {0,number,integer} characters to proceed.}one {Please remove {0,number,integer} character to proceed.}other {Please remove {0,number,integer} characters to proceed.}}}}
+A free preview of the book will be included in your post.
+Add Recipient
+Add Recipients
+Also share on:
+Are you sure you want to remove {0} from the list of e-mail addresses?
+Book will be shelved as "Currently Reading"
+Cancel
+CANCEL
+Check out this book - "{0}"
+Check out this book - “{0}”
+Check out this book.
+Check out this quote
+Check out this quote.
+Close
+CLOSE
+Connected
+Delete
+Edit E-mail Address
+Edit Message
+Edit Recipients
+Edit Subject
+Edit
+E-mail
+E-mail Address Limit
+E-mail is being sent.
+Enter e-mail address
+Error
+Hi, I think you should check out this book. Let me know what you think.
+Hi, I'm reading this book and wanted to share this quote with you.
+Loading the QR code for WeChat...
+Message is being shared.
+Message is too long. Please shorten your message to share.
+Options
+PERSONAL MESSAGE:
+Please select a social network.
+Remove E-mail Address
+REMOVE
+Save
+SAVE
+Scan the QR code with the WeChat app to share this book with your friends.
+Select E-mail Address
+Send me a copy
+SEND
+Share Note
+Share on:
+Share Progress on Goodreads
+Share Quote
+Share Selection
+Share to Facebook
+Share to Twitter
+Share to WeChat
+Share to Weibo
+Share
+SUBJECT:
+The quote may be truncated to fit. A link to the book will be included with your message.
+The quote you've selected is too long to share. Please select a shorter quote and try again.
+There was a problem. Please try again later.
+There was a problem sending your message. Please try again later.
+This e-mail will include a free preview of the book.
+This e-mail will include your quote and a free preview of the book.
+TO:
+Unable to retrieve your social network settings. Please try again later.
+Unable to share
+Updating settings...
+Web Browser Locked
+We're sorry. We encountered a problem when trying to share from this book. Please make sure you have a valid e-mail address associated with your Amazon account.
+You have reached the limit of {0,plural,=0 {} one {{0,number,integer} e-mail address} other {{0,number,integer} e-mail addresses}} can be stored on your Kindle. In order to add a new e-mail address, you must remove one already on your list.
+Your selected quote and a free preview of the book will be included in your post.
+You’ve reached the quote sharing limit for this book. You can still recommend the book to others. Thanks for sharing.

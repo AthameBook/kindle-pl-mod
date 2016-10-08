@@ -1,0 +1,27 @@
+{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}
+Abc
+Archived Items
+Blog
+Book
+Collection
+COLLECTION
+COMPLETE
+Dictionaries
+Dictionary
+DOWNLOADING...
+EXPIRING
+Images
+Letter
+Magazine
+MUSIC
+My Clippings
+Newspaper
+Notice
+ON LOAN
+OPENING...
+Periodical Back Issues
+Personal
+Receipt
+Rental
+WHITE

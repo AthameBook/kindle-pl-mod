@@ -1,0 +1,63 @@
+{0,choice, -1#Unknown|0#{0,number,integer} MB free}
+{0,select, facebook {Unlink Facebook} twitter {Unlink Twitter} goodreads {Unlink Goodreads} weibo {Unlink Sina Weibo} other {}}
+Add New Adult
+Already signed up to an account using WeChat? You can sign in with your mobile phone number and password. If you do not have a password, set it at https://www.amazon.cn/password.
+Amazon ID
+Are you sure you want to delete all Wi-Fi passwords saved to Amazon from this device?
+Are you sure you want to unlink your account? You will no longer be able to access Goodreads with your Amazon login. To retain this account, please set up a Goodreads password at goodreads.com > Edit Profile > Settings before you unlink.
+Authentication Help
+Cancel
+Close
+Delete Saved Wi-Fi Passwords
+Delete
+Deregister Your Kindle
+Deregistering Your Kindle…
+Deregister
+Device Info
+Device Name
+Disable
+Enable
+Enter your Amazon account information.
+Enter your Amazon password
+Firmware Version: 
+First Name
+Gender
+Hide Password
+<html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB free}{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>
+Incorrect password. Please try again
+Join Household
+Language
+Login ID
+Network Capability: 
+Password
+Personalise your Kindle by giving it a name that appears on the Home screen.
+Please log in to Goodreads.com and unlink your Facebook account under "Edit Profile > apps"
+Register Your Kindle
+Registering Your Kindle…
+Register
+Registration Failed
+Registration Help
+Save
+Serial Number: 
+Sign In for {0}
+Space Available: 
+There was an error while authenticating your account. Please try again later.
+There was an error whilst deregistering your device. Please try again later.
+There was an error whilst registering your Kindle. Please try again later.
+There's an issue with your registration information. Please verify that you've entered your login ID and password correctly. If you're having trouble, check your email or text messages for a one-time password from Amazon. If you continue to run into issues, please contact Kindle Customer Service at www.amazon.com/devicesupport.
+Try Again
+Unable to Connect
+Unable to Process Registration
+Unavailable
+Unlink
+We are unable to delete the Wi-Fi passwords from this device. Please try again later, or contact Customer Service.
+What's New
+Whispersync for Books uses data from this device to keep your Kindle apps in sync, back up your annotations and provide other features. If you turn off Whispersync for this device, this device will not send such usage data to Amazon's servers and some features will be unavailable to you, including syncing your reading location from this device across other devices.
+Whispersync for Books
+Wi-Fi MAC Address: 
+Your Amazon account will no longer be linked with your Facebook account.
+Your Amazon account will no longer be linked with your Twitter account.
+Your Amazon account will no longer be linked with your Weibo account.
+Your Kindle is currently unable to connect. Please make sure you are within wireless range and try again. If the problem persists, restart your Kindle from Menu in Settings and try again.
+Your Kindle will be deregistered from your Amazon account, some features will not work, and some settings may not be saved. After deregistering, you can register your Kindle to another Amazon account.~~Are you sure you want to deregister?
+Your Kindle will be deregistered from your Amazon account. This will remove all content from the device and many features will not work. Items you purchased from an Amazon store will remain available in the Cloud and can be downloaded again. After deregistering, you can register your Kindle to another Amazon account. Are you sure you want to deregister?

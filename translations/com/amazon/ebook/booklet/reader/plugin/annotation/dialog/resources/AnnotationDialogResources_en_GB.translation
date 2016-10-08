@@ -1,0 +1,26 @@
+{0,plural,=0 {} =1 {1 highlighter} other {{0,number,integer} highlighters}}
+{0}’s Highlight
+{0}’s Note
+{0,select, false{Page {1}} true{Loc {1}} other {}}
+Cancel
+Chapter
+Delete
+Edit
+Export Notes
+Exporting Notes...
+Go to Location
+Note
+Notes Exported
+Notes
+Popular
+Public
+Send
+Share
+Sorry, we are having trouble with exporting your notes at the moment. Please try again later.
+Sorry! We don't have an e-mail address for your Amazon account.
+Thanks – the e-mail with your notes is on its way.
+Unable to Export Notes
+View
+We will send your notes and highlights to the e-mail address on your Amazon account.
+You do not have any notes or highlights.
+Yours

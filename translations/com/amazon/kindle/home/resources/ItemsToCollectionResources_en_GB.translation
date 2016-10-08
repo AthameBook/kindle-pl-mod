@@ -1,0 +1,10 @@
+{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}
+ALL ITEMS
+All Items
+Books
+BOOKS
+Docs
+DOCS
+Done
+Periodicals
+PERIODICALS

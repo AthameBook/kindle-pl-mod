@@ -1,0 +1,3 @@
+{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {{0,choice,0#Comments ({0,number,integer})|100#Comments (99+)}}}
+{0,select, liked {{1,choice,0# Like ({1,number,integer})|100# Like (99+)}} other {{1,choice,0#Like|1#Like ({1,number,integer})|100#Like (99+)}}}
+More…

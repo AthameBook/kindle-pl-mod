@@ -1,0 +1,23 @@
+{0, select, 0 {Dictionary} 1 {Dictionary and {1}} other {Dictionary and References}}
+{0, select, 1 {{1}} other {Other References}}
+{0,select,empty {There are no results} loading {Loading results…} connectionerror {Connect to network } error {Problem loading results} other {}}
+Dictionary
+Items Not Yet Indexed
+Items Not Yet Indexed ({0,number,integer})
+Kindle Store
+Kindle Store ({0,number,integer})
+Memory Full
+My Items
+My Items ({0})
+Search Results
+SEARCH RESULTS
+Search Results for "{0}"
+Search Summary
+See All 
+Showing {0, number, integer}
+Text in Books
+TEXT IN BOOKS
+Text in Books ({0,number,integer})
+There werenʼt any content matches in your library for "{0}".
+There werenʼt any title or author matches in your library for "{0}".
+Your search was not successful because your Kindle memory is full. Please make more Kindle memory available by removing content from the Home screen.

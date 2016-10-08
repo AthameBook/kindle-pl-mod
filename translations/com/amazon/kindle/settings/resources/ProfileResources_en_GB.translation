@@ -1,0 +1,41 @@
+{0, plural, =0 {{0,number,integer} Books } one {{0,number,integer} Book } other {{0,number,integer} Books }}{1,plural, =0 {} one {} other {from your household}}
+{0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}
+{0, select, male {Boy} female {Girl} other {Boy}}
+{0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}
+{0, select, male {You have not added any items to {1}'s Kindle for Kids.} female {You have not added any items to {1}'s Kindle for Kids.} other {You have not added any items to {1}'s Kindle for Kids.}}
+{0} will be removed from your Household on all your devices.
+{0} will no longer be able to access all your books by default. You can still share individual books with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?
+Access Achievements
+Add Items
+All progress and achievements will be lost upon deletion. The profile will also not be available on other devices. Are you sure you want to delete {0, select, male {<em>{1}ʼs</em> profile} female {<em>{1}ʼs</em> profile} other {<em>{1}ʼs</em> profile}}?
+All progress and achievements will be lost upon removal, but will be available on other devices. Are you sure you want to delete the profile, <em>{0}</em>, from this device?
+Are you sure you want to leave this Household? You will not be allowed to join or start a household with another adult for 180 days.~~~~You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted.~~~~You will no longer be able to administer child accounts that are part of this household.
+Cancel
+Daily Reading Goal
+Date of Birth
+Delete Profile
+Delete
+Devices
+Enabled
+Family Library 
+Finish
+First Name
+Gender
+Ignore
+Leave Household
+Let your child see their Achievement Reports.
+Manage payment methods associated with your Amazon account for purchases on Amazon.
+Name
+No Content
+Not Enabled
+Payment Information
+Select devices that should show {0}'s shared content.
+Set how many minutes your child should read for each day.
+Share All Books
+Share all your current and future purchased books with {0}.
+Share books and other digital content with {0}. 
+This will share all your current and future purchased books with {0}. You can still block individual books from being shared with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?
+Turn Off Book Sharing
+Turn Off Family Library
+Unrestricted Access to Wikipedia
+You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted. Do you want to continue?

@@ -1,0 +1,329 @@
+" files"
+
+"(None)"
+
+"A bitmask representing the state of the modifier keys"
+
+"A username and password are being requested by the site %s"
+
+"Alternate Title"
+
+"An associated WebKitWebSettings instance"
+
+"Auto Load Images"
+
+"Auto Shrink Images"
+
+"Automatically shrink standalone images to fit."
+
+"Button"
+
+"Check Spelling While _Typing"
+
+"Check _Grammar With Spelling"
+
+"Choose File"
+
+"Cop_y Image"
+
+"Copy Link Loc_ation"
+
+"Copy target list"
+
+"Current Size"
+
+"Cursive Font Family"
+
+"Custom Encoding"
+
+"Default Encoding"
+
+"Default Font Family"
+
+"Default Font Size"
+
+"Default Monospace Font Size"
+
+"Destination URI"
+
+"Determines the current progress of the download"
+
+"Determines the current status of the download"
+
+"Editable"
+
+"Enable Developer Extras"
+
+"Enable JavaScript profiling"
+
+"Enable Plugins"
+
+"Enable Private Browsing"
+
+"Enable Scripts"
+
+"Enable embedded plugin objects."
+
+"Enable embedded scripting languages."
+
+"Enables private browsing mode"
+
+"Enables special extensions that help developers"
+
+"Encoding"
+
+"Enforce 96 DPI"
+
+"Enforce a resolution of 96 DPI"
+
+"Fantasy Font Family"
+
+"Full content zoom"
+
+"Ignore _Grammar"
+
+"Input _Methods"
+
+"Inspect _Element"
+
+"Inspected URI"
+
+"LRE Left-to-right _embedding"
+
+"LRM _Left-to-right mark"
+
+"LRO Left-to-right _override"
+
+"Last visited Time"
+
+"Load images automatically."
+
+"Minimum Font Size"
+
+"Minimum Logical Font Size"
+
+"Modifier state"
+
+"Monospace Font Family"
+
+"Name"
+
+"Network Request"
+
+"No Guesses Found"
+
+"No recent searches"
+
+"Open Link in New _Window"
+
+"Open _Frame in New Window"
+
+"Open _Image in New Window"
+
+"Original URI"
+
+"PDF _Pop directional formatting"
+
+"Password:"
+
+"Paste target list"
+
+"Print Backgrounds"
+
+"Profile the executed JavaScript."
+
+"Progress"
+
+"RLE Right-to-left e_mbedding"
+
+"RLM _Right-to-left mark"
+
+"RLO Right-to-left o_verride"
+
+"Reason"
+
+"Recent searches"
+
+"Reset"
+
+"Resizable Text Areas"
+
+"Returns the @web_view's document title"
+
+"Returns the current URI of the contents displayed by the @web_view"
+
+"Sa_ve Image As"
+
+"Sans Serif Font Family"
+
+"Serif Font Family"
+
+"Settings"
+
+"Spelling and _Grammar"
+
+"Status"
+
+"Submit"
+
+"Suggested Filename"
+
+"The URI of a stylesheet that is applied to every page."
+
+"The URI of the history item"
+
+"The URI that is currently being inspected"
+
+"The URI that was requested as the target for the navigation"
+
+"The Web View that renders the Web Inspector itself"
+
+"The alternate title of the history item"
+
+"The associated WebKitWebInspector instance"
+
+"The button used to click"
+
+"The current URI of the contents displayed by the frame"
+
+"The custom encoding of the web view"
+
+"The default Cursive font family used to display text."
+
+"The default Fantasy font family used to display text."
+
+"The default Sans Serif font family used to display text."
+
+"The default Serif font family used to display text."
+
+"The default encoding of the web view"
+
+"The default encoding used to display text."
+
+"The default font family used to display monospace text."
+
+"The default font family used to display text."
+
+"The default font size used to display monospace text."
+
+"The default font size used to display text."
+
+"The destination URI where to save the file"
+
+"The document title of the frame"
+
+"The filename suggested as default when saving"
+
+"The length of the data already downloaded"
+
+"The level of zoom of the content"
+
+"The list of targets this web view supports for clipboard copying"
+
+"The list of targets this web view supports for clipboard pasting"
+
+"The minimum font size used to display text."
+
+"The minimum logical font size used to display text."
+
+"The name of the frame"
+
+"The network request for the URI that should be downloaded"
+
+"The original URI of the history item"
+
+"The reason why this navigation is occurring"
+
+"The time at which the history item was last visited"
+
+"The title of the history item"
+
+"The total size of the file"
+
+"The value by which the zoom level is changed when zooming in or out."
+
+"Title"
+
+"Total Size"
+
+"Transparent"
+
+"URI"
+
+"Unknown"
+
+"Upload File"
+
+"User Stylesheet URI"
+
+"User cancelled the download"
+
+"Username:"
+
+"Web Inspector"
+
+"Web View"
+
+"Whether background images should be printed."
+
+"Whether content can be modified by the user"
+
+"Whether content has a transparent background"
+
+"Whether text areas are resizable."
+
+"Whether the full content is scaled when zooming"
+
+"ZWJ Zero width _joiner"
+
+"ZWNJ Zero width _non-joiner"
+
+"ZWS _Zero width space"
+
+"Zoom Stepping Value"
+
+"Zoom level"
+
+"_Check Document Now"
+
+"_Clear recent searches"
+
+"_Download Linked File"
+
+"_Font"
+
+"_Hide Spelling and Grammar"
+
+"_Ignore Spelling"
+
+"_Insert Unicode Control Character"
+
+"_Learn Spelling"
+
+"_Look Up in Dictionary"
+
+"_Open Link"
+
+"_Outline"
+
+"_Reload"
+
+"_Search the Web"
+
+"_Show Spelling and Grammar"
+
+"activate"
+
+"tick"
+
+"definition"
+
+"jump"
+
+"press"
+
+"select"
+
+"term"
+
+"untick"

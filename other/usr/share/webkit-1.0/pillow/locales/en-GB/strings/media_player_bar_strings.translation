@@ -1,5 +1,5 @@
-Track {index,number,integer} of {count,number,integer}
-Off
-Unknown Artists
-{width}px
-0 {right} 0 0
+Track {index,number,integer} of {count,number,integer}	Ścieżka {index,number,integer} z {count,number,integer}
+Off	Wył.
+Unknown Artists	Nieznany artysta
+{width}px	{width}px
+0 {right} 0 0	0 {right} 0 0

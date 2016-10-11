@@ -10,7 +10,7 @@
 
 "Use %s as your device language?"	"Czy ustawić na Kindle język %s?"
 
-"Updating"	"Aktualizowanie"
+"Updating"	"Trwa aktualizacja"
 
 "Update Error: %s"	"Błąd aktualizacji: %s"
 
@@ -41,7 +41,7 @@
 "Version:%lld\n"	"Wersja:%lld\n"
 "DSN:%s"	"DSN:%s"
 
-"Please wait whilst we install font updates. This may take a few minutes."	"Proszę poczekać, aż zainstaluje się zaktualizowana czcionka. Może to potrwać kilka minut."
+"Please wait whilst we install font updates. This may take a few minutes."	"Proszę poczekać na zakończenie aktualizacji czcionek. Może to potrwać kilka minut."
 
 "Please wait a moment while your Kindle starts up."	"Poczekaj na ponowne uruchomienie Twojego Kindle."
 
@@ -62,8 +62,8 @@
 "USB Drive Mode"	"Tryb dysku USB"
 
 "If you want to read or shop on your Kindle while continuing to charge over "	"Jeśli chcesz czytać lub robić zakupy w trakcie ładowania przez USB, proszę "
-"USB, please keep the USB cable attached, but eject your Kindle from your "	"pozostawić podłączony przewód USB, ale odłączyć Kindle w systemie "
-"computer."	"komputera."
+"USB, please keep the USB cable attached, but eject your Kindle from your "	"pozostawić podłączony przewód USB, ale bezpiecznie odłączyć Kindle "
+"computer."	"w systemie komputera."
 
 "If you wish to use your Kindle, please eject it from your computer.\n"	"Jeśli chcesz pracować na swoim Kindle, to odłącz go od komputera\n"
 "Currently, your Kindle is not charging."	"Kindle nie jest ładowany."

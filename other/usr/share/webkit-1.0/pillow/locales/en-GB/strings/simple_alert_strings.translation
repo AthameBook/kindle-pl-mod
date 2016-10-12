@@ -98,7 +98,6 @@ Device Reset Pending	Zaplanowane przywrócenie ustawień fabrycznych
 This is a managed device. It has been instructed to reset to factory defaults, which will remove all downloaded and transferred content. This process will begin shortly. Please wait until this process is complete. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Za chwilę zostanie uruchomione przywrócenie ustawień fabrycznych, które usunie całą zawartość z Twojego Kindle. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
 Error	Błąd
 Your purchase could not be completed. We are experiencing technical difficulties. Please try again later.	Nie można dokończyć zakupów. Mamy teraz problemy techniczne. Spróbuj ponownie później.
-Error	Błąd
 We are unable to process your request. Please try again later.	Nie jesteśmy w stanie przetworzyć Twojego zapytania. Spróbuj ponownie później.
 Purchase Limit Reached	Osiągnięto limit zakupów
 Your purchase could not be completed. You have reached the maximum purchase quantity.	Nie można dokończyć zakupów. Osiągnięta została maksymalna liczba zakupów.
@@ -120,15 +119,11 @@ Power	Zasilanie
 Please select from the following options:	Wybierz z następujących opcji:
 VoiceView	VoiceView
 VoiceView is not supported. Please turn off Parental Controls and Device Passcode, if any, and also keep the device language set to English to turn on VoiceView.	VoiceView nie jest obsługiwane. Proszę wyłączyć kontrolę rodzicielską i, jeśli istnieje, kod dostępu urządzenia, a także ustawić język urządzenia na angielski, aby włączyć VoiceView.
-VoiceView	VoiceView
 Please turn off Parental Controls before turning on VoiceView.	Proszę wyłączyć kontrolę rodzicielską przed włączeniem VoiceView.
-VoiceView	VoiceView
 Please turn off the passcode on your Kindle to enable VoiceView.	Proszę wyłączyć kod dostępu do urządzenia na swoim Kindle do włączenia VoiceView.
-VoiceView	VoiceView
 Please set the device language to English (US) or English (UK) before turning on VoiceView.	Proszę ustawić język interfejsu urządzenia na Angielski (US) lub Polski przed włączeniem VoiceView.
 Alert	Alarm
 We detect that you've unplugged your USB adaptor. VoiceView will be turned off.	Wykryliśmy, że odłączyłeś swój adapter USB. VoiceView zostanie wyłączone.
-VoiceView	VoiceView
 The VoiceView screen reader has been enabled on your Kindle.&nbsp<br><br>VoiceView will provide spoken feedback when you interact with the Kindle screen.	Czytanie z ekranu VoiceView zostało włączone na Twoim Kindle.&nbsp<br><br>VoiceView będzie mówił podczas obsługiwania ekranu czytnika.
 Screen Off	Wyłącz
 Updating Fonts	Aktualizacja czcionek
@@ -151,11 +146,8 @@ Device Error	Błąd urządzenia
 An unrecoverable device error has occurred. Please back up all of your non-Amazon content to avoid data loss. When your backup is complete, tap Continue.	Wystąpił nienaprawialny błąd urządzenia. Proszę wykonać kopię zapasową wszystkich danych spoza Amazonu, aby uniknąć utraty tych danych. Po wykonaniu kopii, dotknij Kontynuuj.
 Continue	Kontynuuj
 Voice Files Not Detected	Nie wykryto plików z głosami
-Alert	Alarm
 The charging cover has been disconnected. VoiceView will be turned off.	Ładowanie okładki zostało przerwane. VoiceView zostanie wyłączony.
-Alert	Alarm
 Your Kindle battery is low. Enabling VoiceView will drain the battery faster.	Niski poziom naładowania baterii. Włączenie funkcji VoiceView szybciej rozładuje baterię.
-VoiceView	VoiceView
 Bluetooth Device not Found	Nie odnaleziono urządzenia Bluetooth
 Searching for Bluetooth audio devices to pair with your Kindle VoiceView screen reader.<br><br>Please wait...	Wyszukiwanie urządzeń audio Bluetooth do sparowania z czytaniem z ekranu VoiceView.<br><br>Proszę czekać...
 Cannot find Bluetooth audio device.<br><br>Make sure your device is on and within range.	Nie można odnaleźć urządzeń audio Bluetooth.<br><br>Upewnij się, że Twoje urządzenie jest włączone i znajduje się w pobliżu.

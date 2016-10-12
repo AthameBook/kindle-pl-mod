@@ -16,7 +16,7 @@ Sorry, roaming is not allowed.	Przepraszamy, roaming jest niedostępny.
 Sorry, the device was blocked.	Przepraszamy, urządzenie jest zablokowane.
 Sorry, the application was blocked.	Przepraszamy, aplikacja jest zablokowana.
 Sorry, the application has exceeded its quota.	Przepraszamy, aplikacja przekroczyła swój limit.
-Sorry, access to Whispernet is blocked.	Przepraszamy, dostęp do Whispernet jest zablokowany.	
+Sorry, access to Whispernet is blocked.	Przepraszamy, dostęp do Whispernet jest zablokowany.
 Bookmarks	Zakładki
 Edit Bookmark	Edytuj zakładkę
 Remove a Bookmark	Usuń zakładkę
@@ -36,9 +36,7 @@ Wi-Fi Connection Required	Wymagane połączenie Wi-Fi
 Website Inaccessible	Strona internetowa jest niedostępna
 Article Mode	Tryb artykułu
 Web Mode	Tryb strony internetowej
-Bookmarks	Zakładki
 Bookmark this Page	Dodaj zakładkę do tej strony
-History	Historia
 Browser Settings	Ustawienia przeglądarki
 Clear History	Wyczyść historię
 Clear Cookies	Wyczyść ciasteczka
@@ -52,11 +50,8 @@ Download {filename}?<br><br>Once the download is complete, the file will appear 
 The Experimental Web Browser successfully downloaded {filename}.	Przeglądarka prawidłowo pobrała plik {filename}.
 Another page with the same URL is already bookmarked.<br><br>Do you wish to overwrite it?	Inna strona z tym samym adresem URL jest już zakładką.<br><br>Czy chcesz ją zastąpić?
 Web	Internet
-Web	Internet
 Web Address	Adres internetowy
-Search Google	Google
+Search Google	Szukaj w Google
 Google	Google
-Google	Google
-Search Baidu	Baidu
-Baidu	Baidu
+Search Baidu	Szukaj w Baidu
 Baidu	Baidu

@@ -1,329 +1,165 @@
-" files"	" pliki"
-
-"(None)"	"(Brak)"
-
-"A bitmask representing the state of the modifier keys"	"Maska bitowa reprezentująca stan klawiszy modyfikujących"
-
-"A username and password are being requested by the site %s"	"Żądanie podania nazwy użytkownika i hasła wysłane przez stronę %s"
-
-"Alternate Title"	"Alternatywny tytuł"
-
-"An associated WebKitWebSettings instance"	"Powiązana instancja WebKitWebSettings"
-
-"Auto Load Images"	"Automatyczne ładowanie obrazków"
-
-"Auto Shrink Images"	"Automatyczne zmniejszanie obrazków"
-
-"Automatically shrink standalone images to fit."	"Automatycznie zmniejszanie wielkości obrazów, aby zmieściły się na ekranie."
-
-"Button"	"Przycisk"
-
-"Check Spelling While _Typing"	"_Sprawdzanie pisowni w trakcie pisania"
-
-"Check _Grammar With Spelling"	"Sprawdzanie _gramatyki w trakcie pisania"
-
-"Choose File"	"Wybierz plik"
-
-"Cop_y Image"	"Ko_piuj obrazek"
-
-"Copy Link Loc_ation"	"_Kopiuj adres lokacji"
-
-"Copy target list"	"Lista celów kopiowania"
-
-"Current Size"	"Obecny rozmiar"
-
-"Cursive Font Family"	"Zestaw czcionek pochyłych"
-
-"Custom Encoding"	"Niestandardowe kodowanie"
-
-"Default Encoding"	"Domyślne kodowanie"
-
-"Default Font Family"	"Domyślny zestaw czcionek"
-
-"Default Font Size"	"Domyślny rozmiar czcionki"
-
-"Default Monospace Font Size"	"Domyślny rozmiar czcionki z ustaloną szerokością"
-
-"Destination URI"	"Docelowy adres URI"
-
-"Determines the current progress of the download"	"Informacje o bieżącym postępie pobierania"
-
-"Determines the current status of the download"	"Informacje o bieżącym stanie pobierania"
-
-"Editable"	"Edytowalne"
-
-"Enable Developer Extras"	"Włącz dodatki dla deweloperów"
-
-"Enable JavaScript profiling"	"Włącz profilowanie języka JavaScript"
-
-"Enable Plugins"	"Włącz wtyczki"
-
-"Enable Private Browsing"	"Włącz przegladanie prywatne"
-
-"Enable Scripts"	"Włącz skrypty"
-
-"Enable embedded plugin objects."	"Włącz osadzanie wtyczek."
-
-"Enable embedded scripting languages."	"Włącz osadzanie języka skryptowego."
-
-"Enables private browsing mode"	"Wł. tryb prywatnego przeglądania stron"
-
-"Enables special extensions that help developers"	"Wł. specjalne dodatki, które wspomagają deweloperów"
-
-"Encoding"	"Kodowanie"
-
-"Enforce 96 DPI"	"Wymuś 96 DPI"
-
-"Enforce a resolution of 96 DPI"	"Wymuś rozdzielczość 96 DPI"
-
-"Fantasy Font Family"	"Zestaw czcionek Fantasy"
-
-"Full content zoom"	"Zmiana rozmiaru całej zawartości"
-
-"Ignore _Grammar"	"Ignoruj _gramatykę"
-
-"Input _Methods"	"Metody _wprowadzania"
-
-"Inspect _Element"	"Sprawdź _pozycję"
-	
-"Inspected URI"	"Sprawdzony adres URI"
-	
-"LRE Left-to-right _embedding"	"LRE - _osadzanie od lewej do prawej"
-
-"LRM _Left-to-right mark"	"LRM - znak od l_ewej do prawej"
-
-"LRO Left-to-right _override"	"LRO - _nadpisywanie od lewej do prawej"
-
-"Last visited Time"	"Czas ostatniej wizyty"
-
-"Load images automatically."	"Automatyczne ładowanie obrazków."
-
-"Minimum Font Size"	"Minimalny rozmiar czcionki"
-
-"Minimum Logical Font Size"	"Minimalny logiczny rozmiar czcionki"
-
-"Modifier state"	"Stan modyfikatora"
-
-"Monospace Font Family"	"Zestaw czcionek ze stałą szerokością"
-
-"Name"	"Nazwa"
-
-"Network Request"	"Żądanie z sieci"
-
-"No Guesses Found"	"Nie znaleziono żadnych sugestii"
-
-"No recent searches"	"Brak wcześniejszych wyników wyszukiwania"
-
-"Open Link in New _Window"	"Otwórz skrót w nowym _oknie"
-
-"Open _Frame in New Window"	"Otwórz _ramkę w nowym oknie"
-
-"Open _Image in New Window"	"Otwórz o_brazek w nowym oknie"
-
-"Original URI"	"Oryginalny adres URI"
-
-"PDF _Pop directional formatting"	"PDF _znak formatowania kierunku tekstu"
-
-"Password:"	"Hasło:"
-
-"Paste target list"	"Lista docelowa wklejania"
-
-"Print Backgrounds"	"Drukuj tło"
-
-"Profile the executed JavaScript."	"Profil uruchamiania skryptów JavaScript."
-
-"Progress"	"Postęp"
-
-"RLE Right-to-left e_mbedding"	"RLE - o_sadzanie od prawej do lewej"
-
-"RLM _Right-to-left mark"	"RLM - znak od p_rawej do lewej"
-
-"RLO Right-to-left o_verride"	"RLO - na_dpisywanie od prawej do lewej"
-
-"Reason"	"Powód"
-
-"Recent searches"	"Najnowsze wyniki wyszukiwania"
-
-"Reset"	"Reset"
-
-"Resizable Text Areas"	"Pole tekstowe o zmiennym rozmiarze"
-
-"Returns the @web_view's document title"	"Zwraca tytuł dokumentu @web_view"
-
-"Returns the current URI of the contents displayed by the @web_view"	"Zwraca aktualny adres URI zawartości wyświetlanej przez @web_view"
-
-"Sa_ve Image As"	"_Zapisz obrazek jako"
-
-"Sans Serif Font Family"	"Zestaw czcionek Sans Serif"
-
-"Serif Font Family"	"Zestaw czcionek Serif"
-
-"Settings"	"Ustawienia"
-
-"Spelling and _Grammar"	"Sprawdzanie pisowni i _gramatyki"
-
-"Status"	"Stan"
-
-"Submit"	"Zatwierdź"
-
-"Suggested Filename"	"Proponowana nazwa pliku"
-
-"The URI of a stylesheet that is applied to every page."	"Adres URI arkusza stylów, który będzie zastosowany do każdej strony."
-
-"The URI of the history item"	"Adres URI elementu historii"
-
-"The URI that is currently being inspected"	"Adres URI, który jest obecnie sprawdzany"
-
-"The URI that was requested as the target for the navigation"	"Adres URI, który jest żądany jako cel nawigacji"
-
-"The Web View that renders the Web Inspector itself"	"Widok strony internetowej renderowany przez kontroler WWW"
-
-"The alternate title of the history item"	"Alternatywny tytuł elementu historii"
-
-"The associated WebKitWebInspector instance"	"Powiązana instancja WebKitWebInspector"
-
-"The button used to click"	"Przycisk używany do klikania"
-
-"The current URI of the contents displayed by the frame"	"Aktualny adres URI zawartości wyświetlanej w ramce"
-
-"The custom encoding of the web view"	"Niestandardowe kodowanie widoku strony internetowej"
-
-"The default Cursive font family used to display text."	"Domyślny zestaw czcionek pochyłych używany do wyświetlania tekstu."
-
-"The default Fantasy font family used to display text."	"Domyślny zestaw czcionek Fantasy używany do wyświetlania tekstu."
-
-"The default Sans Serif font family used to display text."	"Domyślny zestaw czcionek Sans Serif używany do wyświetlania tekstu."
-
-"The default Serif font family used to display text."	"Domyślny zestaw czcionek Serif używany do wyświetlania tekstu."
-
-"The default encoding of the web view"	"Domyślne kodowanie widoku strony internetowej"
-
-"The default encoding used to display text."	"Domyślne kodowanie tekstu używane do wyświetlania tekstu."
-
-"The default font family used to display monospace text."	"Domyślny zestaw czcionek używany do wyświetlania tekstu o stałej szerokości."
-
-"The default font family used to display text."	"Domyślny zestaw czcionek używany do wyświetlania tekstu.."
-
-"The default font size used to display monospace text."	"Domyślny rozmiar czcionki używany do wyświetlania tekstu o stałej szerokości."
-
-"The default font size used to display text."	"Domyślny rozmiar czcionki używany do wyświetlania tekstu."
-
-"The destination URI where to save the file"	"Docelowy adres URI, gdzie należy zapisać plik"
-
-"The document title of the frame"	"Tytuł dokumentu w ramce"
-
-"The filename suggested as default when saving"	"Domyślna nazwa pliku sugerowana przed zapisem"
-
-"The length of the data already downloaded"	"Rozmiar pobranych danych"
-
-"The level of zoom of the content"	"Poziom powiększenia zawartości"
-
-"The list of targets this web view supports for clipboard copying"	"Lista celów, dla których widok strony internetowej wspiera kopiowanie do schowka"
-
-"The list of targets this web view supports for clipboard pasting"	"Lista celów, dla których widok strony internetowej wspiera wklejanie ze schowka"
-
-"The minimum font size used to display text."	"Minimalny rozmiar czcionki używany do wyświetlania tekstu."
-
-"The minimum logical font size used to display text."	"Minimalny logiczny rozmiar czcionki używany do wyświetlania tekstu."
-
-"The name of the frame"	"Nazwa ramki"
-
-"The network request for the URI that should be downloaded"	"Żądanie sieciowe dla adresu URI, który ma być pobierany"
-
-"The original URI of the history item"	"Oryginalny adres URI elementu historii"
-
-"The reason why this navigation is occurring"	"Powód dla którego wystąpiła ta nawigacja"
-
-"The time at which the history item was last visited"	"Czas ostatniej wizyty w elemencie historii"
-
-"The title of the history item"	"Tytuł elementu historii"
-
-"The total size of the file"	"Całkowity rozmiar pliku"
-
-"The value by which the zoom level is changed when zooming in or out."	"Wartość, o którą zmienia się poziom powiększenia lub pomniejszenia."
-
-"Title"	"Tytuł"
-
-"Total Size"	"Całkowity rozmiar"
-
-"Transparent"	"Przeźroczysty"
-
-"URI"	"Adres URI"
-
-"Unknown"	"Nieznany"
-
-"Upload File"	"Ładowanie pliku"
-
-"User Stylesheet URI"	"Adres URI arkusza stylów użytkownika"
-
-"User cancelled the download"	"Użytkownik przerwał pobieranie"
-
-"Username:"	"Nazwa użytkownika:"
-
-"Web Inspector"	"Kontroler strony internetowej"
-
-"Web View"	"Widok strony internetowej"
-
-"Whether background images should be printed."	"Czy obrazki tła powinny być drukowane."
-
-"Whether content can be modified by the user"	"Czy zawartość może być zmieniana przez użytkownika"
-
-"Whether content has a transparent background"	"Czy zawartość ma przeźroczyste tło"
-
-"Whether text areas are resizable."	"Czy pola tekstowe mają zmienny rozmiar."
-
-"Whether the full content is scaled when zooming"	"Czy cała zawartość jest skalowana przy powiększaniu"
-
-"ZWJ Zero width _joiner"	"ZWJ - _spójnik zerowej szerokości"
-
-"ZWNJ Zero width _non-joiner"	"ZWNJ - rozłącznik z_erowej szerokości"
-
-"ZWS _Zero width space"	"ZWS - spacja _zerowej szerokości"
-
-"Zoom Stepping Value"	"Wartość kroku powiększenia"
-
-"Zoom level"	"Poziom powiększenia"
-
-"_Check Document Now"	"_Sprawdź dokument"
-
-"_Clear recent searches"	"_Wyczyść poprzednie wyniki wyszukiwania"
-
-"_Download Linked File"	"_Pobierz powiązany plik"
-
-"_Font"	"_Czcionka"
-
-"_Hide Spelling and Grammar"	"_Ukryj sprawdzanie pisowni i gramatyki"
-
-"_Ignore Spelling"	"_Ignoruj sprawdzanie pisowni"
-
-"_Insert Unicode Control Character"	"Ws_taw kontrolny znak Unicode"
-
-"_Learn Spelling"	"_Ucz się sprawdzania pisowni"
-
-"_Look Up in Dictionary"	"_Sprawdź w słowníku"
-
-"_Open Link"	"_Otwórz skrót"
-
-"_Outline"	"K_ontury"
-
-"_Reload"	"_Przeładuj"
-
-"_Search the Web"	"_Wyszukaj w sieci Web"
-
-"_Show Spelling and Grammar"	"_Pokaż sprawdzanie pisowni i gramatyki"
-
-"activate"	"aktywuj"
-
-"tick"	"zaznacz"
-
-"definition"	"definicja"
-
-"jump"	"przeskocz"
-
-"press"	"naciśnij"
-
-"select"	"wybierz"
-
-"term"	"termin"
-
-"untick"	"odznacz"
+ files	 pliki
+(None)	(Brak)
+A bitmask representing the state of the modifier keys	Maska bitowa reprezentująca stan klawiszy modyfikujących
+A username and password are being requested by the site %s	Żądanie podania nazwy użytkownika i hasła wysłane przez stronę %s
+Alternate Title	Alternatywny tytuł
+An associated WebKitWebSettings instance	Powiązana instancja WebKitWebSettings
+Auto Load Images	Automatyczne ładowanie obrazków
+Auto Shrink Images	Automatyczne zmniejszanie obrazków
+Automatically shrink standalone images to fit.	Automatycznie zmniejszanie wielkości obrazów, aby zmieściły się na ekranie.
+Button	Przycisk
+Check Spelling While _Typing	_Sprawdzanie pisowni w trakcie pisania
+Check _Grammar With Spelling	Sprawdzanie _gramatyki w trakcie pisania
+Choose File	Wybierz plik
+Cop_y Image	Ko_piuj obrazek
+Copy Link Loc_ation	_Kopiuj adres lokacji
+Copy target list	Lista celów kopiowania
+Current Size	Obecny rozmiar
+Cursive Font Family	Zestaw czcionek pochyłych
+Custom Encoding	Niestandardowe kodowanie
+Default Encoding	Domyślne kodowanie
+Default Font Family	Domyślny zestaw czcionek
+Default Font Size	Domyślny rozmiar czcionki
+Default Monospace Font Size	Domyślny rozmiar czcionki z ustaloną szerokością
+Destination URI	Docelowy adres URI
+Determines the current progress of the download	Informacje o bieżącym postępie pobierania
+Determines the current status of the download	Informacje o bieżącym stanie pobierania
+Editable	Edytowalne
+Enable Developer Extras	Włącz dodatki dla deweloperów
+Enable JavaScript profiling	Włącz profilowanie języka JavaScript
+Enable Plugins	Włącz wtyczki
+Enable Private Browsing	Włącz przegladanie prywatne
+Enable Scripts	Włącz skrypty
+Enable embedded plugin objects.	Włącz osadzanie wtyczek.
+Enable embedded scripting languages.	Włącz osadzanie języka skryptowego.
+Enables private browsing mode	Wł. tryb prywatnego przeglądania stron
+Enables special extensions that help developers	Wł. specjalne dodatki, które wspomagają deweloperów
+Encoding	Kodowanie
+Enforce 96 DPI	Wymuś 96 DPI
+Enforce a resolution of 96 DPI	Wymuś rozdzielczość 96 DPI
+Fantasy Font Family	Zestaw czcionek Fantasy
+Full content zoom	Zmiana rozmiaru całej zawartości
+Ignore _Grammar	Ignoruj _gramatykę
+Input _Methods	Metody _wprowadzania
+Inspect _Element	Sprawdź _pozycję
+Inspected URI	Sprawdzony adres URI
+LRE Left-to-right _embedding	LRE - _osadzanie od lewej do prawej
+LRM _Left-to-right mark	LRM - znak od l_ewej do prawej
+LRO Left-to-right _override	LRO - _nadpisywanie od lewej do prawej
+Last visited Time	Czas ostatniej wizyty
+Load images automatically.	Automatyczne ładowanie obrazków.
+Minimum Font Size	Minimalny rozmiar czcionki
+Minimum Logical Font Size	Minimalny logiczny rozmiar czcionki
+Modifier state	Stan modyfikatora
+Monospace Font Family	Zestaw czcionek ze stałą szerokością
+Name	Nazwa
+Network Request	Żądanie z sieci
+No Guesses Found	Nie znaleziono żadnych sugestii
+No recent searches	Brak wcześniejszych wyników wyszukiwania
+Open Link in New _Window	Otwórz skrót w nowym _oknie
+Open _Frame in New Window	Otwórz _ramkę w nowym oknie
+Open _Image in New Window	Otwórz o_brazek w nowym oknie
+Original URI	Oryginalny adres URI
+PDF _Pop directional formatting	PDF _znak formatowania kierunku tekstu
+Password:	Hasło:
+Paste target list	Lista docelowa wklejania
+Print Backgrounds	Drukuj tło
+Profile the executed JavaScript.	Profil uruchamiania skryptów JavaScript.
+Progress	Postęp
+RLE Right-to-left e_mbedding	RLE - o_sadzanie od prawej do lewej
+RLM _Right-to-left mark	RLM - znak od p_rawej do lewej
+RLO Right-to-left o_verride	RLO - na_dpisywanie od prawej do lewej
+Reason	Powód
+Recent searches	Najnowsze wyniki wyszukiwania
+Reset	Reset
+Resizable Text Areas	Pole tekstowe o zmiennym rozmiarze
+Returns the @web_view's document title	Zwraca tytuł dokumentu @web_view
+Returns the current URI of the contents displayed by the @web_view	Zwraca aktualny adres URI zawartości wyświetlanej przez @web_view
+Sa_ve Image As	_Zapisz obrazek jako
+Sans Serif Font Family	Zestaw czcionek Sans Serif
+Serif Font Family	Zestaw czcionek Serif
+Settings	Ustawienia
+Spelling and _Grammar	Sprawdzanie pisowni i _gramatyki
+Status	Stan
+Submit	Zatwierdź
+Suggested Filename	Proponowana nazwa pliku
+The URI of a stylesheet that is applied to every page.	Adres URI arkusza stylów, który będzie zastosowany do każdej strony.
+The URI of the history item	Adres URI elementu historii
+The URI that is currently being inspected	Adres URI, który jest obecnie sprawdzany
+The URI that was requested as the target for the navigation	Adres URI, który jest żądany jako cel nawigacji
+The Web View that renders the Web Inspector itself	Widok strony internetowej renderowany przez kontroler WWW
+The alternate title of the history item	Alternatywny tytuł elementu historii
+The associated WebKitWebInspector instance	Powiązana instancja WebKitWebInspector
+The button used to click	Przycisk używany do klikania
+The current URI of the contents displayed by the frame	Aktualny adres URI zawartości wyświetlanej w ramce
+The custom encoding of the web view	Niestandardowe kodowanie widoku strony internetowej
+The default Cursive font family used to display text.	Domyślny zestaw czcionek pochyłych używany do wyświetlania tekstu.
+The default Fantasy font family used to display text.	Domyślny zestaw czcionek Fantasy używany do wyświetlania tekstu.
+The default Sans Serif font family used to display text.	Domyślny zestaw czcionek Sans Serif używany do wyświetlania tekstu.
+The default Serif font family used to display text.	Domyślny zestaw czcionek Serif używany do wyświetlania tekstu.
+The default encoding of the web view	Domyślne kodowanie widoku strony internetowej
+The default encoding used to display text.	Domyślne kodowanie tekstu używane do wyświetlania tekstu.
+The default font family used to display monospace text.	Domyślny zestaw czcionek używany do wyświetlania tekstu o stałej szerokości.
+The default font family used to display text.	Domyślny zestaw czcionek używany do wyświetlania tekstu..
+The default font size used to display monospace text.	Domyślny rozmiar czcionki używany do wyświetlania tekstu o stałej szerokości.
+The default font size used to display text.	Domyślny rozmiar czcionki używany do wyświetlania tekstu.
+The destination URI where to save the file	Docelowy adres URI, gdzie należy zapisać plik
+The document title of the frame	Tytuł dokumentu w ramce
+The filename suggested as default when saving	Domyślna nazwa pliku sugerowana przed zapisem
+The length of the data already downloaded	Rozmiar pobranych danych
+The level of zoom of the content	Poziom powiększenia zawartości
+The list of targets this web view supports for clipboard copying	Lista celów, dla których widok strony internetowej wspiera kopiowanie do schowka
+The list of targets this web view supports for clipboard pasting	Lista celów, dla których widok strony internetowej wspiera wklejanie ze schowka
+The minimum font size used to display text.	Minimalny rozmiar czcionki używany do wyświetlania tekstu.
+The minimum logical font size used to display text.	Minimalny logiczny rozmiar czcionki używany do wyświetlania tekstu.
+The name of the frame	Nazwa ramki
+The network request for the URI that should be downloaded	Żądanie sieciowe dla adresu URI, który ma być pobierany
+The original URI of the history item	Oryginalny adres URI elementu historii
+The reason why this navigation is occurring	Powód dla którego wystąpiła ta nawigacja
+The time at which the history item was last visited	Czas ostatniej wizyty w elemencie historii
+The title of the history item	Tytuł elementu historii
+The total size of the file	Całkowity rozmiar pliku
+The value by which the zoom level is changed when zooming in or out.	Wartość, o którą zmienia się poziom powiększenia lub pomniejszenia.
+Title	Tytuł
+Total Size	Całkowity rozmiar
+Transparent	Przeźroczysty
+URI	Adres URI
+Unknown	Nieznany
+Upload File	Ładowanie pliku
+User Stylesheet URI	Adres URI arkusza stylów użytkownika
+User cancelled the download	Użytkownik przerwał pobieranie
+Username:	Nazwa użytkownika:
+Web Inspector	Kontroler strony internetowej
+Web View	Widok strony internetowej
+Whether background images should be printed.	Czy obrazki tła powinny być drukowane.
+Whether content can be modified by the user	Czy zawartość może być zmieniana przez użytkownika
+Whether content has a transparent background	Czy zawartość ma przeźroczyste tło
+Whether text areas are resizable.	Czy pola tekstowe mają zmienny rozmiar.
+Whether the full content is scaled when zooming	Czy cała zawartość jest skalowana przy powiększaniu
+ZWJ Zero width _joiner	ZWJ - _spójnik zerowej szerokości
+ZWNJ Zero width _non-joiner	ZWNJ - rozłącznik z_erowej szerokości
+ZWS _Zero width space	ZWS - spacja _zerowej szerokości
+Zoom Stepping Value	Wartość kroku powiększenia
+Zoom level	Poziom powiększenia
+_Check Document Now	_Sprawdź dokument
+_Clear recent searches	_Wyczyść poprzednie wyniki wyszukiwania
+_Download Linked File	_Pobierz powiązany plik
+_Font	_Czcionka
+_Hide Spelling and Grammar	_Ukryj sprawdzanie pisowni i gramatyki
+_Ignore Spelling	_Ignoruj sprawdzanie pisowni
+_Insert Unicode Control Character	Ws_taw kontrolny znak Unicode
+_Learn Spelling	_Ucz się sprawdzania pisowni
+_Look Up in Dictionary	_Sprawdź w słowníku
+_Open Link	_Otwórz skrót
+_Outline	K_ontury
+_Reload	_Przeładuj
+_Search the Web	_Wyszukaj w sieci Web
+_Show Spelling and Grammar	_Pokaż sprawdzanie pisowni i gramatyki
+activate	aktywuj
+tick	zaznacz
+definition	definicja
+jump	przeskocz
+press	naciśnij
+select	wybierz
+term	termin
+untick	odznacz

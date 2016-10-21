@@ -1,30 +1,17 @@
-Aeroplane Mode	Tryb samolotowy
-Available Wi-Fi Networks	Dostępne sieci Wi-Fi
-Connected to	Podłączony do
-Deregister your device or create and manage Household and Family Library.	Wyrejestruj swoje urządzenie lub stwórz i zarządzaj Rodziną oraz Biblioteką rodzinną
+{0,plural, =0 {NO ADULT PROFILES} one {{0, number, integer} ADULT} other {{0, number, integer} ADULTS}}{1,plural, =0 {} one { AND {1, number, integer} CHILD} other { AND {1, number, integer} CHILDREN}}
+Accessibility
+CONNECTED TO	PODŁĄCZONY DO
 Device Options	Opcje urządzenia
-Join a Wi-Fi network for faster downloads.	Aby szybciej pobierać, połącz się z siecią Wi-Fi.
-Manage language learning features, page refresh, Page Turn buttons, social networks and popular highlights.	Zarządzaj funkcjami nauki języka, odświeżaniem strony, przyciskami zmiany stron, sieciami społecznościowymi i popularnymi podkreśleniami.
-Manage language learning features, page refresh, PagePress, social networks and popular highlights.	Zarządzaj funkcjami nauki języka, odświeżaniem strony, naciskiem przycisków bocznych, sieciami społecznościowymi i popularnymi podkreśleniami.
-Manage language learning features, page refresh, social networks and popular highlights.	Zarządzaj funkcjami nauki języka, odświeżaniem strony, sieciami społecznościowymi i popularnymi podkreśleniami.
-Manage page refresh and Page Turn buttons.	Zarządzaj funkcjami odświeżania strony i przyciskami zmiany stron.
-Manage page refresh and PagePress.	Zarządzaj odświeżaniem strony i naciskiem przycisków bocznych.
-Manage page refreshes.	Zarządzaj odświeżaniem strony.
-Manage your Kindle passcode, language and dictionaries.	Zarządzaj kodem dostępu, językiem oraz słownikami.
-Manage your Kindle passcode, parental controls, language and dictionaries, and personalise your Kindle.	Spersonalizuj swojego Kindle, zarządzając kodem dostępu, kontrolą rodzicielską, językiem oraz słownikami.
-Manage your Kindle passcode, parental controls, screen light, language and dictionaries, and personalise your Kindle.	Spersonalizuj swojego Kindle, zarządzając kodem dostępu, kontrolą rodzicielską, oświetleniem, językiem oraz słownikami.
-Manage your Kindle passcode, screen light, language and dictionaries.	Zarządzaj kodem dostępu, oświetleniem, językiem oraz słownikami.
-Manage your reading experience.	Zarządzaj opcjami czytania.
-Not Connected	Nie połączony
+Household & Family Library
+Language & Dictionaries
+Legal
+My Account
+NOT CONNECTED	NIE POŁĄCZONY
+Parental Controls
 Reading Options	Opcje czytania
-Registered User	Zarejestrowany użytkownik
-Registering Your Kindle…	Rejestruję Twojego Kindle...
-Registration and Household	Rejestracja i Rodzina
-Registration	Rejestracja
+REGISTERED USER	ZAREJESTROWANY UŻYTKOWNIK
+REGISTERING YOUR KINDLE…	REJESTRUJĘ TWOJEGO KINDLE…
 Settings	Ustawienia
-This device and any content purchased in the Kindle Store are registered to the Amazon user shown below.	To urządzenie oraz każda pozycja zakupiona w sklepie Kindle jest zarejestrowana na użytkownika Amazon podanego poniżej.
-Turn off Aeroplane Mode to enable wireless connectivity.	Wyłącz tryb samolotowy, aby włączyć łączność bezprzewodową.
-Turn on Aeroplane Mode to disable wireless connectivity.	Włącz tryb samolotowy, aby wyłączyć łączność bezprzewodową.
-Unavailable	Niedostępna
-Unregistered	Niezarejestrowany
-Wi-Fi Networks	Sieci Wi-Fi
+UNAVAILABLE	NIEDOSTĘPNA
+UNREGISTERED	NIEZAREJESTROWANY
+Wireless	SIECI WI-FI

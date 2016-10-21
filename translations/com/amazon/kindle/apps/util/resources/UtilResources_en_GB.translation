@@ -1,6 +1,6 @@
 {0, select, male {{1}ʼs FreeTime} female {{1}ʼs FreeTime} other {{1}ʼs FreeTime}}	{0, select, male {FreeTime {1}} female {FreeTime {1}} other {FreeTime {1}}}
 {0, select, male {{1}''s Kindle for Kids} female {{1}''s Kindle for Kids} other {{1}''s Kindle for Kids}}	{0, select, male {Kindle dla Dzieci {1}} female {Kindle dla Dzieci {1}} other {Kindle dla Dzieci {1}}}
-Close	Zamknij
+CLOSE	ZAMKNIJ
 Error	Błąd
 My Clippings	Moje wycinki
 My Kindle	Mój Kindle

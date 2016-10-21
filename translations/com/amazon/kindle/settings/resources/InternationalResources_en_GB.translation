@@ -1,8 +1,8 @@
-{0,plural, =0 {No Keyboards} one {{0, number, integer} Keyboard} other {{0, number, integer} Keyboards}}	{0,plural, =0 {Brak klawiatur} one {Liczba klawiatur: {0, number, integer}} other {Liczba klawiatur: {0, number, integer}}}
+{0,plural, =0 {NO KEYBOARDS} one {{0, number, integer} KEYBOARD} other {{0, number, integer} KEYBOARDS}}	{0,plural, =0 {BRAK KLAWIATUR} one {LICZBA KLAWIATUR: {0, number, integer}} other {LICZBA KLAWIATUR: {0, number, integer}}}
 Add keyboards for different languages.	Dodaj klawiatury dla różnych języków.
 Dictionaries	Słowniki
 Keyboards	Klawiatury
-Language and Dictionaries	Język i słowniki
+Language & Dictionaries	Język i słowniki
 Language	Język
 Set the default dictionary for each language.	Ustaw domyślny słownik dla każdego języka.
 Set the language on your Kindle.	Ustaw język swojego Kindle.

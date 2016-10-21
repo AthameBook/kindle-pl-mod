@@ -2,7 +2,7 @@
 611 Page	Strona 611
 711 Page	Strona 711
 Available Wireless Providers	Dostępne połączenia bezprzewodowe
-Cancel	Anuluj
+CANCEL	ANULUJ
 Close	Zamknij
 Currently you are connected to: {0}~~Select Switch Automatically to allow your Kindle to automatically choose the best wireless provider (default).	Obecnie jesteś połączony z: {0}~~Wybierz Automatyczne przełączanie, aby Twój Kindle wybierał najlepszą dostępną sieć bezprzewodową (domyślne).
 Page {0,number,integer} of {1,number,integer}	Strona {0,number,integer} z {1,number,integer}

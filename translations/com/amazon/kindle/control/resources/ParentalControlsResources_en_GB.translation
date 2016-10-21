@@ -1,4 +1,4 @@
-{0,select, has_hint {Hint: {1}} other {}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.amazon.com/devicesupport to receive help resetting your device.	{0,select, has_hint {Wskazówka: {1}} other {}}~~~~Jeśli zapomniałeś swoje hasło, prosimy o kontakt z działem obsługi klienta Kindle na www.amazon.com/devicesupport w celu zresetowania Twojego urządzenia.
+{0,select, has_hint {Hint: {1}} other {}}	{0,select, has_hint {Wskazówka: {1}} other {}}
 Access to Cloud.	Dostęp do chmury.
 Access to Experimental Web Browser.	Dostęp do przeglądarki internetowej.
 Access to Kindle Store.	Dostęp do sklepu Kindle.
@@ -19,7 +19,6 @@ New Parental Controls Password:	Nowe hasło kontroli rodzicielskiej:
 Parental Controls	Kontrola rodzicielska
 Passwords Do Not Match. Please try again.	Hasła się różnią. Spróbuj jeszcze raz.
 Please enter a valid password.	Proszę wprowadzić prawidłowe hasło.
-Restrictions	Ograniczenia
 Set Parental Controls Password:	Ustaw hasło kontroli rodzicielskiej:
 Web Browser	Przeglądarka internetowa
 When Parental Controls are enabled, Deregistration and Reset Device are disabled.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować urządzenia ani przywrócić ustawień fabrycznych.

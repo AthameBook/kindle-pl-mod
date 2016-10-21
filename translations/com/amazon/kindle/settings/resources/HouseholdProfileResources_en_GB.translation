@@ -2,11 +2,11 @@
 {0, plural, =0 {Adult} one {Adult} other {Adults}}	{0, plural, =0 {Dorosłych} one {Dorosły} other {Dorosłych}}
 {0, plural, =0 {Child} one {Child} other {Children}}	{0, plural, =0 {Dzieci} one {Dziecko} other {Dzieci}}
 A Household gives up to two adults the ability to jointly manage up to four child accounts. This lets you control the content and features your child can access.~~~~Family Library lets you share books and other digital content across your Amazon devices and Kindle apps. You can activate Family Library when adding an adult to your Household.~~	Rodzina daje maksymalnie dwóm dorosłym możliwość wspólnego prowadzenia do czterech kont dla dzieci. Pozwala to kontrolować treści i sposób korzystania z czytnika przez dziecko.~~~~Biblioteka rodzinna umożliwia współdzielenie książek i innych treści cyfrowych na Twoich urządzeniach Amazon i aplikacjach Kindle. Możesz aktywować Bibliotekę rodzinną podczas dodawania dorosłego do Rodziny.~~
-Add a New Person	Dodaj nową osobę
+ADD A NEW PERSON	DODAJ NOWĄ OSOBĘ
 Add New Profile	Dodaj nowy profil
 Adult	Dorosły
 Device Owner	Właściciel urządzenia
 FreeTime Unlimited Options	Opcje FreeTime bez ograniczeń
-Household and Family Library	Rodzina i Biblioteka rodzinna
+Household & Family Library	Rodzina i Biblioteka rodzinna
 Kindle for Kids Unlimited Options	Opcje Kindle dla Dzieci bez ograniczeń
 Start	Początek

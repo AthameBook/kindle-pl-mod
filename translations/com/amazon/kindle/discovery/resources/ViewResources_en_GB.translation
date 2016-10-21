@@ -3,12 +3,6 @@
 {0} {1,choice,0# |1#{1,number,0.00}} • {2,plural,=0 {{2,number,integer} ratings} one {{2,number,integer} rating} other {{2,number,integer} ratings}}	{0} {1,choice,0# |1#{1,number,0.00}} • {2,plural,=0 {{2,number,integer} ocen} one {{2,number,integer} ocena} other {oceny: {2,number,integer}}}
 {0} by {1}	„{0}” autorstwa {1}
 {0} rated it	{0} dodał(a) ocenę
-{0}, there was a problem downloading your sample. To learn more, please visit the store page.	{0}, wystąpił problem z pobraniem próbki. Aby dowiedzieć się więcej, odwiedź stronę sklepu.
-{0}, there was a problem downloading your sample. To learn more, please visit the <ul>store page.</ul>	{0}, wystąpił problem z pobraniem próbki. Aby dowiedzieć się więcej, odwiedź <ul>stronę sklepu.</ul>
-{0}, there was a problem with your purchase. To learn more, please visit the Store page.	{0}, wystąpił problem z Twoimi zakupami. Aby uzyskać więcej odwiedź stronę sklepu.
-{0}, there was a problem with your purchase. To learn more, please visit the <ul>Store page.</ul>	{0}, wystąpił problem z Twoimi zakupami. Aby uzyskać więcej odwiedź <ul>stronę sklepu.</ul>
-{0}, We are sending you the Kindle Edition of {1} and it will automatically appear in your Home screen when the download is complete.	{0}, rozpoczęliśmy wysyłanie do Ciebie {1}. Po zakończeniu pobierania pozycja będzie dostępna na ekranie głównym Twojego Kindle.
-{0}, You have cancelled this order.	{0}, możesz anulować to zamówienie.
 {0,choice,0#{0,plural,=0 {{0,number,integer} followers} one {{0,number,integer} follower} other {{0,number,integer} followers}}|1000#999+ followers}	{0,choice,0#{0,plural,=0 {{0,number,integer} obserwowanych} one {{0,number,integer} obserwowany} other {{0,number,integer} obserwowanych}}|1000#999+ obserwowanych}
 {0,choice,0#{0,plural,=0 {{0,number,integer} friends} one {{0,number,integer} friend} other {{0,number,integer} friends}}|1000#999+ friends}	{0,choice,0#{0,plural,=0 {{0,number,integer} znajomych} one {{0,number,integer} znajomy} other {{0,number,integer} znajomych}}|1000#999+ znajomych}
 {0,plural,=0 {} one {{0,number,integer} book shelved} other {{0,number,integer} books shelved}}	{0,plural,=0 {} one {{0,number,integer} książka na półkach} other {książek na półkach: {0,number,integer}}}
@@ -55,8 +49,6 @@
 {0,select,empty {You do not have any followers yet.} unknown {Loading Followers…}  error {Unable to display followers. Please try again.} other {}}	{0,select,empty {Nie ma żadnych obserwowanych osób.} unknown {Ładowanie oberwowanych…}  error {Nie można wyświetlić osób obserwowanych. Spróbuj ponownie.} other {}}
 {0,select,empty {You do not have any friends yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Friends…} error {Unable to display friends. Please try again.} other {}}	{0,select,empty {Nie ma żadnych znajomych.~~Dotknij tutaj, aby zacząć obserwować poleconych czytelników lub dodać znajomych z Facebooka } unknown {Ładowanie znajomych…} error {Nie można wyświetlić znajomych. Spróbuj ponownie.} other {}}
 {0,select,empty {You have not shelved any books yet. View your Amazon book purchases to add books to Goodreads } unknown {Loading books…} error {Unable to display shelved books. Please try again.} other {}}	{0,select,empty {Nie masz żadnych książek na półkach. Dodaj do Goodreads książki zakupione w Amazon } unknown {Ładowanie książek…} error {Nie można wyświetlić książek na półkach. Spróbuj ponownie.} other {}}
-A refund will be applied to your method of payment. If the title has already downloaded to your device, it will be removed shortly.	Należność zostanie zwrócona przy użyciu Twojej metody płatności. Jeśli pozycja została już pobrana na Twoje urządzenie, to wkrótce zostanie usunięta.
-About Me	O mnie
 Activate Goodreads	Aktywuj Goodreads
 Add a comment…	Dodaj komentarz...
 Add Amazon Books to Goodreads	Dodaj książki z Amazon do Goodreads
@@ -68,30 +60,24 @@ Authors	Autorzy
 Buy Now for {0}	Kup teraz za {0}
 Buying…	Trwa kupowanie…
 By {0}	autorstwa {0}
-By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreads Terms of Service and Privacy Policy.	Po połączeniu, Goodreads otrzyma dostęp do Twojego publicznego profilu, listy znajomych, adresu e-mail i polubień Facebooka. Dodatkowo Goodreads będzie mogło w Twoim imieniu wysyłać wiadomości do Twoich znajomych. Zatwierdzając wyrażasz zgodę na warunki umowy i politykę prywatności Goodreads.
-By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreadsʼ Terms of Service and Privacy Policy.	Po połączeniu, Goodreads otrzyma dostęp do Twojego publicznego profilu, listy znajomych, adresu e-mail i polubień Facebooka. Dodatkowo Goodreads będzie mogło w Twoim imieniu wysyłać wiadomości do Twoich znajomych. Zatwierdzając wyrażasz zgodę na warunki umowy i politykę prywatności Goodreads.
 By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf.	Łącząc się, zezwolisz Goodreads na dostęp do Twojego publicznego profilu, listy znajomych, adresu e-mail i polubień z Facebooka. Dodatkowo Goodreads będzie mogło w Twoim imieniu wysyłać listy do Twoich znajomych.
 By <ul>{0}</ul>	Autor <ul>{0}</ul>
 Cancel Request	Anuluj żądanie
-Cancel	Anuluj
-Close	Zamknij
+CANCEL	ANULUJ
 Cloud Access Locked	Zablokowany dostęp do chmury
 commented on an activity	skomentował(a) aktywność
 Connect Goodreads with Facebook	Połącz z Goodreads przy użyciu konta z Facebooka
+Connect to Facebook	Połącz z Facebook
 Connect	Połączenie
+CONNECT	POŁĄCZENIE
 Currently Reading ({0,number,integer})	Teraz czytam ({0,number,integer})
 Currently Reading ({0})	Teraz czytam ({0})
 Currently Reading	Teraz czytam
 Done	Gotowe
 Download Sample	Pobierz próbkę
-Downloading	Pobieranie
 Downloading…	Pobieranie…
 Download	Pobierz
-Edit About Me 	Edytuj O mnie 
-Edit About Me (modified) 	Edytuj O mnie (zmienione) 
-Edit Profile	Edytuj profil
 E-mail or password is incorrect.	E-mail lub hasło jest nieprawidłowe.
-Enter your full name or your first name here. This will be the name that appears on your public Amazon and Goodreads profiles.	Wprowadź tutaj swoje pełne personalia lub samo imię. Ta nazwa będzie wyświetlana w Twoich profilach Amazon i Goodreads.
 Facebook E-mail	E-mail z Facebooka
 Facebook Password	Hasło do Facebooka
 Find and share books that you love, see what your friends are reading and get recommendations from the world's largest network of readers.	Znajdź i udostępniaj książki, które kochasz, zobacz co Twoi znajomi czytają i uzyskuj porady w największej na świecie społeczności czytelników.
@@ -110,17 +96,10 @@ Hide Password	Ukryj hasło
 Hide	Ukryj
 Kindle Store Locked	Sklep Kindle jest zablokowany
 Loading…	Ładowanie...
-Mark as Currently Reading	Oznacz jako „Teraz czytam”
-Mark as Want to Read	Oznacz jako „Chcę przeczytać”
 My Rating	Moja ocena
 My Rating:	Moja ocena:
-Name for Friends	Nazwa dla znajomych
-Name	Nazwa
 Next	Dalej
-Order cancelled	Zamówienie anulowane
 or	lub
-Public Name	Nazwa publiczna
-Purchased by accident?	Zakupione przez przypadek?
 Rate this Book:	Oceń tę książkę:
 Rate this Book	Oceń tę książkę
 Read ({0,number,integer})	Przeczytane ({0,number,integer})
@@ -132,7 +111,6 @@ Read	Przeczytane
 Remove Friend	Usuń znajomego
 Remove from Shelf	Usuń z półki
 Reviews ({0,number,integer})	Recenzje ({0,number,integer})
-Save	Zapisz
 Search Store	szukaj w sklepie
 See what your friends are reading and share your reading activity on Facebook.	Zobacz co czytają Twoi znajomi i pochwal się na Facebooku tym co ty czytasz.
 shared a book	udostępnił(a) książkę
@@ -151,21 +129,17 @@ Step 1 of 2	Krok 1 z 2
 Stop Following	Przestań obserwować
 Tap Edit to add a description	Dotknij Edytuj aby dodać opis
 Tap here to connect to a Wi-Fi network~~to see the most recent activity.	Dotknij tutaj, aby połączyć się z siecią Wi-Fi~~i zobaczyć najnowsze aktywności.
-Thank you for your purchase	Dziękujemy za zakup
 There is no description for this book.	Ta książka nie posiada opisu.
 This Goodreads account is linked to another Amazon account. Edit your accounts at Goodreads.com > Edit Profile > Apps.	To konto Goodreads jest powiązane z innym kontem Amazon. Edytuj konto na Goodreads.com > Edit Profile > Apps.
 To access the Kindle Store, turn off parental controls in Settings.	Aby uzyskać dostęp do sklepu Kindle, wyłącz kontrolę rodzicielską.
 To continue, activate Goodreads on your Kindle.	Aby kontynuować, aktywuj Goodreads na Twoim Kindle.
 To download your book, turn off parental controls in Settings.	Aby pobrać książkę, należy wyłączyć kontrolę rodzicielską w ustawieniach.
-To update your name, sign in at Goodreads.com and select Edit Profile.	Aby zaktualizować swoje imię, zaloguj się na Goodreads.com i edytuj profil.
-Unable to purchase	Nie można tego kupić
 View in Store	Pokaż w sklepie
 Want to Read ({0})	Chcę przeczytać ({0})
 Want to Read ({0,number,integer})	Chcę przeczytać ({0,number,integer})
 Want to Read	Chcę przeczytać
 We canʼt seem to find this book.	Nie możemy znaleźć tej książki.
 We can't seem to find this person.	Nie możemy znaleźć tej osoby.
+We couldn’t load the book details. Please check your Wi-Fi connection and try again.
 Welcome to the worldʼs largest network of readers, where you can find book recommendations to find and share the books you love with your friends.	Witamy w największej na świecie społeczności czytelników, gdzie będziesz mógł podzielić się ze swoimi znajomymi książkami, które kochasz i dowiesz się, jakie książki polecają inni.
 You are currently offline.	Aktualnie nie jesteś połączony z internetem.
-You can <ul>cancel this order</ul> if you need to.	Jeśli chcesz, to możesz <ul>anulować to zamówienie</ul>.
-You can <ul>visit the Store</ul> for details about the failure.	Możesz <ul>odwiedzić stronę sklepu</ul>, aby uzyskać więcej informacji o błędzie.

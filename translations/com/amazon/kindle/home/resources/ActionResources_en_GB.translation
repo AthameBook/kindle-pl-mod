@@ -1,14 +1,15 @@
-Cancel	Anuluj
-Close	Zamknij
+CANCEL	ANULUJ
+CLOSE	ZAMKNIJ
 Cloud Not Available	Chmura jest niedostępna
 Collection Name	Nazwa kolekcji
-Details	Szczegóły
+DETAILS	SZCZEGÓŁY
 Get Latest Version	Pobierz ostatnie wydanie
 Register	Rejestruj
-Save	Zapisz
+REGISTER	REJESTRUJ
+SAVE	ZAPISZ
 The sample could not be downloaded due to an internal error.	Nie można było pobrać próbki ze względu na problem wewnętrzny.
 Try a Sample	Wypróbuj fragment
-Update	Zaktualizuj
+UPDATE	ZAKTUALIZUJ
 Would you like to update to the latest version?	Czy chcesz uaktualnić do najnowszej wersji?
 You must register your Kindle to view and download items from the Cloud.	Aby oglądać i pobierać pozycje z chmury, musisz zarejestrować swojego Kindle.
-Your Kindle must be registered to use this feature. Do you want to register it now?	Aby użyć tej funkcji, musisz zarejestrować swojego Kindle. Czy chcesz go zarejestrować teraz?
+Your Kindle must be registered to use this feature.~~~~Do you want to register now?	Aby użyć tej funkcji, musisz zarejestrować swojego Kindle.~~~~Czy chcesz go zarejestrować teraz?

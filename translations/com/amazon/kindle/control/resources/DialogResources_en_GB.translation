@@ -1,23 +1,25 @@
+{0} OF {1}	{0} Z {1}
 About Collections	O kolekcjach
 All your collections are synced to the Cloud.~~~~Tap All in the upper left corner to see all collections, including those created on other Kindle devices and apps.~~~~Tap Downloaded to see collections that are on this Kindle.	Wszystkie Twoje kolekcje są synchronizowane z Chmurą.~~~~Dotknij zakładkę Chmura, aby obejrzeć wszystkie swoje kolekcje, również te, które były stworzone na innych urządzeniach.~~~~Dotknij zakładkę Czytnik, aby obejrzeć kolekcje z tego urządzenia.
 Authors starting with:	Autorzy rozpoczynający się od:
-Cancel	Anuluj
-Clean Up	Wyczyść
-Close	Zamknij
+CANCEL	ANULUJ
+CLEAN UP	WYCZYŚĆ
+CLOSE	ZAMKNIJ
 Cloud and All Devices	Chmura i wszystkie urządzenia
 Device Time	Ustawienia czasu
 Go To	Idź do
-Go	Idź
-Hint	Wskazówka
+GO	IDŹ
+HINT	WSKAZÓWKA
 <html><body>Release Notes are not available.</body></html>	<html><body>Brak informacji o wersji.</body></html>
+~~If you have forgotten your password, please contact Kindle Customer Service at www.amazon.com/devicesupport to receive help resetting your device.
 Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	Numer strony (1 do {0, choice, 0#1|1#{0,number,integer}}):
-Play	Odtwórz
+PLAY	ODTWÓRZ
 Press and hold a collection to add or remove it from this Kindle.~~~~When you view your Cloud content, collections on this Kindle are marked with a star.	Naciśnij i przytrzymaj kolekcję, aby dodać lub usunąć ją z urządzenia.~~~~Podczas przeglądania zawartości w chmurze kolekcje na tym urządzeniu są zaznaczone gwiazdką.
 Record and Play	Nagrywaj i odtwarzaj
-Record	Nagraj
+RECORD	NAGRAJ
 Remove Sample From	Usuń próbkę z
 Remove This Sample	Usuń tę próbkę
-Remove	Usuń
+REMOVE	USUŃ
 Removing a sample from the Cloud will also remove it from all devices.	Usunięcie próbki z chmury spowoduje usunięcie jej z wszytkich urządzeń.
 Select Child	Wybierz dziecko
 Set Automatically	Ustaw automatycznie

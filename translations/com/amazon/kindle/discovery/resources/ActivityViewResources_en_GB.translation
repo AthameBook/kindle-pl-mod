@@ -12,9 +12,6 @@
 {0,select, BookStatusReading {'{0}' is currently reading} BookStatusRead {'{0}' read} other {'{0}' wants to read}}	{0,select, BookStatusReading {'{0}' teraz czytam} BookStatusRead {'{0}' przeczytane} other {'{0}' chcę przeczytać}}
 {0,select, BookStatusReading {'{0}' is currently reading~~'{1}'} BookStatusRead {'{0}' read~~'{1}'} other {'{0}' wants to read~~'{1}'}}	{0,select, BookStatusReading {'{0}' czyta teraz~~'{1}'} BookStatusRead {'{0}' przeczytał(a)~~'{1}'} other {'{0}' chce przeczytać~~'{1}'}}
 {0,select, unrated {'{0}' wrote a review} other {'{0}' rated it '{1}'}}	{0,select, unrated {'{0}' napisał(a) recenzję} other {'{0}' ocenił(a) '{1}'}}
-Add Comment	Dodaj komentarz
-Also share on:	Udostępnij również na:
-Comment	Komentarz
 Loading…	Ładowanie...
 Request Failed	Błędne żądanie
 This update was deleted.	Ta aktualizacja została usunięta.

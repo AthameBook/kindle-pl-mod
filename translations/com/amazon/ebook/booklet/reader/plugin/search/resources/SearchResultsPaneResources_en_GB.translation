@@ -1,7 +1,6 @@
 {0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
 Book Results ({0,number,integer})	Wyniki w książce ({0,number,integer})
 Go To	Idź do
-Location {0} · Page {1}	Lokacja {0} · Strona {1}
 Location {0} {2} Page {1}	Lokacja {0} {2} Strona {1}
 Location {0}	Lokacja {0}
 Search failed.	Wyszukiwanie nie powiodło się.

@@ -1,8 +1,8 @@
 {0} - {1,number,percent}	{0} – {1,number,percent}
-{0} of {1}	{0} z {1}
+{0} OF {1}	{0} Z {1}
 Achievements	Osiągnięcia
-Cancel	Anuluj
-Close	Zamknij
+CANCEL	ANULUJ
+CLOSE	ZAMKNIJ
 Go to Book Wizard	Idź do kreatora książek
 Go to Home	Idź do ekranu głównego
 Go to Image Viewer	Idź do przeglądarki obrazków
@@ -11,11 +11,11 @@ Kindle Store Recommendations	Rekomendacje ze sklepu Kindle
 Kindle Store	Sklep Kindle
 Landscape Mode	Orientacja pozioma
 Menu	Menu
-No	Nie
+NO	NIE
 Off	Wył.
 On	Wł.
 Portrait Mode	Orientacja pionowa
-Save	Zapisz
+SAVE	ZAPISZ
 Screen Light	Oświetlenie ekranu
 Settings	Ustawienia
 Time {0}. AMPM	Czas {0}. AMPM
@@ -23,7 +23,7 @@ Time {0}. Hour	Czas {0}. Godzina
 Time {0}. Minute	Czas {0}. Minuta
 Turn Off Wireless	Wyłącz Wi-Fi
 Turn On Wireless	Włącz Wi-Fi
-Update	Aktualizuj
+UPDATE	AKTUALIZUJ
 View Progress	Zobacz postęp
 View Special Offers	Zobacz oferty specjalne
-Yes	Tak
+YES	TAK

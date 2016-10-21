@@ -4,19 +4,20 @@ Add New Adult	Dodaj nowe konto dorosłego
 Already signed up to an account using WeChat? You can sign in with your mobile phone number and password. If you do not have a password, set it at https://www.amazon.cn/password.	Już zarejestrowałeś swoje konto w usłudze WeChat? Możesz zalogować się za pomocą numeru telefonu komórkowego i hasła. Jeśli nie masz hasła, przejdź na https://www.amazon.cn/password.
 Amazon ID	Identyfikator w Amazon
 Are you sure you want to delete all Wi-Fi passwords saved to Amazon from this device?	Na pewno chcesz usunąć wszystkie hasła Wi-Fi zapisane w Amazonie z tego urządzenia?
-Are you sure you want to unlink your account? You will no longer be able to access Goodreads with your Amazon login. To retain this account, please set up a Goodreads password at goodreads.com > Edit Profile > Settings before you unlink.	Czy na pewno chcesz odłączyć swoje konto? Nie będziesz już mieć dostępu do Goodreads z loginem Amazon. Aby zachować to konto, proszę ustawić hasło Goodreads na goodreads.com > Edit Profile > Settings przed odłączeniem.
+Are you sure you want to unlink your account?~~~~You will no longer be able to access Goodreads with your Amazon login. To retain this account, please set up a Goodreads password at goodreads.com > Edit Profile > Settings before you unlink.	Czy na pewno chcesz odłączyć swoje konto?~~~~Nie będziesz już mieć dostępu do Goodreads z loginem Amazon. Aby zachować to konto, proszę ustawić hasło Goodreads na goodreads.com > Edit Profile > Settings przed odłączeniem.
 Authentication Help	Pomoc dla autoryzacji
-Cancel	Anuluj
-Close	Zamknij
-Delete Saved Wi-Fi Passwords	Usuń zapisane hasła Wi-Fi
-Delete	Usuń
+CANCEL	ANULUJ
+CLOSE	ZAMKNIJ
+Delete Wi-Fi Passwords	Usuń zapisane hasła Wi-Fi
+DELETE	USUŃ
 Deregister Your Kindle	Wyrejestruj swojego Kindle
 Deregistering Your Kindle…	Wyrejestrowuję Kindle...
-Deregister	Wyrejestruj
+DEREGISTER	WYREJESTRUJ
 Device Info	Informacje o urządzeniu
 Device Name	Nazwa urządzenia
-Disable	Wyłącz
-Enable	Włącz
+DISABLE	WYŁĄCZ
+Do you want to restart your Kindle?~~~~This may take several minutes.
+ENABLE	WŁĄCZ
 Enter your Amazon account information.	Wprowadź dane Twojego konta Amazon.
 Enter your Amazon password	Wprowadź swoje hasło Amazon
 Firmware Version: 	Wersja oprogramowania:
@@ -34,10 +35,11 @@ Personalise your Kindle by giving it a name that appears on the Home screen.	Spe
 Please log in to Goodreads.com and unlink your Facebook account under "Edit Profile > apps"	Zaloguj się w Goodreads.com i odłącz swoje konto w serwisie Facebook pod „Ustawienia > Aplikacje”
 Register Your Kindle	Zarejestruj swojego Kindle
 Registering Your Kindle…	Rejestruję Twojego Kindle...
-Register	Rejestruj
+REGISTER	REJESTRUJ
 Registration Failed	Rejestracja nie powiodła się
 Registration Help	Pomoc przy rejestracji
-Save	Zapisz
+Restart
+SAVE	ZAPISZ
 Serial Number: 	Numer seryjny:
 Sign In for {0}	Zaloguj się do {0}
 Space Available: 	Dostępne miejsce: 
@@ -45,13 +47,13 @@ There was an error while authenticating your account. Please try again later.	Wy
 There was an error whilst deregistering your device. Please try again later.	Podczas wyrejestrowania Kindle wystąpił błąd. Spróbuj ponownie później.
 There was an error whilst registering your Kindle. Please try again later.	Podczas rejestracji Kindle wystąpił błąd. Spróbuj ponownie później.
 There's an issue with your registration information. Please verify that you've entered your login ID and password correctly. If you're having trouble, check your email or text messages for a one-time password from Amazon. If you continue to run into issues, please contact Kindle Customer Service at www.amazon.com/devicesupport.	Wystąpił problem z Twoimi danymi rejestracyjnymi. Upewnij się czy prawidłowo wprowadziłeś identyfikator logowania i hasło. Jeśli wciąż masz problemy, sprawdź swoją skrzynkę e-mail lub sms dot. jednorazowego hasła z Amazonu. Jeśli problem będzie się powtarzał, proszę skontaktować się z działem obsługi klienta Kindle na www.amazon.com/devicesupport.
-Try Again	Spróbuj ponownie
+TRY AGAIN	SPRÓBUJ PONOWNIE
 Unable to Connect	Nie można się połączyć
 Unable to Process Registration	Nie można przeprowadzić rejestracji
 Unavailable	Niedostępna
-Unlink	Odłącz
+UNLINK	ODŁĄCZ
 We are unable to delete the Wi-Fi passwords from this device. Please try again later, or contact Customer Service.	Nie udało się usunąć haseł Wi-Fi z tego urządzenia. Proszę spróbować później lub skontaktować się z działem obsługi klienta.
-What's New	Co nowego
+WHAT'S NEW	CO NOWEGO
 Whispersync for Books uses data from this device to keep your Kindle apps in sync, back up your annotations and provide other features. If you turn off Whispersync for this device, this device will not send such usage data to Amazon's servers and some features will be unavailable to you, including syncing your reading location from this device across other devices.	Whispersync for Books wykorzystuje dane z tego urządzenia, aby utrzymać synchronizację aplikacji Kindle, kopię zapasową adnotacji i zapewnić inne funkcje. Jeśli wyłączysz Whispersync dla tego urządzenia, to urządzenie nie będzie wysyłać tych danych na serwery Amazon i niektóre funkcje nie będą dostępne dla Ciebie, w tym synchronizacja lokalizacji odczytu z tego urządzenia przez inne urządzenia.
 Whispersync for Books	Whispersync for Books
 Wi-Fi MAC Address: 	Adres MAC Wi-Fi: 
@@ -59,5 +61,5 @@ Your Amazon account will no longer be linked with your Facebook account.	Twoje k
 Your Amazon account will no longer be linked with your Twitter account.	Twoje konto Amazon nie będzie dłużej połączone z kontem z Twittera.
 Your Amazon account will no longer be linked with your Weibo account.	Twoje konto Amazon nie będzie dłużej połączone z kontem Weibo.
 Your Kindle is currently unable to connect. Please make sure you are within wireless range and try again. If the problem persists, restart your Kindle from Menu in Settings and try again.	Twój Kindle nie może się w tej chwili połączyć. Upewnij się, że znajdujesz się w zasięgu sieci bezprzewodowej i spróbuj ponownie. Jeśli problem nadal występuje, to uruchom ponownie swojego Kindle i spróbuj jeszcze raz.
-Your Kindle will be deregistered from your Amazon account, some features will not work, and some settings may not be saved. After deregistering, you can register your Kindle to another Amazon account.~~Are you sure you want to deregister?	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon, niektóre funkcje przestaną działać, a pewne ustawienia mogą nie być zapisane. Po wyrejestrowaniu można zarejestrować Kindle na innym koncie Amazon.~~Czy na pewno chcesz wyrejestrować?
-Your Kindle will be deregistered from your Amazon account. This will remove all content from the device and many features will not work. Items you purchased from an Amazon store will remain available in the Cloud and can be downloaded again. After deregistering, you can register your Kindle to another Amazon account. Are you sure you want to deregister?	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon. Spowoduje to usunięcie całej zawartości z czytnika, niektóre funkcje przestaną działać. Pozycje zakupione w sklepie Amazona pozostaną dostępne w Chmurze i możesz je pobrać ponownie. Po wyrejestrowaniu, możesz zarejestrować Kindle na innym koncie Amazon. Czy na pewno chcesz wyrejestrować?
+Your Kindle will be deregistered from your Amazon account, some features will not work, and some settings may not be saved. After deregistering, you can register your Kindle to another Amazon account.~~~~Are you sure you want to deregister?	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon, niektóre funkcje przestaną działać, a pewne ustawienia mogą nie być zapisane. Po wyrejestrowaniu można zarejestrować Kindle na innym koncie Amazon.~~~~Czy na pewno chcesz wyrejestrować?
+Your Kindle will be deregistered from your Amazon account. This will remove all content from the device and many features will not work. Items you purchased from an Amazon store will remain available in the Cloud and can be downloaded again. After deregistering, you can register your Kindle to another Amazon account.~~~~Are you sure you want to deregister?	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon. Spowoduje to usunięcie całej zawartości z czytnika, niektóre funkcje przestaną działać. Pozycje zakupione w sklepie Amazona pozostaną dostępne w Chmurze i możesz je pobrać ponownie. Po wyrejestrowaniu, możesz zarejestrować Kindle na innym koncie Amazon.~~~~Czy na pewno chcesz wyrejestrować?

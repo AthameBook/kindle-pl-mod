@@ -2,15 +2,14 @@
 Add a New Person	Dodaj nową osobę
 Add Adult	Dodaj osobę dorosłą
 Add Child	Dodaj dziecko
-Adult Profile	Profil osoby dorosłej
 Enable book and payment sharing	Włącz udostępnianie książek i płatności
 Enable Sharing: {0}	Włącz udostępnianie: {0}
 Enable Sharing	Włącz udostępnianie
 For users 17 and under, you can add a profile, choose content you've purchased for each child and control features your child can access.	Dla użytkowników 17-letnich i młodszych, możesz dodać profil, wybrać materiały, które kupiłeś dla każdego dziecka i kontrolować funkcje, do których Twoje dziecko może uzyskać dostęp.
 If you want to share books with {0}, you can enable Book sharing. This will not impact your annotations and last page read in books.~~~~By choosing to enable Book Sharing, you are authorising {0} to use credit cards associated with your Amazon account for purchases on Amazon.~~~~If you like, you can manage individual books for sharing on the Manage Your Content & Devices page on the Amazon website.	Jeśli chcesz, możesz włączyć współdzielenie książek z {0}. To nie wpłynie na adnotacje i ostatnio czytaną stronę w książkach.\n\nWybierając włączenie udostępniania książek, autoryzujesz {0} do użycia kart kredytowych powiązanych z Twoim kontem Amazon do zakupów w Amazon.\n\nJeśli chcesz, możesz zarządzać idywidualnie książkami do udostępniania w dziale Manage Your Content & Devices na stronie Amazon.
-Next	Dalej
+NEXT	DALEJ
 No thanks, keep our accounts separate	Nie, dziękuję, pozostaw nasze konta rozdzielone
-No Thanks	Nie, dziękuję
+NO THANKS	NIE, DZIĘKUJĘ
 OK	OK
 Pass Your Device	Podaj Twoje urządzenie
 Pass your Kindle to the person you would like to add to your Household. They will be asked to sign in to their Amazon account.	Podaj swojego Kindle osobom, które chcesz dodać do Rodziny. Zostaną oni poproszeni o zalogowanie się do swojego konta Amazon.

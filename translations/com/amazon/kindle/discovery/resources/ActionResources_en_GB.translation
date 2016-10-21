@@ -1,7 +1,8 @@
 {0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {Comments ({0,number,integer})}}	{0,plural,=0 {Komentarze} one {Komentarz ({0,number,integer})} other {Komentarze ({0,number,integer})}}
-Cancel	Anuluj
+CANCEL	ANULUJ
 Delete Activity	Usuń aktywność
 Delete	Usuń
+DELETE	USUŃ
 If others have commented on or liked your update, their activities will also be removed. Are you sure you want to delete this update?	Jeśli inni skomentowali lub polubili tę aktualizację, to ich działania również zostaną usunięte. Czy jesteś pewien, że chcesz usunąć tę aktualizację?
 Read Now	Czytaj teraz
 Refresh	Odśwież

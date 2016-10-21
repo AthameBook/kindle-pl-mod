@@ -1,4 +1,4 @@
-Cancel	Anuluj
+CANCEL	ANULUJ
 Change Passcode	Zmień kod dostępu
 Confirm New Passcode	Potwierdź nowy kod
 Confirm Passcode	Potwierdź kod
@@ -9,7 +9,7 @@ Enter New Passcode	Wprowadź nowy kod
 Enter Passcode	Wprowadź kod
 Incorrect Passcode	Niepoprawny kod dostępu
 Passcode Invalid	Nieprawidłowy kod dostępu
-Passcodes Do Not Match	Kody nie są jednakowe
+Passcode Mismatch	Kody nie są jednakowe
 Please enter a valid passcode.	Proszę wprowadzić poprawny kod dostępu.
 Please try again.	Proszę spróbować ponownie.
 Turn Off Passcode	Wyłącz ochronę kodem dostępu

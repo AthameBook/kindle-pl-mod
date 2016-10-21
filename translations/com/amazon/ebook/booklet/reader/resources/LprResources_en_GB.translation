@@ -3,7 +3,7 @@
 {0,select,mrpr{To sync to the most recent page read, Annotations Backup must be turned on.} other{To sync to the furthest page read, Annotations Backup must be turned on.}} Go to Settings from the Home screen menu, select Reading Options and then Annotations Backup.	{0,select,mrpr{Aby synchronizować ostatnio czytaną stronę, kopia zapasowa adnotacji musi być włączone.} other{Aby synchronizować najdalszą czytaną stronę, kopia zapasowa adnotacji musi być włączone.}} Idź do Ustawień z menu na głównym ekranie, wybierz Opcje czytania, a następnie Kopia zapasowa adnotacji.
 {0,select,mrpr{Unable to retrieve the most recent location read.} other{Unable to retrieve the furthest location read.}} If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	{0,select,mrpr{Nie mogę odzyskać ostatnio czytanej lokacji.} other{Nie mogę odzyskać najdalszej czytanej lokacji.}} Jeśli to jest książka, którą otworzyłeś pierwszy raz, czytnik będzie aktualizował Twoją lokację gdy zamkniesz książkę lub uśpisz urządzenie.
 {0,select,mrpr{You are currently at the most recent page read.} other{You are currently at the furthest page read.}}	{0,select,mrpr{Jesteś aktualnie na ostatnio czytanej stronie.} other{Jesteś aktualnie na najdalszej przeczytanej stronie.}}
-Close	Zamknij
+CLOSE	ZAMKNIJ
 Sync Results	Status synchronizacji
 Unable to Sync	Nie można zsynchronizować
 You are currently at location {1}. {0,select,mrpr{Your most recent location read is {2}.} other{Your furthest location read is {2}.}} Go to location {2}?	Jesteś aktualnie w lokacji {1}. {0,select,mrpr{Ostatnia przeczytana lokacja to {2}.} other{Twoja najdalsza przeczytana lokacja to {2}.}} Iść do lokacji {2}?

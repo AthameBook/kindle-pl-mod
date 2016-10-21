@@ -3,15 +3,14 @@ Are you sure you're done?	Czy na pewno chcesz skończyć?
 Download Free Samples	Pobierz darmowe próbki
 Edit Favourite Genres	Edytuj ulubione gatunki
 Edit Genres	Edytuj gatunki
-First, pick some genres you like. We'll help you get personalised recommendations and find your next favourite book.	Najpierw wybierz kilka gatunków, które lubisz. Pomożemy Ci uzyskać spersonalizowane rekomendacje i znaleźć nową ulubioną książkę.
 First, pick some genres.	Najpierw wybierz kilka gatunków.
 Goodreads learns about your personal taste from your ratings and then generates unique recommendations that are just for you.~~You need to rate at least 10 books to get personalised recommendations. You've rated {0,plural,=0 {no books} one {{0,number,integer} book} other {{0,number,integer} books} } so far.	Goodreads dowiaduje się o Twoich osobistych gustach na podstawie Twoich ocen, a następnie generuje dla ciebie unikalne zalecenia. ~~ Trzeba ocenić co najmniej 10 książek, aby uzyskać spersonalizowane zalecenia. Oceniłeś {0,plural,=0 {0 książek} one {{0,number,integer}} książkę} few {{0,number,integer}} książki} many {{0,number,integer}} książek} other {{0,number,integer}} książek} do tej pory.
 Here are books we think you’ll love.	Myślimy, że pokochasz te książki.
 Here are genres you've selected. Tap a selected genre to remove it or add more to get personalised recommendations.	Oto gatunki, które wybrałeś. Zaznacz wybrany gatunek, aby go usunąć lub dodaj więcej gatunków, aby uzyskać spersonalizowane rekomendacje.
 Here are samples of books you marked Want to Read.~~You can find your downloaded samples on your Kindle Home screen.	Oto próbki książek, które oznaczyłeś jako „Chcę przeczytać”.~~Możesz znaleźć pobrane próbki na ekranie głównym Kindle.
 Here are some suggestions based on your ratings.~~See a book you like? Tap "Want to Read."	Oto sugestie na podstawie Twoich ocen. ~~ Widzisz książkę, która Ci się podoba? Wybierz „Chcę przeczytać”.
-I'm Done	Skończyłem
-Keep Rating	Pozostaw ocenę
+I'M DONE	SKOŃCZYŁEM
+KEEP RATING	POZOSTAW OCENĘ
 Now, rate books in those genres.	Teraz oceń książki w tych gatunkach.
 Now rate some more books.	Teraz oceń jeszcze kilka książek.
 Personalised Recommendations	Spersonalizowane rekomendacje

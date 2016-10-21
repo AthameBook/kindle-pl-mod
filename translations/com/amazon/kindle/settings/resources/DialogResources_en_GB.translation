@@ -16,7 +16,7 @@ DEREGISTER	WYREJESTRUJ
 Device Info	Informacje o urządzeniu
 Device Name	Nazwa urządzenia
 DISABLE	WYŁĄCZ
-Do you want to restart your Kindle?~~~~This may take several minutes.
+Do you want to restart your Kindle?~~~~This may take several minutes.	Czy chcesz ponownie uruchomić swojego Kindle?~~~~Może to zająć kilka minut.
 ENABLE	WŁĄCZ
 Enter your Amazon account information.	Wprowadź dane Twojego konta Amazon.
 Enter your Amazon password	Wprowadź swoje hasło Amazon
@@ -38,7 +38,7 @@ Registering Your Kindle…	Rejestruję Twojego Kindle...
 REGISTER	REJESTRUJ
 Registration Failed	Rejestracja nie powiodła się
 Registration Help	Pomoc przy rejestracji
-Restart
+Restart	Uruchom ponownie
 SAVE	ZAPISZ
 Serial Number: 	Numer seryjny:
 Sign In for {0}	Zaloguj się do {0}

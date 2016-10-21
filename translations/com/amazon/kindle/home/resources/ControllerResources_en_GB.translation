@@ -1,15 +1,15 @@
 {0,plural,=0 {} one {{0,number,integer} more Collection in the Cloud} other {{0,number,integer} more Collections in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} kolekcja więcej w Chmurze} other {{0,number,integer} kolekcji więcej w Chmurze}}
 {0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	{0,plural,=0 {1 of 1} one {{1,number,integer} z {2,number,integer}} other {{1,number,integer} z {2,number,integer}}}
 {1, select, 0 {{0, select, true {Showing your items available in the Cloud} other {Not showing your items available in the Cloud}}} other {{0, select, true {Showing your items available on device} other {Not showing your items available on device}}}} 	{1, select, 0 {{0, select, true {Pokazuje pozycje dostępne w Chmurze} other {Nie pokazuje pozycji dostępnych w Chmurze}}} other {{0, select, true {Pokazuje pozycje dostępne na czytniku} other {Nie pokazuje pozycji dostępnych na czytniku}}}} 
-ALL	CHMURA
+ALL	WSZYSTKO
 DOWNLOADED	CZYTNIK
-No books have been added to this device. Tap All to download books.	Na czytniku nie ma żadnych książek. Wybierz Chmurę, aby pobrać książki.
+No books have been added to this device. Tap All to download books.	Na czytniku nie ma żadnych książek. Wybierz Wszystko, aby pobrać książki.
 No books have been synced to the Cloud. Tap Downloaded to see content on your device.	Żadne książki nie zostały zsynchronizowane z Chmurą. Wybierz Czytnik, aby zobaczyć zasoby na czytniku.
-No collections have been added to this device. Tap All to add existing collections or tap Menu to create a new collection.	Na czytniku nie ma żadnych kolekcji. Wybierz Chmurę, aby dodać istniejące kolekcje lub dotknij menu i stwórz nową kolekcję.
+No collections have been added to this device. Tap All to add existing collections or tap Menu to create a new collection.	Na czytniku nie ma żadnych kolekcji. Wybierz Wszystko, aby dodać istniejące kolekcje lub dotknij menu i stwórz nową kolekcję.
 No collections have been synced to the Cloud. Tap Menu to create a new collection.	Żadna kolekcja nie została zsynchronizowana z Chmurą. Dotknij menu, aby stworzyć nową kolekcję.
 No documents have been synced to the Cloud. Tap Downloaded to view documents on your device.	Żadne dokumenty nie zostały zsynchronizowane z Chmurą. Wybierz Czytnik, aby zobaczyć dokumenty na czytniku.
-No items have been added to this device. Tap All to download items.	Na czytniku nie ma żadnych pozycji. Wybierz Chmurę, aby pobrać pozycje.
-No periodicals have been added to this device. Tap All to download periodicals.	Na czytniku nie ma żadnych czasopism. Wybierz Chmurę, aby pobrać czasopisma.
+No items have been added to this device. Tap All to download items.	Na czytniku nie ma żadnych pozycji. Wybierz Wszystko, aby pobrać pozycje.
+No periodicals have been added to this device. Tap All to download periodicals.	Na czytniku nie ma żadnych czasopism. Wybierz Wszystko, aby pobrać czasopisma.
 No periodicals have been synced to the Cloud. Tap Downloaded to see content on your device.	Żadne czasopisma nie zostały zsynchronizowane z Chmurą. Wybierz Czytnik, aby zobaczyć zasoby na czytniku.
-No Shared books have been added to your device. Tap All to download books.	Na czytniku nie ma żadnych udostępnionych książek. Wybierz Chmurę, aby pobrać książki
+No Shared books have been added to your device. Tap All to download books.	Na czytniku nie ma żadnych udostępnionych książek. Wybierz Wszystko, aby pobrać książki
 No Shared books have been synced to the Cloud. Tap Downloaded to see content on your device.	Żadna udostępniona książka nie została zsynchronizowana z Chmurą. Wybierz Czytnik, aby zobaczyć zasoby na czytniku.

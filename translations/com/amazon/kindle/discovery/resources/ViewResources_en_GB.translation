@@ -64,12 +64,12 @@ By connecting, you will enable Goodreads to access your public profile, friend l
 By <ul>{0}</ul>	Autor <ul>{0}</ul>
 Cancel Request	Anuluj żądanie
 CANCEL	ANULUJ
-Cloud Access Locked	Zablokowany dostęp do chmury
+Cloud Access Locked	Zablokowany dostęp do Chmury
 commented on an activity	skomentował(a) aktywność
 Connect Goodreads with Facebook	Połącz z Goodreads przy użyciu konta z Facebooka
-Connect to Facebook	Połącz z Facebook
-Connect	Połączenie
-CONNECT	POŁĄCZENIE
+Connect to Facebook	Połącz z Facebookiem
+Connect	Połącz
+CONNECT	POŁĄCZ
 Currently Reading ({0,number,integer})	Teraz czytam ({0,number,integer})
 Currently Reading ({0})	Teraz czytam ({0})
 Currently Reading	Teraz czytam
@@ -105,7 +105,7 @@ Rate this Book	Oceń tę książkę
 Read ({0,number,integer})	Przeczytane ({0,number,integer})
 Read ({0})	Przeczytane ({0})
 Read Now	Czytaj teraz
-Read Reviews
+Read Reviews	Czytaj opinie
 Readers to Follow	Czytelnicy do obserwacji
 Read	Przeczytane
 Remove Friend	Usuń znajomego
@@ -140,6 +140,6 @@ Want to Read ({0,number,integer})	Chcę przeczytać ({0,number,integer})
 Want to Read	Chcę przeczytać
 We canʼt seem to find this book.	Nie możemy znaleźć tej książki.
 We can't seem to find this person.	Nie możemy znaleźć tej osoby.
-We couldn’t load the book details. Please check your Wi-Fi connection and try again.
+We couldn’t load the book details. Please check your Wi-Fi connection and try again.	Nie mogliśmy załadować szczegółów książki. Sprawdź swoje połączenie Wi-Fi i spróbuj ponownie.
 Welcome to the worldʼs largest network of readers, where you can find book recommendations to find and share the books you love with your friends.	Witamy w największej na świecie społeczności czytelników, gdzie będziesz mógł podzielić się ze swoimi znajomymi książkami, które kochasz i dowiesz się, jakie książki polecają inni.
 You are currently offline.	Aktualnie nie jesteś połączony z internetem.

@@ -12,7 +12,7 @@ Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,numb
 Edit Child Profiles	Edytuj profile dzieci
 Edit Pronunciation	Edytuj wymowę
 In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	W Chmurze: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {wydania: {0,number,integer}} }
-In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje w chmurze: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje w Chmurze: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Latest Issue: {0,date,short}	Najnowsze wydanie: {0,date,short}
 Learn more	Dowiedz się więcej
 Manage FreeTime Items	Zarządzaj pozycjami FreeTime

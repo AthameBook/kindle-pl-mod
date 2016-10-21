@@ -1,7 +1,7 @@
 {0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	{0, select, true {Idealne dla dzieci 8-letnich i młodszych. Stwórz spersonalizowane profile dla Twoich dzieci. FreeTime automatycznie blokuje dostęp do przeglądarki internetowej, sklepu Kindle, Goodreads na Kindle i Wikipedii.} other {Stwórz spersonalizowane profile dla Twoich dzieci. FreeTime automatycznie blokuje dostęp do przeglądarki internetowej, sklepu Kindle, Goodreads na Kindle i Wikipedii.}}
 {0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	{0, select, true {Idealne dla dzieci 8-letnich i młodszych. Stwórz spersonalizowane profile dla Twoich dzieci. Kindle dla Dzieci automatycznie blokuje dostęp do przeglądarki internetowej, sklepu Kindle, Goodreads na Kindle i Wikipedii.} other {Stwórz spersonalizowane profile dla Twoich dzieci. Kindle dla Dzieci automatycznie blokuje dostęp do przeglądarki internetowej, sklepu Kindle, Goodreads na Kindle i Wikipedii.}}
 Access to Experimental Web Browser.	Dostęp do przeglądarki internetowej.
-Add Child
+Add Child	Dodaj dziecko
 CANCEL	ANULUJ
 Child Profile: {0}	Profil dziecka: {0}
 Child Profile	Profil dziecka

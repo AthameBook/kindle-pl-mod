@@ -1,13 +1,13 @@
-{0,plural, =0 {NO ADULT PROFILES} one {{0, number, integer} ADULT} other {{0, number, integer} ADULTS}}{1,plural, =0 {} one { AND {1, number, integer} CHILD} other { AND {1, number, integer} CHILDREN}}
-Accessibility
+{0,plural, =0 {NO ADULT PROFILES} one {{0, number, integer} ADULT} other {{0, number, integer} ADULTS}}{1,plural, =0 {} one { AND {1, number, integer} CHILD} other { AND {1, number, integer} CHILDREN}}	{0,plural, =0 {BRAK PROFILI DOROSŁYCH} one {{0, number, integer} DOROSŁY} other {{0, number, integer} DOROSŁYCH}}{1,plural, =0 {} one { I {1, number, integer} DZIECKO} other { AND {1, number, integer} DZIECI}}
+Accessibility	Ułatwienia dostępu
 CONNECTED TO	PODŁĄCZONY DO
 Device Options	Opcje urządzenia
-Household & Family Library
-Language & Dictionaries
-Legal
-My Account
-NOT CONNECTED	NIE POŁĄCZONY
-Parental Controls
+Household & Family Library	Rodzina i Biblioteka rodzinna
+Language & Dictionaries	Język i słowniki
+Legal	Przepisy prawne
+My Account	Moje konto
+NOT CONNECTED	BRAK POŁĄCZENIA
+Parental Controls	Kontrola rodzicielska
 Reading Options	Opcje czytania
 REGISTERED USER	ZAREJESTROWANY UŻYTKOWNIK
 REGISTERING YOUR KINDLE…	REJESTRUJĘ TWOJEGO KINDLE…

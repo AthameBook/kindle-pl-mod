@@ -1,7 +1,7 @@
 {0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	{0,plural,=0 {1 z 1} one {{1,number,integer} z {2,number,integer}} other {{1,number,integer} z {2,number,integer}}}
 Compatible Devices	Urządzenia kompatybilne
-Content shared through Family Library is only available on select Kindle devices running the latest software. To see the list of compatible devices, please go to {0} or contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.
+Content shared through Family Library is only available on select Kindle devices running the latest software. To see the list of compatible devices, please go to {0} or contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	Zawartość udostępniona w Bibliotece rodzinnej jest dostępna wyłącznie na wybranych urządzeniach Kindle z najnowszym oprogramowaniem. Aby zobaczyć listę kompatybilnych urządzeń, proszę przejść do {0} lub skontaktować się z działem obsługi klienta Kindle na www.amazon.com/devicesupport w celu uzyskania dalszej pomocy.
 Devices	Urządzenia
 No devices found.	Brak urządzeń
-Select your devices that should display {0}'s shared content.	Wybierz swoje urządzenia, które powinny wyświetlać dla {0} udostepnione treści.
+Select your devices that should display {0}'s shared content.	Wybierz swoje urządzenia, które powinny wyświetlać dla {0} udostępnione treści.
 <ul>Don't see all your devices here?</ul>	<ul>Nie widzisz tutaj wszystkich swoich urządzeń?</ul>

@@ -18,7 +18,7 @@
 {0}~~~~Are you sure you want to delete this notice?	{0}~~~~Czy na pewno chcesz usunąć to ogłoszenie?
 {0}~~~~Are you sure you want to delete this receipt?	{0}~~~~Czy na pewno chcesz usunąć ten paragon?
 {0}~~~~Are you sure you want to delete this sample?	{0}~~~~Czy na pewno chcesz usunąć tę próbkę?
-{0}~~~~This item will be moved to the Cloud, but any application data or settings associated with it will be permanently deleted.~~~~Would you like to continue?	{0}~~~~Ta pozycja zostanie przeniesiona do chmury, ale wszystkie dane i ustawienia z nią związane zostaną trwale usunięte.~~~~Czy chcesz kontynuować?
+{0}~~~~This item will be moved to the Cloud, but any application data or settings associated with it will be permanently deleted.~~~~Would you like to continue?	{0}~~~~Ta pozycja zostanie przeniesiona do Chmury, ale wszystkie dane i ustawienia z nią związane zostaną trwale usunięte.~~~~Czy chcesz kontynuować?
 About Kindle FreeTime	O Kindle FreeTime
 About Vocabulary Builder	O powtarzaniu słówek
 Aeroplane Mode	Tryb samolotowy
@@ -70,9 +70,9 @@ Remove from Device	Usuń z urządzenia
 Show in All Views	Pokazuj we wszystkich widokach
 Show Only in Collections	Pokazuj tylko w kolekcjach
 TAP TO OPEN	DOTKNIJ BY OTWORZYĆ
-The item you added to this collection was added to this device directly from a computer. Adding it to a collection will not sync the item to the Cloud, so you may not see this item on your other Kindle devices or apps.	Pozycja dodana do tej kolekcji była dodana do tego urządzenia bezpośrednio z komputera. Dodanie jej do kolekcji nie będzie synchronizowało pozycji w chmurze, więc nie będziesz mógł zobaczyć tej pozycji na innych urządzeniach Kindle lub aplikacjach.
+The item you added to this collection was added to this device directly from a computer. Adding it to a collection will not sync the item to the Cloud, so you may not see this item on your other Kindle devices or apps.	Pozycja dodana do tej kolekcji była dodana do tego urządzenia bezpośrednio z komputera. Dodanie jej do kolekcji nie będzie synchronizowało pozycji w Chmurze, więc nie będziesz mógł zobaczyć tej pozycji na innych urządzeniach Kindle lub aplikacjach.
 This Collection is synced across all your devices and will be deleted on any devices that support Cloud Collections.~~~~Deleting or removing a collection does not remove the content stored on your device or in the Cloud.	Ta kolekcja jest synchronizowana na wszystkich Twoich urządzeniach i zostanie usunięta z wszystkich Twoich urządzeń, korzystających z kolekcji w Chmurze.~~~~Usunięcie kolekcji nie spowoduje usunięcia jej zawartości z czytnika lub Chmury.
-This collection will no longer appear on your device. You can see the collection in the Cloud by tapping All. To add it to your device again, press and hold the collection. Removing a collection from your device does not remove the content inside that collection from your library.	Ta kolekcja nie będzie dłużej widoczna na urządzeniu. Możesz zobaczyć kolekcję w chmurze przez dotknięcie Wszystkie. Aby dodać ją ponownie do urządzenia, naciśnij i przytrzymaj kolekcję. Usunięcie kolekcji z urządzenia nie usuwa zawartości kolekcji z biblioteki.
+This collection will no longer appear on your device. You can see the collection in the Cloud by tapping All. To add it to your device again, press and hold the collection. Removing a collection from your device does not remove the content inside that collection from your library.	Ta kolekcja nie będzie dłużej widoczna na urządzeniu. Możesz zobaczyć kolekcję w Chmurze przez dotknięcie Wszystko. Aby dodać ją ponownie do urządzenia, naciśnij i przytrzymaj kolekcję. Usunięcie kolekcji z urządzenia nie usuwa zawartości kolekcji z biblioteki.
 This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	Ta kolekcja będzie pokazywana tylko w widoku Kolekcje. Naciśnij i przytrzymaj kolekcję, aby zmienić jej ustawienia wyświetlania.
 Turn Off FreeTime	Wyłącz FreeTime
 Turn Off Kindle for Kids	Wyłącz Kindle dla Dzieci

@@ -7,12 +7,12 @@ Use %s as your device language?	Czy ustawić na Kindle język %s?
 Updating	Trwa aktualizacja
 Update Error: %s	Błąd aktualizacji: %s
 The update was not successful.\n	W trakcie aktualizacji wystąpił błąd.\n
-If you need assistance visit www.amazon.com/devicesupport.\n	Jeśli potrzebujesz pomocy przejdź do strony www.amazon.com/devicesupport.\n
+If you need assistance visit www.amazon.com/devicesupport.\n	Jeśli potrzebujesz pomocy przejdź na stronę www.amazon.com/devicesupport.\n
 To resume using your Kindle, please press the Power button.	Aby kontynuować pracę z Kindle, naciśnij przycisk zasilania.
 Software Update	Aktualizacja oprogramowania
 Your Kindle software is updating. This can take a few minutes.\n	Twój Kindle jest aktualizowany. To może chwilę potrwać.\n
 DO NOT turn off your Kindle during the update process.\n	NIE WYŁĄCZAJ Kindle w trakcie procesu aktualizacji.\n
-Your Kindle will restart automatically as soon as the update is complete.	Po zakończeniu aktualizacji, Twój Kindle uruchomi się ponownie.
+Your Kindle will restart automatically as soon as the update is complete.	Po zakończeniu aktualizacji czytnik uruchomi się ponownie.
 Update successful.\n	Aktualizacja zakończyła się prawidłowo.\n
 Your Kindle is restarting...	Za chwilę Twój Kindle uruchomi się ponownie...
 We are updating your fonts. Your device will restart after the update is 	Zaktualizowaliśmy Twoje czcionki. Czytnik uruchomi się ponownie gdy 
@@ -25,7 +25,7 @@ Repair Code:%d\n	Kod bezpieczeństwa:%d\n
 Version:%lld\n	Wersja:%lld\n
 DSN:%s	DSN:%s
 Please wait whilst we install font updates. This may take a few minutes.	Proszę poczekać na zakończenie aktualizacji czcionek. Może to potrwać kilka minut.
-Please wait a moment while your Kindle starts up.	Poczekaj na ponowne uruchomienie Twojego Kindle.
+Please wait a moment while your Kindle starts up.	Poczekaj na ponowne uruchomienie Kindle.
 %d per cent loaded	Załadowano %d procent
 Test Draw Defaults	Test rysowania domyślnego
 No fontsize entry	Brak wpisu fontsize

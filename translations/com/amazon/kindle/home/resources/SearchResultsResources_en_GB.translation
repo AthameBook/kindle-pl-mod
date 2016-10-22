@@ -1,4 +1,4 @@
-{0, select, 0 {Dictionary} 1 {Dictionary and {1}} other {Dictionary and References}}	{0, select, 0 {słowników} 1 {słownik i {1}} other {Słownik i odniesienia}}
+{0, select, 0 {Dictionary} 1 {Dictionary and {1}} other {Dictionary and References}}	{0, select, 0 {słowników} 1 {Słownik i {1}} other {Słownik i odniesienia}}
 {0, select, 1 {{1}} other {Other References}}	{0, select, 1 {{1}} other {Inne odniesienia}}
 {0,select,empty {There are no results} loading {Loading results…} connectionerror {Connect to network } error {Problem loading results} other {}}	{0,select,empty {Brak wyników} loading {Ładowanie wyników…} connectionerror {Podłącz do sieci } error {Problem podczas ładowania wyników} other {}}
 Dictionary	Słownik

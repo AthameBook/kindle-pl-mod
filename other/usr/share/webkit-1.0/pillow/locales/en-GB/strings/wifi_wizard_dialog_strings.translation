@@ -2,7 +2,7 @@ Wi-Fi Networks ({numNetworks})	Sieci Wi-Fi ({numNetworks})
 Advanced Options	Zaawansowane opcje
 Enter Other Wi-Fi Network	Wprowadź inną sieć Wi-Fi
 Network Name	Nazwa sieci
-Username	Nazwa użytkownika
+User Name	Nazwa użytkownika
 Password	Hasło
 Connection Type	Typ połączenia
 IP Address	Adres IP
@@ -25,19 +25,18 @@ MSCHAPv2	MSCHAPv2
 None	Brak
 WEP	WEP
 WPA2	WPA2
-Done	Gotowe
+DONE	GOTOWE
 Available Networks	Dostępne sieci
-Disconnect	Rozłącz
-Enter Again	Wprowadź ponownie
-Set Up	Ustawienia
-OK	OK
-Cancel	Anuluj
-Connect	Połącz
+DISCONNECT	ROZŁĄCZ
+ENTER AGAIN	WPROWADŹ PONOWNIE
+SET UP	USTAWIENIA
+CANCEL	ANULUJ
+CONNECT	POŁĄCZ
 WPS	WPS
-Advanced	Zaawansowane
-Other...	Inne...
-Rescan	Odśwież
-Try Again	Spróbuj ponownie
+ADVANCED	ZAAWANSOWANE
+OTHER...	INNE...
+RESCAN	ODŚWIEŻ
+TRY AGAIN	SPRÓBUJ PONOWNIE
 Hide Password	Ukryj hasło
 Save password to Amazon.	Zapisz hasło w Amazon.
 Learn More	Dowiedz się więcej
@@ -47,11 +46,16 @@ Wi-Fi Login	Login do sieci Wi-Fi
 Incorrect Password	Nieprawidłowe hasło
 Wi-Fi Error	Błąd sieci Wi-Fi
 Wi-Fi Not Configured	Sieć Wi-Fi nie jest skonfigurowana
+Your Kindle is unable to connect to the Wi-Fi network "{essid}". --"{error}"--. Press Set Up to enter your password again or manually set up your network. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.amazon.com/devicesupport.	Twój Kindle nie może połączyć się z siecią Wi-Fi "{essid}". --"{błąd}"--. Wprowadź swoje hasło ponownie lub ręcznie ustaw swoją sieć. Jeśli masz problemy z połączeniem Kindle do sieci Wi-Fi, możesz znaleźć pomoc w www.amazon.com/devicesupport.
+Your Kindle is unable to connect to the Wi-Fi network "{essid}". The password you entered is incorrect. Try entering your password again or manually setting up your network. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.amazon.com/devicesupport.	Twój Kindle nie może połączyć się z siecią Wi-Fi "{essid}". Wprowadzone hasło jest nieprawidłowe. Spróbuj wprowadzić hasło ponownie lub ręcznie ustaw sieć. Jeśli masz problemy z połączeniem Kindle do sieci Wi-Fi, możesz znaleźć pomoc w www.amazon.com/devicesupport.
+Your Kindle is unable to connect to the Wi-Fi network "{essid}". Press Set Up to enter your password again or manually set up your network. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.amazon.com/devicesupport.	Twój Kindle nie może połączyć się z siecią Wi-Fi "{essid}". Wprowadź swoje hasło ponownie lub ręcznie ustaw swoją sieć. Jeśli masz problemy z połączeniem Kindle do sieci Wi-Fi, możesz znaleźć pomoc w www.amazon.com/devicesupport.
 Your Kindle is unable to connect to the Wi-Fi network "{essid}". Please check your credentials or contact your system administrator.	Twój Kindle nie może połączyć się z siecią Wi-Fi "{essid}". Sprawdź ustawienia swojej sieci lub skontaktuj się z Twoim administratorem systemu.
 Connection Failed	Nie udało się połączyć
 Your Kindle connected to the Wi-Fi network but could not reach the Internet. Contact your Internet Service Provider for further assistance.	Twój Kindle połączony z siecią Wi-Fi, ale nie może połączyć się z Internetem. Skontaktuj się ze swoim dostawcą usług internetowych w celu uzyskania pomocy.
 Network Name Too Long	Nazwa sieci jest zbyt długa
-Your Kindle is unable to connect to the Wi-Fi network "{essid}". The network name is too long. Would you like to set up this network manually?	Twój Kindle nie może połączyć z siecią Wi-Fi "{essid}". Nazwa sieci jest zbyt długa. Czy chcesz ręcznie skonfigurować tą sieć.
+Your Kindle is unable to connect to the Wi-Fi network "{essid}". The network name is too long. Would you like to manually set up this network?	Twój Kindle nie może połączyć z siecią Wi-Fi "{essid}". Nazwa sieci jest zbyt długa. Czy chcesz ręcznie skonfigurować tą sieć.
+Your Kindle is unable to connect to the Wi-Fi network "{essid}". The security type you entered does not match the security type of the Wi-Fi network. Please manually set up the network again and select the correct security type. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.amazon.com/devicesupport.	Twój Kindle nie może połączyć z siecią Wi-Fi "{essid}". Typ zabezpieczeń, który wpisałeś nie jest zgodny z typem zabezpieczeń sieci Wi-Fi. Należy ręcznie skonfigurować sieć ponownie i wybrać odpowiedni typ zabezpieczeń. Jeśli masz problemy z połączeniem Kindle do sieci Wi-Fi, możesz znaleźć pomoc w www.amazon.com/devicesupport.
+Scanning	Skanowanie
 Password Too Long	Hasło jest za długie
 Password Too Short	Hasło jest za krótkie
 Unsupported Network	Nieobsługiwana sieć
@@ -65,14 +69,16 @@ Connecting	Łączenie
 Connected	Połączono
 Connection Failed	Nie udało się połączyć
 No Wi-Fi networks were found	Nie znaleziono sieci Wi-Fi
-Your Kindle is unable to connect to the Wi-Fi network "{essid}" using WPS. Would you like to set up this network manually?	Twój Kindle nie może połączyć z siecią Wi-Fi "{essid}" przy użyciu WPS. Czy chcesz ręcznie skonfigurować tą sieć.
+Your Kindle is unable to connect to the Wi-Fi network "{essid}" using WPS. Would you like to manually set up this network?	Twój Kindle nie może połączyć z siecią Wi-Fi "{essid}" przy użyciu WPS. Czy chcesz ręcznie skonfigurować tą sieć.
 Your Kindle is unable to connect to the Wi-Fi network "{essid}" using WPS. Please check that the WPS button was tapped.	Twój Kindle nie może połączyć się z siecią Wi-Fi "{essid}" przy użyciu WPS. Sprawdź czy przycisk WPS jest wciśnięty.
 Your Kindle is unable to connect to the Wi-Fi network "{essid}". Check that your security settings are correct and try again.	Twój Kindle nie może połączyć się z siecią Wi-Fi "{essid}". Sprawdź czy ustawienia zabezpieczeń są prawidłowe i spróbuj jeszcze raz.
-Your Kindle is unable to connect to the Wi-Fi network "{essid}". The access point rejected the connection request. Check your router\u02bcs MAC address filtering settings and try again.	Twój Kindle nie może połączyć się z siecią Wi-Fi "{essid}". Punkt dostępu odrzucił żądanie połączenia. Sprawdź ustawienia blokowania MAC adresów w twojej bramce sieciowej i spróbuj ponownie.
+Your Kindle is unable to connect to the Wi-Fi network "{essid}". The access point rejected the connection request. Check your router\'s MAC address filtering settings and try again.	Twój Kindle nie może połączyć się z siecią Wi-Fi "{essid}". Punkt dostępu odrzucił żądanie połączenia. Sprawdź ustawienia blokowania MAC adresów w twojej bramce sieciowej i spróbuj ponownie.
 Forget Network?	Czy zapomnieć tą sieć?
 Are you sure you want to forget the Wi-Fi network "{essid}"?	Czy jesteś pewien, że chcesz zapomnieć sieć "{essid}"?
-Forget	Zapomnij
+FORGET	ZAPOMNIJ
 You can set up the Wi-Fi network connection and security options for the network named below.	Możesz skonfigurować połączenie z siecią Wi-Fi i opcje zabezpieczeń sieci, której nazwa znajduje się poniżej.
 Unable to Find Certificate	Nie można znaleźć certyfikatu
 The security certificate cannot be located. Please verify that the name is correct and try again.	Nie można zlokalizować certyfikatu bezpieczeństwa. Sprawdź, czy nazwa jest poprawna i spróbuj ponownie.
+To use Airplane Mode, tap Quick Actions	Aby użyć trybu samolotowego, dotknij menu szybkich akcji
+on the toolbar, then tap Airplane Mode.	na pasku narzędzi, dotknij tryb samolotowy.
 Close	Zamknij

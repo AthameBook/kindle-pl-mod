@@ -4,7 +4,7 @@ Go	Idź
 Search Kindle Store	Szukaj w sklepie Kindle
 Search Everywhere	Szukaj wszędzie
 Search Goodreads	Szukaj na Goodreads
-Search the Kindle Store for \"{searchString}\"	Szukaj w sklepie Kindle: \"{searchString}\"
+Search Kindle Store for \"{searchString}\"	Szukaj w sklepie Kindle: \"{searchString}\"
 Search Everywhere for \"{searchString}\"	Szukaj wszędzie: \"{searchString}\"
 Search Goodreads for \"{searchString}\"	Szukaj na Goodreads: \"{searchString}\"
 Recent Searches	Ostatnie wyszukiwania
@@ -16,7 +16,8 @@ There are no results found in Store.	Nie znaleziono żadnych wyników w sklepie.
 There are no results found in Goodreads.	Nie znaleziono żadnych wyników na Goodreads.
 Quick Results from 	Szybkie wyniki z
 Search Everywhere	Szukaj wszędzie
-http://www.google.co.uk/search?q= Search Google	http://www.google.pl/search?hl=pl&q= Szukaj w Google
+http://www.google.com/search?q=	http://www.google.pl/search?hl=pl&q=
+Search Google	Szukaj w Google
 http://www.baidu.com/s?tn=baiduhome_pg&ie=utf-8&rn=4&wd= Search Baidu	http://www.baidu.com/s?tn=baiduhome_pg&ie=utf-8&rn=4&wd= Szukaj w Baidu
 Search Dictionary	Szukaj w słowniku
 Search Kindle Store	Szukaj w sklepie Kindle

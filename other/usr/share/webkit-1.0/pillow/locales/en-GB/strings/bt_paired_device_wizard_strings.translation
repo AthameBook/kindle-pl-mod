@@ -1,7 +1,7 @@
 Bluetooth	Bluetooth
 Devices ({numDevices,number,integer})	Urządzenia ({numDevices,number,integer})
 Please make sure your Bluetooth device is on. Tap the device name to forget or connect to the device	Należy upewnić się, że urządzenie Bluetooth jest włączone. Dotknij nazwę urządzenia, aby zapomnieć lub połączyć się z urządzeniem
-BLUETOOTH WIZARD	BLUETOOTH WIZARD
+BLUETOOTH WIZARD	KREATOR BLUETOOTH
 Disconnect and pair new audio device	Rozłącz i sparuj nowe urządzenie audio
 DISCONNECT	ROZŁĄCZ
 CANCEL	ANULUJ

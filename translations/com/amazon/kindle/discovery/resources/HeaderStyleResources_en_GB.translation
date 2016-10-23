@@ -13,7 +13,7 @@
 {0,select, first_author {Books I've Written ({1,number,0})} other {Author's Books ({1,number,0})}}	{0,select, first_author {Książki, które napisałem ({1,number,0})} other {Autor książek ({1,number,0})}}
 {0,select, shelved_books {Shelved Books ({1,number,0}) } first_author_activity {My Recent Updates } other {Recent Updates }}	{0,select, shelved_books {Książki na półce ({1,number,0}) } first_author_activity {Moje najnowsze aktualizacje } other {Najnowsze aktualizacje }}
 {0,select, show_more {See More } other {}}	{0,select, show_more {Zobacz więcej } other {}}
-Add {0,plural,=0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	Add {0,plural,=0 {{0,number,integer} książki} one {{0,number,integer} książkę} one {{0,number,integer} książkę} few {{0,number,integer} książki} many {{0,number,integer} książek}}
+Add {0,plural,=0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	Dodaj {0,plural,=0 {{0,number,integer} książki} one {{0,number,integer} książkę} one {{0,number,integer} książkę} few {{0,number,integer} książki} many {{0,number,integer} książek}}
 Add Amazon Books 	Dodaj książki z Amazon 
 Are you sure you want to delete this comment?	Czy na pewno chcesz usunąć ten komentarz?
 Are you sure you would like to remove {0} from your friend list? Friends arenʼt notified when you remove them.	Czy na pewno chcesz usunąć {0} z listy swoich znajomych? Znajomi nie są powiadamiani o ich usunięciu.

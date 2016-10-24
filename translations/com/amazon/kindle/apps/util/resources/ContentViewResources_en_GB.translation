@@ -1,5 +1,5 @@
-{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}	{0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} few {{0,number,integer} wydania} many {{0,number,integer} wydań} other {{0,number,integer} wydań}}
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} few {{0,number,integer} pozycje} many {{0,number,integer} pozycji} other {{0,number,integer} pozycji}}
+{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}	{0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} few {{0,number,integer} wydania} other {{0,number,integer} wydań}}
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} few {{0,number,integer} pozycje} other {{0,number,integer} pozycji}}
 Abc	Abc
 Archived Items	Zarchiwizowane pozycje
 Blog	Blog

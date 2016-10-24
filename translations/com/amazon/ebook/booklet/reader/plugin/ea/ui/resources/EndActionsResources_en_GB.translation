@@ -2,7 +2,7 @@
 ✓ You are subscribed to e-mails.	✓ Jesteś zapisany do subskrybcji e-mail.
 {0} by {1}	{0} - {1}
 {0} to read {1}	{0} do przeczytania {1}
-{0,plural,=0 {No pages} one {{0,number,integer} page} other {{0,number,integer} pages}}	{0,plural,=0 {Brak stron} one {{0,number,integer} strona} few {{0,number,integer} strony} many {{0,number,integer} stron} other {{0,number,integer} stron}}
+{0,plural,=0 {No pages} one {{0,number,integer} page} other {{0,number,integer} pages}}	{0,plural,=0 {Brak stron} one {{0,number,integer} strona} few {{0,number,integer} strony} other {{0,number,integer} stron}}
 About This Book	O książce
 An error occurred, please try again.	Wystąpił błąd, spróbuj ponownie później.
 Author biography	Biografia autora

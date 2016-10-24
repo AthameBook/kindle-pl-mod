@@ -1,5 +1,5 @@
 {0} by {1}	„{0}” autorstwa {1}
-{0,plural,=0 {{0, number,integer} star} one {{0, number,integer} star} other {{0, number,integer} stars}}	{0,plural,=0 {{0, number,integer} gwiazdek} one {{0, number,integer} gwiazdka} few {{0, number,integer} gwiazdki} other {{0, number,integer} gwiazdek}}
+{0,plural,=0 {{0, number,integer} star} one {{0, number,integer} star} other {{0, number,integer} stars}}	{0,plural,=0 {{0, number,integer} gwiazdek} one {{0, number,integer} gwiazdka} other {Gwiazdek: {0, number,integer}}}
 Books Rated: {0, number, integer}	Książki ocenione: {0, number, integer}
 Done exploring?	Zakończyć odkrywanie?
 I'm Done	Skończyłem

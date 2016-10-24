@@ -4,7 +4,7 @@ The Experimental Web Browser was unable to download {filename}. &nbsp;Please try
 The Experimental Web Browser cannot download this kind of file.<p>Only files with the extension .AZW, .PRC, .MOBI or .TXT can be downloaded to your Kindle.</p>	Przeglądarka nie może pobrać pliku tego typu.<p>Na Kindle można pobierać tylko pliki o rozszerzeniach .AZW, .PRC, .MOBI oraz .TXT.</p>
 The Experimental Web Browser does not support file uploads.	Przeglądarka nie obsługuje uploadu plików.
 In order to browse, you must first register your Kindle with your Amazon user account.	Aby przeglądać, należy najpierw zarejestrować Kindle na koncie Amazon.
-The Experimental Web Browser cannot establish a secure connection. Do you still want to proceed?	Przeglądarka nie jest w stanie ustanowić bezpiecznego połączenia. Czy nadal chcesz kontynuować?
+The Experimental Web Browser cannot establish a secure connection.<br><br>Do you still want to proceed?	Przeglądarka nie jest w stanie ustanowić bezpiecznego połączenia.<br><br>Czy nadal chcesz kontynuować?
 The Experimental Web Browser requires a Wi-Fi connection. &nbsp;Tap OK to establish a Wi-Fi connection.	Przeglądarka wymaga połączenia z siecią Wi-Fi.&nbsp;Dotknij OK, aby połączyć z siecią Wi-Fi.
 Sorry, the browser cannot access this website.	Przepraszamy, przeglądarka nie ma dostępu do tej strony.
 There is a problem with your Kindle account.<p>Please contact Customer Service at www.amazon.com/devicesupport.</p>	Wystąpił problem z Twoim kontem Kindle.<p>Prosimy o kontakt z działem obsługi klienta na www.kindle.com/devicesupport.</p>
@@ -46,7 +46,7 @@ Enable Images	Włącz obrazki
 Disable Images	Wyłącz obrazki
 Today - {date}	Dziś - {date}
 Yesterday - {date}	Wczoraj - {date}
-Download {filename}?<br><br>Once the download is complete, the file will appear on the Home screen. &nbsp;Are you sure you wish to proceed?	Pobrać {filename}?<br><br>Kiedy pobieranie się zakończy, plik będzie dostępny na ekranie głównym. &nbsp;Czy na pewno chcesz kontynuować?
+Download {filename}?<br><br>Once the download is complete, the file will appear in Home.<br><br>Are you sure you wish to proceed?	Pobrać {filename}?<br><br>Kiedy pobieranie się zakończy, plik będzie dostępny na ekranie głównym.<br><br>;Czy na pewno chcesz kontynuować?
 The Experimental Web Browser successfully downloaded {filename}.	Przeglądarka prawidłowo pobrała plik {filename}.
 Another page with the same URL is already bookmarked.<br><br>Do you wish to overwrite it?	Inna strona z tym samym adresem URL jest już zakładką.<br><br>Czy chcesz ją zastąpić?
 Web	Internet

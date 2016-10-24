@@ -7,11 +7,11 @@ Add/Remove Items	Dodaj/Usuń pozycje
 Date: 	Data:
 Delete	Usuń
 Download Latest Issue	Pobierz najnowsze wydanie
-Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Pobrane: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {{0,number,integer} wydań} }
-Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pobrane: {0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
+Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Wydania pobrane: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje pobrane: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Edit Child Profiles	Edytuj profile dzieci
 Edit Pronunciation	Edytuj wymowę
-In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	W Chmurze: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {wydania: {0,number,integer}} }
+In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Wydania w Chmurze: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje w Chmurze: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Latest Issue: {0,date,short}	Najnowsze wydanie: {0,date,short}
 Learn more	Dowiedz się więcej
@@ -22,8 +22,8 @@ Open Latest Issue	Otwórz najnowsze wydanie
 Remove All Back Issues	Usuń wszystkie archiwalne numery
 Remove from Device	Usuń z urządzenia
 Rename	Zmień nazwę
-Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Razem: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {wydania: {0,number,integer}} }
-Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Razem wydań: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem pozycji: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Turn Off FreeTime	Wyłącz FreeTime
 Turn Off Kindle for Kids	Wyłącz Kindle dla Dzieci
 Turn Off Vocabulary Builder	Wyłącz funkcję powtarzania słówek

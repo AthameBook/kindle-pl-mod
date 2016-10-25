@@ -4,7 +4,7 @@ About Vocabulary Builder	O powtarzaniu słówek
 Add to Downloaded	Dodaj do pobranych
 Add To Home	Dodaj do ekranu głównego
 Add/Remove Items	Dodaj/Usuń pozycje
-Date: 	Data:
+Date: 	Data: 
 Delete	Usuń
 Download Latest Issue	Pobierz najnowsze wydanie
 Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Wydania pobrane: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
@@ -17,7 +17,7 @@ Latest Issue: {0,date,short}	Najnowsze wydanie: {0,date,short}
 Learn more	Dowiedz się więcej
 Manage FreeTime Items	Zarządzaj pozycjami FreeTime
 Manage Kindle for Kids Items	Zarządzaj pozycjami Kindle dla Dzieci
-Narrator: 	Narrator:
+Narrator: 	Narrator: 
 Open Latest Issue	Otwórz najnowsze wydanie
 Remove All Back Issues	Usuń wszystkie archiwalne numery
 Remove from Device	Usuń z czytnika

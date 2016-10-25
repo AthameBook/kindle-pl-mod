@@ -8,10 +8,10 @@ Annotations Backup configuration is blocked for child profiles.	Konfiguracja kop
 Annotations Backup configuration is locked.	Konfiguracja kopii zapasowej adnotacji jest zablokowana.
 Deregistration is blocked for child profiles.	Wyrejestrowanie jest zablokowane w profilach dzieci.
 Deregistration is locked.	Wyrejestrowanie jest zablokowane.
-Device Language configuration is blocked for child profiles.	Konfiguracja języka urządzenia jest zablokowana w profilach dzieci.
-Device Language configuration is locked.	Konfiguracja języka urządzenia jest zablokowana.
-Device name personalisation is blocked for child profiles.	Zmiana nazwy urządzenia jest zablokowana w profilach dzieci.
-Device name personalisation is locked.	Personalizacja nazwy urządzenia jest zablokowana.
+Device Language configuration is blocked for child profiles.	Konfiguracja języka jest zablokowana w profilach dzieci.
+Device Language configuration is locked.	Konfiguracja języka jest zablokowana.
+Device name personalisation is blocked for child profiles.	Zmiana nazwy czytnika jest zablokowana w profilach dzieci.
+Device name personalisation is locked.	Zmiana nazwy czytnika jest zablokowana.
 Dictionary changes are blocked for child profiles.	Zmiany słownika są zablokowane w profilach dzieci.
 Dictionary changes are locked.	Zmiany słownika są zablokowane.
 Experimental Menu is blocked for child profiles.	Menu opcji eksperymentalnych jest zablokowane w profilach dzieci.

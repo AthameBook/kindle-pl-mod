@@ -1,4 +1,4 @@
-{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} pozycja więcej w Chmurze} other {Ilość dodatkowych pozycji w Chmurze: {0,number,integer}}}
+{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}	{0,plural,=0 {} one {W Chmurze jest jeszcze {0,number,integer} pozycja} other {Liczba dodatkowych pozycji w Chmurze: {0,number,integer}}}
 ALL ITEMS	WSZYSTKIE
 All Items	Wszystkie pozycje 
 Books	Książki

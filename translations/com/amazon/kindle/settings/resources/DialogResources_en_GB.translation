@@ -3,7 +3,7 @@
 Add New Adult	Dodaj nowe konto dorosłego
 Already signed up to an account using WeChat? You can sign in with your mobile phone number and password. If you do not have a password, set it at https://www.amazon.cn/password.	Już zarejestrowałeś swoje konto w usłudze WeChat? Możesz zalogować się za pomocą numeru telefonu komórkowego i hasła. Jeśli nie masz hasła, przejdź na https://www.amazon.cn/password.
 Amazon ID	Identyfikator w Amazon
-Are you sure you want to delete all Wi-Fi passwords saved to Amazon from this device?	Na pewno chcesz usunąć wszystkie hasła Wi-Fi zapisane w Amazonie z tego urządzenia?
+Are you sure you want to delete all Wi-Fi passwords saved to Amazon from this device?	Na pewno chcesz usunąć wszystkie hasła Wi-Fi zapisane w Amazonie z tego czytnika?
 Are you sure you want to unlink your account?~~~~You will no longer be able to access Goodreads with your Amazon login. To retain this account, please set up a Goodreads password at goodreads.com > Edit Profile > Settings before you unlink.	Czy na pewno chcesz odłączyć swoje konto?~~~~Nie będziesz już mieć dostępu do Goodreads z loginem Amazon. Aby zachować to konto, proszę ustawić hasło Goodreads na goodreads.com > Edit Profile > Settings przed odłączeniem.
 Authentication Help	Pomoc dla autoryzacji
 CANCEL	ANULUJ
@@ -13,8 +13,8 @@ DELETE	USUŃ
 Deregister Your Kindle	Wyrejestruj swojego Kindle
 Deregistering Your Kindle…	Wyrejestrowuję Kindle...
 DEREGISTER	WYREJESTRUJ
-Device Info	Informacje o urządzeniu
-Device Name	Nazwa urządzenia
+Device Info	Informacje o czytniku
+Device Name	Nazwa czytnika
 DISABLE	WYŁĄCZ
 Do you want to restart your Kindle?~~~~This may take several minutes.	Czy chcesz ponownie uruchomić swojego Kindle?~~~~Może to zająć kilka minut.
 ENABLE	WŁĄCZ
@@ -52,9 +52,9 @@ Unable to Connect	Nie można się połączyć
 Unable to Process Registration	Nie można przeprowadzić rejestracji
 Unavailable	Niedostępna
 UNLINK	ODŁĄCZ
-We are unable to delete the Wi-Fi passwords from this device. Please try again later, or contact Customer Service.	Nie udało się usunąć haseł Wi-Fi z tego urządzenia. Proszę spróbować później lub skontaktować się z działem obsługi klienta.
+We are unable to delete the Wi-Fi passwords from this device. Please try again later, or contact Customer Service.	Nie udało się usunąć haseł Wi-Fi z tego czytnika. Proszę spróbować później lub skontaktować się z działem obsługi klienta.
 WHAT'S NEW	CO NOWEGO
-Whispersync for Books uses data from this device to keep your Kindle apps in sync, back up your annotations and provide other features. If you turn off Whispersync for this device, this device will not send such usage data to Amazon's servers and some features will be unavailable to you, including syncing your reading location from this device across other devices.	Whispersync for Books wykorzystuje dane z tego urządzenia, aby utrzymać synchronizację aplikacji Kindle, kopię zapasową adnotacji i zapewnić inne funkcje. Jeśli wyłączysz Whispersync dla tego urządzenia, to urządzenie nie będzie wysyłać tych danych na serwery Amazon i niektóre funkcje nie będą dostępne dla Ciebie, w tym synchronizacja ostatnio czytanej strony z tego urządzenia przez inne urządzenia.
+Whispersync for Books uses data from this device to keep your Kindle apps in sync, back up your annotations and provide other features. If you turn off Whispersync for this device, this device will not send such usage data to Amazon's servers and some features will be unavailable to you, including syncing your reading location from this device across other devices.	Whispersync for Books wykorzystuje dane z tego czytnika, aby utrzymać synchronizację aplikacji Kindle, kopię zapasową adnotacji i zapewnić inne funkcje. Jeśli wyłączysz Whispersync dla tego urządzenia, to czytnik nie będzie wysyłać tych danych na serwery Amazon i niektóre funkcje nie będą dostępne dla Ciebie, w tym synchronizacja ostatnio czytanej strony z tego czytnika przez inne urządzenia.
 Whispersync for Books	Whispersync for Books
 Wi-Fi MAC Address: 	Adres MAC Wi-Fi: 
 Your Amazon account will no longer be linked with your Facebook account.	Twoje konto Amazon nie będzie dłużej połączone z kontem z Facebooka.

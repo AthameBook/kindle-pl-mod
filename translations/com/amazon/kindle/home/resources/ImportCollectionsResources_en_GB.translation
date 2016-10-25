@@ -1,4 +1,4 @@
-{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	{0,plural,=0 {1 of 1} one {{1,number,integer} z {2,number,integer}} other {{1,number,integer} z {2,number,integer}}}
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	{0,plural,=0 {1 z 1} one {{1,number,integer} z {2,number,integer}} other {{1,number,integer} z {2,number,integer}}}
 Import Collections	Importuj kolekcje
 Importing Collections...	Importuję kolekcje...
 No Devices	Brak urządzeń

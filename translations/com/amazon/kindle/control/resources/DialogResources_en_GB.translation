@@ -11,10 +11,10 @@ Go To	Idź do
 GO	IDŹ
 HINT	WSKAZÓWKA
 <html><body>Release Notes are not available.</body></html>	<html><body>Brak informacji o wersji.</body></html>
-~~If you have forgotten your password, please contact Kindle Customer Service at www.amazon.com/devicesupport to receive help resetting your device.	~~Jeśli zapomniałeś swoje hasło, prosimy o kontakt z działem obsługi klienta Kindle na www.amazon.com/devicesupport w celu zresetowania Twojego urządzenia.
+~~If you have forgotten your password, please contact Kindle Customer Service at www.amazon.com/devicesupport to receive help resetting your device.	~~Jeśli zapomniałeś swoje hasło, prosimy o kontakt z działem obsługi klienta Kindle na www.amazon.com/devicesupport w celu zresetowania Twojego czytnika.
 Page number (1 to {0, choice, 0#1|1#{0,number,integer}}):	Numer strony (1 do {0, choice, 0#1|1#{0,number,integer}}):
 PLAY	ODTWÓRZ
-Press and hold a collection to add or remove it from this Kindle.~~~~When you view your Cloud content, collections on this Kindle are marked with a star.	Naciśnij i przytrzymaj kolekcję, aby dodać lub usunąć ją z urządzenia.~~~~Podczas przeglądania zawartości w Chmurze kolekcje na tym urządzeniu są zaznaczone gwiazdką.
+Press and hold a collection to add or remove it from this Kindle.~~~~When you view your Cloud content, collections on this Kindle are marked with a star.	Naciśnij i przytrzymaj kolekcję, aby dodać lub usunąć ją z czytnika.~~~~Podczas przeglądania zawartości w Chmurze kolekcje na tym czytniku są zaznaczone gwiazdką.
 Record and Play	Nagrywaj i odtwarzaj
 RECORD	NAGRAJ
 Remove Sample From	Usuń próbkę z
@@ -23,7 +23,7 @@ REMOVE	USUŃ
 Removing a sample from the Cloud will also remove it from all devices.	Usunięcie próbki z Chmury spowoduje usunięcie jej z wszystkich urządzeń.
 Select Child	Wybierz dziecko
 Set Automatically	Ustaw automatycznie
-This device	To urządzenie
+This device	Ten czytnik
 Titles starting with:	Tytuły rozpoczynające się od:
 What's New in Version {0}	Co nowego w wersji {0}
 What's New	Co nowego

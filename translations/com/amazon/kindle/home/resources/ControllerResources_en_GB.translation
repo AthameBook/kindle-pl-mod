@@ -1,5 +1,5 @@
-{0,plural,=0 {} one {{0,number,integer} more Collection in the Cloud} other {{0,number,integer} more Collections in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} kolekcja więcej w Chmurze} other {Ilość dodatkowych kolekcji w Chmurze: {0,number,integer}}}
-{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	{0,plural,=0 {1 of 1} one {{1,number,integer} z {2,number,integer}} other {{1,number,integer} z {2,number,integer}}}
+{0,plural,=0 {} one {{0,number,integer} more Collection in the Cloud} other {{0,number,integer} more Collections in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} kolekcja więcej w Chmurze} other {Liczba dodatkowych kolekcji w Chmurze: {0,number,integer}}}
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	{0,plural,=0 {1 z 1} one {{1,number,integer} z {2,number,integer}} other {{1,number,integer} z {2,number,integer}}}
 {1, select, 0 {{0, select, true {Showing your items available in the Cloud} other {Not showing your items available in the Cloud}}} other {{0, select, true {Showing your items available on device} other {Not showing your items available on device}}}} 	{1, select, 0 {{0, select, true {Pokazuje pozycje dostępne w Chmurze} other {Nie pokazuje pozycji dostępnych w Chmurze}}} other {{0, select, true {Pokazuje pozycje dostępne na czytniku} other {Nie pokazuje pozycji dostępnych na czytniku}}}} 
 ALL	WSZYSTKO
 DOWNLOADED	CZYTNIK

@@ -1,4 +1,4 @@
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	Liczba pozycji: {0}
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak} one {{0,number,integer} pozycja} other {Liczba pozycji: {0,number,integer}}}
 A collection with the name you entered already exists in the Cloud. Please enter a different name.	Kolekcja o podanej nazwie już istnieje w Chmurze. Proszę podać inną nazwę.
 A free update is available for your Kindle. Please stay connected to a Wi-Fi network to receive and install the update. The update will be installed automatically when your Kindle is in sleep mode.	Dostępna jest bezpłatna aktualizacja dla Twojego czytnika. Pozostań połączony do sieci Wi-Fi, aby pobrać i zainstalować aktualizację. Aktualizacja zostanie zainstalowana automatycznie po przejściu czytnika w stan uśpienia.
 A free update is available for your Kindle. To receive the update, connect to a Wi-Fi network.	Dostępna jest bezpłatna aktualizacja dla Twojego czytnika. Aby uzyskać aktualizację podłącz się do sieci Wi-Fi.
@@ -7,7 +7,7 @@ Author	Autor
 Collection Name	Nazwa kolekcji
 Edit Kana	Edytuj Kana
 Edit Pronunciation	Edytuj wymowę
-Low Device Memory	Niski poziom pamięci na urządzeniu
+Low Device Memory	Niski poziom pamięci na czytniku
 REMIND ME LATER	PRZYPOMNIJ MI PÓŹNIEJ
 RESTART	URUCHOM PONOWNIE
 Tap the Goodreads symbol any time to see what your friends are reading and find your next favourite book.	Dotknij ikonkę Goodreads w dowolnej chwili, aby zobaczyć, co czytają Twoi znajomi i wyszukać dla siebie kolejną ulubioną książkę.

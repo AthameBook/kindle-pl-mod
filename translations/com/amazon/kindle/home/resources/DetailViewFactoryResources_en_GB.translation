@@ -20,7 +20,7 @@ Manage Kindle for Kids Items	Zarządzaj pozycjami Kindle dla Dzieci
 Narrator: 	Narrator:
 Open Latest Issue	Otwórz najnowsze wydanie
 Remove All Back Issues	Usuń wszystkie archiwalne numery
-Remove from Device	Usuń z urządzenia
+Remove from Device	Usuń z czytnika
 Rename	Zmień nazwę
 Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Razem wydań: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem pozycji: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }

@@ -1,6 +1,6 @@
 <h1>Spolszczenie dla Kindle</h1>
 
-Witam w repozytorium kodu spolszczenia dla czytników Kindle - testowane na Voyage - działa na innych.
+Witam w repozytorium kodu spolszczenia dla czytników Kindle - testowane na Voyage oraz PaperWhite 3 - działa na innych.
 
 JAKIE FUNKCJONALNOŚCI ZAWIERA SPOLSZCZENIE?
 

@@ -1,0 +1,2145 @@
+{
+    "keyboard_language" : "en-GB",
+
+    "candidate_font" : "dialog 11",
+    "candidate_border" : 5,
+    "candidate_separation" : 35,
+    "candidate_height" : 69,
+
+    "keyboard_height" : 428,
+    "keyboard_x_gap" : 6,
+    "keyboard_y_gap" : 7,
+
+    "portrait_height" : 498,
+    "landscape_height" : 498,
+
+    "key_border_thickness" : 2,
+    "key_bottom_border_thickness" : 5,
+
+    "layouts" : [
+        {
+            "comment": "no language, 123 for alpha",
+            "type": 1,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "width": 150,
+                    "label": "123",
+                    "value": "!!123",
+                    "x": 34,
+                    "y": 314 
+                },
+                {
+                    "width": 602,
+                    "label": "SPACE",
+                    "offset_y": 30,
+                    "value": " ",
+                    "font": "dialog bold 6",
+                    "x": 184,
+                    "y": 314 
+                },
+                {
+                    "width": 100,
+                    "hold" : 15,
+                    "label": ".",
+                    "value": ".",
+                    "x": 786,
+                    "y": 314 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyReturnEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyReturnArmed.png",
+                    "value": "\uFF0D",
+                    "x": 887,
+                    "y": 314 
+                }
+            ] 
+        },
+        {
+            "comment": "with language, 123 for alpha",
+            "type": 2,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "width": 150,
+                    "label": "123",
+                    "value": "!!123",
+                    "x": 34,
+                    "y": 314 
+                },
+                {
+                    "width": 100,
+                    "label": "file:///usr/share/keyboard/images/keyIntlEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyIntlArmed.png",
+                    "value": "!!intl",
+                    "x": 184,
+                    "y": 314 
+                },
+                {
+                    "width": 502,
+                    "label": "SPACE",
+                    "offset_y": 30,
+                    "value": " ",
+                    "font": "dialog bold 6",
+                    "x": 284,
+                    "y": 314 
+                },
+                {
+                    "width": 100,
+                    "hold" : 15,
+                    "label": ".",
+                    "value": ".",
+                    "x": 786,
+                    "y": 314 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyReturnEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyReturnArmed.png",
+                    "value": "\uFF0D",
+                    "x": 887,
+                    "y": 314 
+                }
+            ] 
+        },
+        {
+            "comment": "no language, abc for numeric",
+            "type": 4,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "width": 150,
+                    "label": "ABC",
+                    "value": "!!abc",
+                    "x": 34,
+                    "y": 314 
+                },
+                {
+                    "width": 602,
+                    "label": "SPACE",
+                    "offset_y": 30,
+                    "value": " ",
+                    "font": "dialog bold 6",
+                    "x": 184,
+                    "y": 314 
+                },
+                {
+                    "width": 100,
+                    "label": ".",
+                    "hold" : 15,
+                    "value": ".",
+                    "x": 786,
+                    "y": 314 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyReturnEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyReturnArmed.png",
+                    "value": "\uFF0D",
+                    "x": 887,
+                    "y": 314 
+                }
+            ] 
+        },
+        {
+            "comment": "with language, abc for numeric",
+            "type": 8,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "width": 150,
+                    "label": "ABC",
+                    "value": "!!abc",
+                    "x": 34,
+                    "y": 314 
+                },
+                {
+                    "width": 100,
+                    "label": "file:///usr/share/keyboard/images/keyIntlEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyIntlArmed.png",
+                    "value": "!!intl",
+                    "x": 184,
+                    "y": 314 
+                },
+                {
+                    "width": 502,
+                    "label": "SPACE",
+                    "offset_y": 30,
+                    "value": " ",
+                    "font": "dialog bold 6",
+                    "x": 284,
+                    "y": 314 
+                },
+                {
+                    "width": 100,
+                    "hold" : 15,
+                    "label": ".",
+                    "value": ".",
+                    "x": 786,
+                    "y": 314 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyReturnEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyReturnArmed.png",
+                    "value": "\uFF0D",
+                    "x": 887,
+                    "y": 314 
+                }
+            ] 
+        },
+        {
+            "comment": "lowercase, three rows for alpha",
+            "type": 16,
+            "width": 100,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "q",
+                    "value": "q",
+                    "x": 34,
+                    "y": 13 
+                },
+                {
+                    "label": "w",
+                    "value": "w",
+                    "x": 134,
+                    "y": 13 
+                },
+                {
+                    "hold" : 3,
+                    "label": "e",
+                    "value": "e",
+                    "x": 235,
+                    "y": 13 
+                },
+                {
+                    "label": "r",
+                    "value": "r",
+                    "x": 335,
+                    "y": 13 
+                },
+                {
+                    "label": "t",
+                    "value": "t",
+                    "x": 436,
+                    "y": 13 
+                },
+                {
+                    "label": "y",
+                    "value": "y",
+                    "x": 536,
+                    "y": 13 
+                },
+                {
+                    "label": "u",
+                    "value": "u",
+                    "x": 636,
+                    "y": 13 
+                },
+                {
+                    "hold" : 9,
+                    "label": "i",
+                    "value": "i",
+                    "x": 737,
+                    "y": 13 
+                },
+                {
+                    "hold" : 6,
+                    "label": "o",
+                    "value": "o",
+                    "x": 837,
+                    "y": 13 
+                },
+                {
+                    "label": "p",
+                    "value": "p",
+                    "x": 938,
+                    "y": 13 
+                },
+                {
+                    "hold" : 1,
+                    "label": "a",
+                    "value": "a",
+                    "x": 83,
+                    "y": 113 
+                },
+                {
+                    "hold" : 7,
+                    "label": "s",
+                    "value": "s",
+                    "x": 184,
+                    "y": 113 
+                },
+                {
+                    "label": "d",
+                    "value": "d",
+                    "x": 284,
+                    "y": 113 
+                },
+                {
+                    "label": "f",
+                    "value": "f",
+                    "x": 385,
+                    "y": 113 
+                },
+                {
+                    "label": "g",
+                    "value": "g",
+                    "x": 485,
+                    "y": 113 
+                },
+                {
+                    "label": "h",
+                    "value": "h",
+                    "x": 585,
+                    "y": 113 
+                },
+                {
+                    "hold" : 10,
+                    "label": "j",
+                    "value": "j",
+                    "x": 686,
+                    "y": 113 
+                },
+                {
+                    "label": "k",
+                    "value": "k",
+                    "x": 786,
+                    "y": 113 
+                },
+                {
+                    "hold" : 4,
+                    "label": "l",
+                    "value": "l",
+                    "x": 887,
+                    "y": 113 
+                },
+                {
+                    "width": 150,
+                    "label": "file:///usr/share/keyboard/images/keyShiftEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyShiftArmed.png",
+                    "value": "!!shift",
+                    "x": 34,
+                    "y": 214 
+                },
+                {
+                    "hold" : 8,
+                    "label": "z",
+                    "value": "z",
+                    "x": 184,
+                    "y": 214 
+                },
+                {
+                    "label": "x",
+                    "value": "x",
+                    "x": 284,
+                    "y": 214 
+                },
+                {
+                    "hold" : 2,
+                    "label": "c",
+                    "value": "c",
+                    "x": 385,
+                    "y": 214 
+                },
+                {
+                    "label": "v",
+                    "value": "v",
+                    "x": 485,
+                    "y": 214 
+                },
+                {
+                    "label": "b",
+                    "value": "b",
+                    "x": 585,
+                    "y": 214 
+                },
+                {
+                    "hold" : 5,
+                    "label": "n",
+                    "value": "n",
+                    "x": 686,
+                    "y": 214 
+                },
+                {
+                    "label": "m",
+                    "value": "m",
+                    "x": 786,
+                    "y": 214 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
+                    "value": "!!back",
+                    "x": 887,
+                    "y": 214 
+                }
+            ] 
+        },
+        {
+            "comment": "uppercase, three rows for alpha",
+            "type": 96,
+            "width": 100,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "Q",
+                    "value": "Q",
+                    "x": 34,
+                    "y": 13 
+                },
+                {
+                    "label": "W",
+                    "value": "W",
+                    "x": 134,
+                    "y": 13 
+                },
+                {
+                    "hold" : 103,
+                    "label": "E",
+                    "value": "E",
+                    "x": 235,
+                    "y": 13 
+                },
+                {
+                    "label": "R",
+                    "value": "R",
+                    "x": 335,
+                    "y": 13 
+                },
+                {
+                    "label": "T",
+                    "value": "T",
+                    "x": 436,
+                    "y": 13 
+                },
+                {
+                    "label": "Y",
+                    "value": "Y",
+                    "x": 536,
+                    "y": 13 
+                },
+                {
+                    "label": "U",
+                    "value": "U",
+                    "x": 636,
+                    "y": 13 
+                },
+                {
+                    "label": "I",
+                    "value": "I",
+                    "x": 737,
+                    "y": 13 
+                },
+                {
+                    "hold" : 106,
+                    "label": "O",
+                    "value": "O",
+                    "x": 837,
+                    "y": 13 
+                },
+                {
+                    "label": "P",
+                    "value": "P",
+                    "x": 938,
+                    "y": 13 
+                },
+                {
+                    "hold" : 101,
+                    "label": "A",
+                    "value": "A",
+                    "x": 83,
+                    "y": 113 
+                },
+                {
+                    "hold" : 107,
+                    "label": "S",
+                    "value": "S",
+                    "x": 184,
+                    "y": 113 
+                },
+                {
+                    "label": "D",
+                    "value": "D",
+                    "x": 284,
+                    "y": 113 
+                },
+                {
+                    "label": "F",
+                    "value": "F",
+                    "x": 385,
+                    "y": 113 
+                },
+                {
+                    "label": "G",
+                    "value": "G",
+                    "x": 485,
+                    "y": 113 
+                },
+                {
+                    "label": "H",
+                    "value": "H",
+                    "x": 585,
+                    "y": 113 
+                },
+                {
+                    "label": "J",
+                    "value": "J",
+                    "x": 686,
+                    "y": 113 
+                },
+                {
+                    "label": "K",
+                    "value": "K",
+                    "x": 786,
+                    "y": 113 
+                },
+                {
+                    "hold" : 104,
+                    "label": "L",
+                    "value": "L",
+                    "x": 887,
+                    "y": 113 
+                },
+                {
+                    "hold" : 108,
+                    "label": "Z",
+                    "value": "Z",
+                    "x": 184,
+                    "y": 214 
+                },
+                {
+                    "label": "X",
+                    "value": "X",
+                    "x": 284,
+                    "y": 214 
+                },
+                {
+                    "hold" : 102,
+                    "label": "C",
+                    "value": "C",
+                    "x": 385,
+                    "y": 214 
+                },
+                {
+                    "label": "V",
+                    "value": "V",
+                    "x": 485,
+                    "y": 214 
+                },
+                {
+                    "label": "B",
+                    "value": "B",
+                    "x": 585,
+                    "y": 214 
+                },
+                {
+                    "hold" : 105,
+                    "label": "N",
+                    "value": "N",
+                    "x": 686,
+                    "y": 214 
+                },
+                {
+                    "label": "M",
+                    "value": "M",
+                    "x": 786,
+                    "y": 214 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
+                    "value": "!!back",
+                    "x": 887,
+                    "y": 214 
+                }
+            ] 
+        },
+        {
+            "comment": "shift",
+            "type": 32,
+            "width": 150,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "file:///usr/share/keyboard/images/keyShiftLockEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyShiftLockArmed.png",
+                    "value": "!!shift",
+                    "x": 34,
+                    "y": 214 
+                }
+            ] 
+        },
+        {
+            "comment": "shift lock",
+            "type": 64,
+            "width": 150,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "file:///usr/share/keyboard/images/keyShiftLockedEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyShiftLockedArmed.png",
+                    "value": "!!lower",
+                    "x": 34,
+                    "y": 214 
+                }
+            ] 
+        },
+        {
+            "comment": "common numeric1, three rows",
+            "type": 33554560,
+            "width": 100,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "1",
+                    "value": "1",
+                    "x": 34,
+                    "y": 13 
+                },
+                {
+                    "label": "2",
+                    "value": "2",
+                    "x": 134,
+                    "y": 13 
+                },
+                {
+                    "label": "3",
+                    "value": "3",
+                    "x": 235,
+                    "y": 13 
+                },
+                {
+                    "label": "4",
+                    "value": "4",
+                    "x": 335,
+                    "y": 13 
+                },
+                {
+                    "label": "5",
+                    "value": "5",
+                    "x": 436,
+                    "y": 13 
+                },
+                {
+                    "label": "6",
+                    "value": "6",
+                    "x": 536,
+                    "y": 13 
+                },
+                {
+                    "label": "7",
+                    "value": "7",
+                    "x": 636,
+                    "y": 13 
+                },
+                {
+                    "label": "8",
+                    "value": "8",
+                    "x": 737,
+                    "y": 13 
+                },
+                {
+                    "label": "9",
+                    "value": "9",
+                    "x": 837,
+                    "y": 13 
+                },
+                {
+                    "label": "0",
+                    "value": "0",
+                    "x": 938,
+                    "y": 13 
+                },
+                {
+                    "label": "£",
+                    "value": "£",
+                    "x": 83,
+                    "y": 113 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "&",
+                    "value": "&",
+                    "x": 184,
+                    "y": 113 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "(",
+                    "value": "(",
+                    "x": 284,
+                    "y": 113 
+                },
+                {
+                    "modifier" : 1,
+                    "label": ")",
+                    "value": ")",
+                    "x": 385,
+                    "y": 113 
+                },
+                {
+                    "modifier" : 1,
+                    "hold": 200,
+                    "label": "\"",
+                    "value": "\"",
+                    "x": 485,
+                    "y": 113 
+                },
+                {
+                    "hold": 207,
+                    "label": "'",
+                    "value": "'",
+                    "x": 585,
+                    "y": 113 
+                },
+                {
+                    "label": "-",
+                    "value": "-",
+                    "x": 686,
+                    "y": 113 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "+",
+                    "value": "+",
+                    "x": 786,
+                    "y": 113 
+                },
+                {
+                    "width": 150,
+                    "label": "#~=",
+                    "value": "!!next",
+                    "x": 34,
+                    "y": 214 
+                },
+                {
+                    "modifier" : 1,
+                    "hold": 201,
+                    "label": "!",
+                    "value": "!",
+                    "x": 284,
+                    "y": 214 
+                },
+                {
+                    "modifier" : 1,
+                    "hold": 202,
+                    "label": "?",
+                    "value": "?",
+                    "x": 385,
+                    "y": 214 
+                },
+                {
+                    "modifier" : 1,
+                    "label": ":",
+                    "value": ":",
+                    "x": 485,
+                    "y": 214 
+                },
+                {
+                    "label": ";",
+                    "value": ";",
+                    "x": 585,
+                    "y": 214 
+                },
+                {
+                    "label": ",",
+                    "value": ",",
+                    "x": 686,
+                    "y": 214 
+                },
+                {
+                    "label": "…",
+                    "value": "…",
+                    "x": 786,
+                    "y": 214 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
+                    "value": "!!back",
+                    "x": 887,
+                    "y": 214 
+                }
+            ] 
+        },
+        {
+            "comment": "numeric1, three rows",
+            "type": 128,
+            "width": 100,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "modifier" : 1,
+                    "label": "@",
+                    "value": "@",
+                    "x": 184,
+                    "y": 214 
+                },
+                {
+                    "label": "/",
+                    "value": "/",
+                    "x": 887,
+                    "y": 113 
+                }
+            ]
+        },
+        {
+            "comment": "web numeric1, three rows",
+            "type": 33554432,
+            "width": 100,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "÷",
+                    "value": "÷",
+                    "x": 184,
+                    "y": 214 
+                },
+                {
+                    "label": "×",
+                    "value": "×",
+                    "x": 887,
+                    "y": 113 
+                }
+            ]
+        },
+        {
+            "comment": "common numeric2, three rows",
+            "type": 67109120,
+            "width": 100,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "modifier" : 1,
+                    "label": "#",
+                    "value": "#",
+                    "x": 34,
+                    "y": 13 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "%",
+                    "value": "%",
+                    "x": 134,
+                    "y": 13 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "~",
+                    "value": "~",
+                    "x": 235,
+                    "y": 13 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "^",
+                    "value": "^",
+                    "x": 335,
+                    "y": 13 
+                },
+                {
+                    "label": "[",
+                    "value": "[",
+                    "x": 436,
+                    "y": 13 
+                },
+                {
+                    "label": "]",
+                    "value": "]",
+                    "x": 536,
+                    "y": 13 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "{",
+                    "value": "{",
+                    "x": 636,
+                    "y": 13 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "}",
+                    "value": "}",
+                    "x": 737,
+                    "y": 13 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "|",
+                    "value": "|",
+                    "x": 837,
+                    "y": 13 
+                },
+                {
+                    "label": "\\",
+                    "value": "\\",
+                    "x": 938,
+                    "y": 13 
+                },
+                {
+                    "label": "·",
+                    "value": "·",
+                    "x": 83,
+                    "y": 113 
+                },
+                {
+                    "label": "™",
+                    "value": "™",
+                    "x": 184,
+                    "y": 113 
+                },
+                {
+                    "label": "¬",
+                    "value": "¬",
+                    "x": 284,
+                    "y": 113 
+                },
+                {
+                    "label": "`",
+                    "value": "`",
+                    "x": 385,
+                    "y": 113 
+                },
+                {
+                    "hold": 205,
+                    "label": "<",
+                    "value": "<",
+                    "x": 485,
+                    "y": 113 
+                },
+                {
+                    "modifier" : 1,
+                    "hold": 204,
+                    "label": ">",
+                    "value": ">",
+                    "x": 585,
+                    "y": 113 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "_",
+                    "value": "_",
+                    "x": 686,
+                    "y": 113 
+                },
+                {
+                    "modifier" : 1,
+                    "hold": 203,
+                    "label": "*",
+                    "value": "*",
+                    "x": 786,
+                    "y": 113 
+                },
+                {
+                    "hold": 206,
+                    "label": "=",
+                    "value": "=",
+                    "x": 887,
+                    "y": 113 
+                },
+                {
+                    "width": 150,
+                    "label": "123!?",
+                    "value": "!!prev",
+                    "x": 34,
+                    "y": 214 
+                },
+                {
+                    "label": "©",
+                    "value": "©",
+                    "x": 184,
+                    "y": 214 
+                },
+                {
+                    "label": "®",
+                    "value": "®",
+                    "x": 284,
+                    "y": 214 
+                },
+                {
+                    "label": "§",
+                    "value": "§",
+                    "x": 385,
+                    "y": 214 
+                },
+                {
+                    "label": "¢",
+                    "value": "¢",
+                    "x": 485,
+                    "y": 214 
+                },
+                {
+                    "label": "¥",
+                    "value": "¥",
+                    "x": 585,
+                    "y": 214 
+                },
+                {
+                    "label": "€",
+                    "value": "€",
+                    "x": 686,
+                    "y": 214 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "$",
+                    "value": "$",
+                    "x": 786,
+                    "y": 214 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
+                    "value": "!!back",
+                    "x": 887,
+                    "y": 214 
+                }
+            ] 
+        },
+        {
+            "comment": "web, no language, 123 for alpha",
+            "type": 512,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "width": 150,
+                    "label": "123!?",
+                    "value": "!!123",
+                    "x": 34,
+                    "y": 314 
+                },
+                {
+                    "modifier" : 1,
+                    "width": 140,
+                    "label": "@",
+                    "value": "@",
+                    "x": 184,
+                    "y": 314 
+                },
+                {
+                    "width": 140,
+                    "label": "\u2423",
+                    "value": " ",
+                    "x": 325,
+                    "y": 314 
+                },
+                {
+                    "hold" : 300,
+                    "width": 140,
+                    "label": ".pl",
+                    "value": ".pl",
+                    "x": 465,
+                    "y": 314 
+                },
+                {
+                    "width": 140,
+                    "label": "/",
+                    "value": "/",
+                    "x": 607,
+                    "y": 314 
+                },
+                {
+                    "width": 140,
+                    "label": ".",
+                    "value": ".",
+                    "x": 747,
+                    "y": 314 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyReturnEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyReturnArmed.png",
+                    "value": "\uFF0D",
+                    "x": 887,
+                    "y": 314 
+                }
+            ] 
+        },
+        {
+            "comment": "web, with language, 123 for alpha",
+            "type": 1024,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "width": 150,
+                    "label": "123!?",
+                    "value": "!!123",
+                    "x": 34,
+                    "y": 314 
+                },
+                {
+                    "width": 100,
+                    "label": "file:///usr/share/keyboard/images/keyIntlEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyIntlArmed.png",
+                    "value": "!!intl",
+                    "x": 184,
+                    "y": 314 
+                },
+                {
+                    "modifier" : 1,
+                    "width": 120,
+                    "label": "@",
+                    "value": "@",
+                    "x": 284,
+                    "y": 314 
+                },
+                {
+                    "width": 120,
+                    "label": "\u2423",
+                    "value": " ",
+                    "x": 404,
+                    "y": 314 
+                },
+                {
+                    "hold" : 300,
+                    "width": 122,
+                    "label": ".pl",
+                    "value": ".pl",
+                    "x": 525,
+                    "y": 314 
+                },
+                {
+                    "width": 120,
+                    "label": "/",
+                    "value": "/",
+                    "x": 646,
+                    "y": 314 
+                },
+                {
+                    "width": 120,
+                    "label": ".",
+                    "value": ".",
+                    "x": 767,
+                    "y": 314 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyReturnEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyReturnArmed.png",
+                    "value": "\uFF0D",
+                    "x": 887,
+                    "y": 314 
+                }
+            ] 
+        },
+        {
+            "comment": "web, no language, abc for numeric",
+            "type": 2048,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "width": 150,
+                    "label": "ABC",
+                    "value": "!!abc",
+                    "x": 34,
+                    "y": 314 
+                },
+                {
+                    "modifier" : 1,
+                    "width": 140,
+                    "label": "@",
+                    "value": "@",
+                    "x": 184,
+                    "y": 314 
+                },
+                {
+                    "width": 140,
+                    "label": "\u2423",
+                    "value": " ",
+                    "x": 325,
+                    "y": 314 
+                },
+                {
+                    "hold" : 300,
+                    "width": 140,
+                    "label": ".pl",
+                    "value": ".pl",
+                    "x": 465,
+                    "y": 314 
+                },
+                {
+                    "width": 140,
+                    "label": "/",
+                    "value": "/",
+                    "x": 607,
+                    "y": 314 
+                },
+                {
+                    "width": 140,
+                    "label": ".",
+                    "value": ".",
+                    "x": 747,
+                    "y": 314 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyReturnEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyReturnArmed.png",
+                    "value": "\uFF0D",
+                    "x": 887,
+                    "y": 314 
+                }
+            ] 
+        },
+        {
+            "comment": "web, with language, abc for numeric",
+            "type": 4096,
+            "height": 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "width": 150,
+                    "label": "ABC",
+                    "value": "!!abc",
+                    "x": 34,
+                    "y": 314 
+                },
+                {
+                    "width": 100,
+                    "label": "file:///usr/share/keyboard/images/keyIntlEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyIntlArmed.png",
+                    "value": "!!intl",
+                    "x": 184,
+                    "y": 314 
+                },
+                {
+                    "modifier" : 1,
+                    "width": 120,
+                    "label": "@",
+                    "value": "@",
+                    "x": 284,
+                    "y": 314 
+                },
+                {
+                    "width": 120,
+                    "label": "\u2423",
+                    "value": " ",
+                    "x": 404,
+                    "y": 314 
+                },
+                {
+                    "hold" : 300,
+                    "width": 122,
+                    "label": ".pl",
+                    "value": ".pl",
+                    "x": 525,
+                    "y": 314 
+                },
+                {
+                    "width": 120,
+                    "label": "/",
+                    "value": "/",
+                    "x": 646,
+                    "y": 314 
+                },
+                {
+                    "width": 120,
+                    "label": ".",
+                    "value": ".",
+                    "x": 767,
+                    "y": 314 
+                },
+                {
+                    "width": 151,
+                    "label": "file:///usr/share/keyboard/images/keyReturnEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyReturnArmed.png",
+                    "value": "\uFF0D",
+                    "x": 887,
+                    "y": 314 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical A lowercase",
+            "type": 8192,
+            "diacritical": 1,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ą",
+                    "value": "ą",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "a",
+                    "value": "a",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical C lowercase",
+            "type": 8192,
+            "diacritical": 2,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ć",
+                    "value": "ć",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "c",
+                    "value": "c",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical E lowercase",
+            "type": 8192,
+            "diacritical": 3,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ę",
+                    "value": "ę",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "e",
+                    "value": "e",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical L lowercase",
+            "type": 8192,
+            "diacritical": 4,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ł",
+                    "value": "ł",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "l",
+                    "value": "l",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical N lowercase",
+            "type": 8192,
+            "diacritical": 5,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ń",
+                    "value": "ń",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "n",
+                    "value": "n",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical O lowercase",
+            "type": 8192,
+            "diacritical": 6,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ó",
+                    "value": "ó",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "o",
+                    "value": "o",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical S lowercase",
+            "type": 8192,
+            "diacritical": 7,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ś",
+                    "value": "ś",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "s",
+                    "value": "s",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical Z lowercase",
+            "type": 8192,
+            "diacritical": 8,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ź",
+                    "value": "ź",
+                    "x": 385,
+                    "y": -71 
+                },
+                {
+                    "label": "ż",
+                    "value": "ż",
+                    "x": 485,
+                    "y": -71 
+                },
+                {
+                    "label": "z",
+                    "value": "z",
+                    "x": 585,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical I lowercase",
+            "type": 8192,
+            "diacritical": 9,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ı",
+                    "value": "ı",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "i",
+                    "value": "i",
+                    "x": 536,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical J lowercase",
+            "type": 8192,
+            "diacritical": 10,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "ȷ",
+                    "value": "ȷ",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "j",
+                    "value": "j",
+                    "x": 536,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical dot",
+            "type": 8192,
+            "diacritical": 15,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "–",
+                    "value": "–",
+                    "x": 136,
+                    "y": -71 
+                },
+                {
+                    "label": "—",
+                    "value": "—",
+                    "x": 236,
+                    "y": -71 
+                },
+                {
+                    "label": ",",
+                    "value": ",",
+                    "x": 336,
+                    "y": -71 
+                },
+                {
+                    "modifier" : 1,
+                    "label": ":",
+                    "value": ":",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": ";",
+                    "value": ";",
+                    "x": 536,
+                    "y": -71 
+                },
+                {
+                    "label": "…",
+                    "value": "…",
+                    "x": 636,
+                    "y": -71 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "!",
+                    "value": "!",
+                    "x": 736,
+                    "y": -71 
+                },
+                {
+                    "modifier" : 1,
+                    "label": "?",
+                    "value": "?",
+                    "x": 836,
+                    "y": -71 
+                },
+                {
+                    "label": ".",
+                    "value": ".",
+                    "x": 936,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical A uppercase",
+            "type": 8192,
+            "diacritical": 101,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "Ą",
+                    "value": "Ą",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "A",
+                    "value": "a",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical C uppercase",
+            "type": 8192,
+            "diacritical": 102,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "Ć",
+                    "value": "Ć",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "C",
+                    "value": "c",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical E uppercase",
+            "type": 8192,
+            "diacritical": 103,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "Ę",
+                    "value": "Ę",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "E",
+                    "value": "e",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical L uppercase",
+            "type": 8192,
+            "diacritical": 104,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "Ł",
+                    "value": "Ł",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "L",
+                    "value": "l",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical N uppercase",
+            "type": 8192,
+            "diacritical": 105,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "Ń",
+                    "value": "Ń",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "N",
+                    "value": "n",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical O uppercase",
+            "type": 8192,
+            "diacritical": 106,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "Ó",
+                    "value": "Ó",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "O",
+                    "value": "o",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical S uppercase",
+            "type": 8192,
+            "diacritical": 107,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "Ś",
+                    "value": "Ś",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "S",
+                    "value": "s",
+                    "x": 536,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical Z uppercase",
+            "type": 8192,
+            "diacritical": 108,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "Ź",
+                    "value": "Ź",
+                    "x": 385,
+                    "y": -71 
+                },
+                {
+                    "label": "Ż",
+                    "value": "Ż",
+                    "x": 485,
+                    "y": -71 
+                },
+                {
+                    "label": "Z",
+                    "value": "z",
+                    "x": 585,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "diacritical double quotes",
+            "type": 8192,
+            "diacritical": 200,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "«",
+                    "value": "«",
+                    "x": 236,
+                    "y": -71 
+                },
+                {
+                    "label": "»",
+                    "value": "»",
+                    "x": 336,
+                    "y": -71 
+                },
+                {
+                    "label": "„",
+                    "value": "„",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "”",
+                    "value": "”",
+                    "x": 536,
+                    "y": -71 
+                },
+                {
+                    "label": "“",
+                    "value": "“",
+                    "x": 636,
+                    "y": -71 
+                },
+                {
+                    "label": "\"",
+                    "value": "\"",
+                    "x": 736,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical exclamation point",
+            "type": 8192,
+            "diacritical": 201,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "¡",
+                    "value": "¡",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "!",
+                    "value": "!",
+                    "x": 536,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical question mark",
+            "type": 8192,
+            "diacritical": 202,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "¿",
+                    "value": "¿",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "?",
+                    "value": "?",
+                    "x": 536,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical asterisk",
+            "type": 8192,
+            "diacritical": 203,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "·",
+                    "value": "·",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "*",
+                    "value": "*",
+                    "x": 536,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical greater than",
+            "type": 8192,
+            "diacritical": 204,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": "≥",
+                    "value": "≥",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": ">",
+                    "value": ">",
+                    "x": 536,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical less than",
+            "type": 8192,
+            "diacritical": 205,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "modifier" : 1,
+                    "label": "≤",
+                    "value": "≤",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "<",
+                    "value": "<",
+                    "x": 536,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical equals",
+            "type": 8192,
+            "diacritical": 206,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "modifier" : 1,
+                    "label": "≠",
+                    "value": "≠",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "=",
+                    "value": "=",
+                    "x": 536,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical quotes",
+            "type": 8192,
+            "diacritical": 207,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 1,
+            "keys": [
+                {
+                    "label": ",",
+                    "value": ",",
+                    "x": 335,
+                    "y": -71 
+                },
+                {
+                    "label": "‘",
+                    "value": "‘",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "’",
+                    "value": "’",
+                    "x": 536,
+                    "y": -71 
+                },
+                {
+                    "label": "'",
+                    "value": "'",
+                    "x": 636,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical domain names",
+            "type": 8192,
+            "diacritical": 300,
+            "height": 100,
+            "width" : 140,
+            "font" : "dialog 9",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": ".org",
+                    "value": ".org",
+                    "x": 54,
+                    "y": -71 
+                },
+                {
+                    "label": ".net",
+                    "value": ".net",
+                    "x": 184,
+                    "y": -71 
+                },
+                {
+                    "label": ".edu",
+                    "value": ".edu",
+                    "x": 325,
+                    "y": -71 
+                },
+                {
+                    "label": ".biz",
+                    "value": ".biz",
+                    "x": 465,
+                    "y": -71 
+                },
+                {
+                    "label": ".gov",
+                    "value": ".gov",
+                    "x": 607,
+                    "y": -71 
+                },
+                {
+                    "label": ".com",
+                    "value": ".com",
+                    "x": 747,
+                    "y": -71 
+                },
+                {
+                    "width" : 161,
+                    "label": ".pl",
+                    "value": ".pl",
+                    "x": 887,
+                    "y": -71 
+                }
+            ] 
+        },
+        {
+            "comment": "keypad",
+            "type": 16384,
+            "height": 100,
+            "width" : 197,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "label": "1",
+                    "value": "1",
+                    "x": 235,
+                    "y": 13 
+                },
+                {
+                    "label": "2",
+                    "value": "2",
+                    "x": 436,
+                    "y": 13
+                },
+                {
+                    "label": "3",
+                    "value": "3",
+                    "x": 636,
+                    "y": 13 
+                },
+                {
+                    "label": "4",
+                    "value": "4",
+                    "x": 235,
+                    "y": 113 
+                },
+                {
+                    "label": "5",
+                    "value": "5",
+                    "x": 436,
+                    "y": 113 
+                },
+                {
+                    "label": "6",
+                    "value": "6",
+                    "x": 636,
+                    "y": 113 
+                },
+                {
+                    "label": "7",
+                    "value": "7",
+                    "x": 235,
+                    "y": 214 
+                },
+                {
+                    "label": "8",
+                    "value": "8",
+                    "x": 436,
+                    "y": 214 
+                },
+                {
+                    "label": "9",
+                    "value": "9",
+                    "x": 636,
+                    "y": 214 
+                },
+                {
+                    "label": "file:///usr/share/keyboard/images/keyDeleteEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyDeleteArmed.png",
+                    "value": "!!back",
+                    "x": 235,
+                    "y": 314 
+                },
+                {
+                    "label": "0",
+                    "value": "0",
+                    "x": 436,
+                    "y": 314 
+                },
+                {
+                    "label": "file:///usr/share/keyboard/images/keyReturnEnabled.png",
+                    "press": "file:///usr/share/keyboard/images/keyReturnArmed.png",
+                    "value": "\uFF0D",
+                    "x": 636,
+                    "y": 314 
+                }
+            ] 
+        }
+    ]
+}

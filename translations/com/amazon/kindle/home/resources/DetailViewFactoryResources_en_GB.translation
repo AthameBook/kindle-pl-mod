@@ -1,11 +1,11 @@
 {0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	{0,plural,=0 {{0,number,integer} słów do nauki} one {{0,number,integer} słowo do nauki} other {Słów do nauki: {0,number,integer}} }
 {0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {Liczba opanowanych słów: {0,number,integer}} one {Liczba opanowanych słów: {0,number,integer} word} other {Liczba opanowanych słów: {0,number,integer} words} }
 About Vocabulary Builder	O powtarzaniu słówek
-Add to Downloaded	Dodaj do pobranych
+Add to Downloaded	Dodaj kolekcję na czytnik
 Add To Home	Dodaj do ekranu głównego
 Add/Remove Items	Dodaj/Usuń pozycje
 Date: 	Data: 
-Delete	Usuń
+Delete	Usuń kolekcję
 Download Latest Issue	Pobierz najnowsze wydanie
 Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Wydania pobrane: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje pobrane: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
@@ -21,7 +21,7 @@ Narrator: 	Narrator:
 Open Latest Issue	Otwórz najnowsze wydanie
 Remove All Back Issues	Usuń wszystkie archiwalne numery
 Remove from Device	Usuń z czytnika
-Rename	Zmień nazwę
+Rename	Zmień nazwę kolekcji
 Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Razem wydań: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem pozycji: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Turn Off FreeTime	Wyłącz FreeTime

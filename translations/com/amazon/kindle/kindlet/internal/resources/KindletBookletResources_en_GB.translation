@@ -1,14 +1,14 @@
-An error occurred while trying to open this item. If the problem persists, please contact Kindle Customer Service at www.kindle.com/support.	
-An error occurred while trying to close this item. If the problem persists, please contact Kindle Customer Service at www.kindle.com/support.	
-An error occurred with this item. If the problem persists, please contact Kindle Customer Service at www.kindle.com/support.	
-The item that was open is now unavailable because it was removed from your Kindle while in USB drive mode. To access this item, download it again from the Cloud.	
-The item failed to close properly. Your Kindle needs to restart. Unless you close this dialog box your device will restart in {0,number,integer} seconds.	
-Restart	
-Cancel	
-An error occurred with the item. Your Kindle will restart in {0,number,integer} seconds.	
-The item you attempted to open is incompatible with this Kindle. Please try to update your Kindle from Settings. If the problem persists, contact Kindle Customer Service at www.kindle.com/support.	
-An error occurred with the item. It will close and your Kindle might restart.	
-An error occurred and the item will close.	
-Your Kindle does not meet the minimum requirements to run this item. Please contact Kindle Customer Service at www.kindle.com/support.	
-start	
-An error occurred while launching the Kindle Store.	
+An error occurred while trying to open this item. If the problem persists, please contact Kindle Customer Service at www.kindle.com/support.	Wystąpił błąd podczas próby otworzenia tej pozycji. Jeśli problem będzie się powtarzał, proszę skontaktować się z działem obsługi klienta Kindle na www.kindle.com/support.
+An error occurred while trying to close this item. If the problem persists, please contact Kindle Customer Service at www.kindle.com/support.	Wystąpił błąd podczas próby zamknięcia tej pozycji. Jeśli problem będzie się powtarzał, proszę skontaktować się z działem obsługi klienta Kindle na www.kindle.com/support.
+An error occurred with this item. If the problem persists, please contact Kindle Customer Service at www.kindle.com/support.	Wystąpił błąd z tą pozycją. Jeśli problem będzie się powtarzał, proszę skontaktować się z działem obsługi klienta Kindle na www.kindle.com/support.
+The item that was open is now unavailable because it was removed from your Kindle while in USB drive mode. To access this item, download it again from the Cloud.	Pozycja wcześniej otworzona jest aktualnie niedostępna, gdyż została usunięta z czytnika w trybie USB. Aby uzyskać dostęp do tej pozycji, pobierz ją ponownie z Chmury.
+The item failed to close properly. Your Kindle needs to restart. Unless you close this dialog box your device will restart in {0,number,integer} seconds.	Pozycja niepoprawnie zamknięta. Twój czytnik musi uruchomić się ponownie. Jeśli nie zamkniesz tego okienka, czytnik uruchomi się ponownie za {0,number,integer} sek.
+Restart	Uruchom ponownie
+Cancel	Anuluj
+An error occurred with the item. Your Kindle will restart in {0,number,integer} seconds.	Wystąpił błąd z tą pozycją. Kindle uruchomi się ponownie za {0,number,integer} sek.
+The item you attempted to open is incompatible with this Kindle. Please try to update your Kindle from Settings. If the problem persists, contact Kindle Customer Service at www.kindle.com/support.	Pozycja, którą próbujesz otworzyć jest niekompatybilna z tym czytnikiem. Proszę spróbować zaktualizować Kindle przez menu Ustawienia. Jeśli problem będzie się powtarzał, skontaktuj się z działem obsługi klienta Kindle na www.kindle.com/support.
+An error occurred with the item. It will close and your Kindle might restart.	Wystąpił błąd z tą pozycją. Zostanie ona zamknięta i Kindle może uruchomić się ponownie.
+An error occurred and the item will close.	Wystąpił błąd i pozycja będzie zamknięta.
+Your Kindle does not meet the minimum requirements to run this item. Please contact Kindle Customer Service at www.kindle.com/support.	Twój czytnik nie spełnia minimalnych wymagań, niezbędnych do uruchomienia tej pozycji. Proszę skontaktować się z działem obsługi klienta Kindle na www.kindle.com/support.
+start	start
+An error occurred while launching the Kindle Store.	Wystąpił błąd podczas uruchamiania sklepu Kindle.

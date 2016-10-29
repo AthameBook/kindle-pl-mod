@@ -1,7 +1,7 @@
-An error occurred: Main class not found. Please contact the developer.	
-An error occurred: Main class or nullary constructor not public. Please contact developer.	
-An error occurred: Main class is not concrete. Please contact the developer.	
-An error occurred: Main class failed to load due to static initialisation errors. Please contact the developer.	
-An error occurred: Main class failed to load due to security exception. Please contact the developer.	
-An error occurred: Main class does not inherit from com.amazon.kindle.kindlet.Kindlet. Please contact the developer.	
-An error occurred: Main class instantiation threw a RuntimeException. Please contact the developer.	
+An error occurred: Main class not found. Please contact the developer.	Wystąpił błąd: Nie znaleziono głównej klasy. Proszę skontaktować się z programistą.
+An error occurred: Main class or nullary constructor not public. Please contact developer.	Wystąpił błąd: Główna klasa lub konstruktor sygnalny nie są publiczne. Proszę skontaktować się z programistą.
+An error occurred: Main class is not concrete. Please contact the developer.	Wystąpił błąd: Główna klasa nie jest konkretna. Proszę skontaktować się z programistą.
+An error occurred: Main class failed to load due to static initialisation errors. Please contact the developer.	Wystąpił błąd: Nie udało się załadować głównej klasy z powodu błędów inicjacji statycznych. Proszę skontaktować się z programistą.
+An error occurred: Main class failed to load due to security exception. Please contact the developer.	Wystąpił błąd: Nie udało się załadować głównej klasy z powodu wyjątku bezpieczeństwa. Proszę skontaktować się z programistą
+An error occurred: Main class does not inherit from com.amazon.kindle.kindlet.Kindlet. Please contact the developer.	Wystąpił błąd: Główna klasa nie dziedziczy z com.amazon.kindle.kindlet.Kindlet. Proszę skontaktować się z programistą.
+An error occurred: Main class instantiation threw a RuntimeException. Please contact the developer.	Wystąpił błąd: Tworzenie instancji głównej klasy zwróciło RuntimeException. Proszę skontaktować się z programistą

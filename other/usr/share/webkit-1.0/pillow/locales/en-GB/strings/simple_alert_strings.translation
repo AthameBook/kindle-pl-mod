@@ -6,6 +6,7 @@ Feature Not Available	Opcja niedostępna
 This feature is not available in demo mode.	Ta opcja nie jest dostępna w trybie demonstracyjnym.
 Low Memory	Mało pamięci
 There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Zbyt mało pamięci, aby dodawać lub edytować notatki i oznaczenia w tym dokumencie. Zwolnij pamięć usuwając część zawartości Twojego Kindle.
+There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Zbyt mało pamięci, aby dodawać lub edytować notatki i oznaczenia dla tego dokumentu. Zwolnij więcej pamięci usuwając część zawartości Twojego Kindle.
 Battery Level is Low	Niski poziom naładowania baterii
 Your battery is running low. Please charge your Kindle.	Bateria jest na wyczerpaniu. Naładuj swojego Kindle.
 Your battery is running low. Please connect your Kindle to a power source or the charging cover.	Bateria jest na wyczerpaniu. Podłącz swojego Kindle do źródła zasilania lub do okładki z ładowarką.
@@ -21,6 +22,8 @@ Your batteries are running low. Please connect your Kindle and charging cover to
 Your batteries are running low. Please connect your Kindle and charging cover to a power source. If your wireless is turned on, try turning it off to extend your reading time.	Bateria w okładce jest na wyczerpaniu. Podłącz swojego Kindle oraz okładkę do źródła zasilania. Jeśli włączona jest łączność bezprzewodowa, to wyłącz ją, aby wydłużyć czas czytania.
 Very Low Batteries	Bardzo niski poziom naładowania baterii
 Your batteries are almost depleted and your Kindle will shut down soon. Please connect your Kindle and charging cover to a power source.	Bateria jest prawie wyczerpana i Kindle wkrótce zostanie wyłączony. Podłącz swojego Kindle oraz okładkę do źródła zasilania.
+Your cover is not properly connected. Please check the connection. If it is still not charging, contact Kindle Customer Service at www.amazon.com/devicesupport.	
+Your cover cannot charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. 
 Your cover is unable to charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. 
 Charging Cover Error	Błąd ładowania okładki
 Charging Cover Connection	Podłączenie okładki do ładowania
@@ -52,7 +55,11 @@ The item failed to close properly. Unless you close this dialog box your device 
 Shipping Mode Failed	Tryb sprzedaży zakończony niepowodzeniem
 Unable to enter shipping mode due to missing dictionaries or fonts.	Nie można ustawić trybu sprzedaży ze względu na brak słowników lub czcionek.
 Unable to enter shipping mode due to battery level falling below permissible range.	Nie można ustawić trybu sprzedaży ponieważ poziom naładowania baterii jest poniżej dopuszczalnego zakresu.
+Unable to enter shipping mode owing to missing dictionaries or fonts.	
+Unable to enter shipping mode owing to battery level falling below permissible range.	
 Shipping Mode Error	Błąd trybu sprzedaży
+Your device is unable to enter shipping mode because the battery level is low. Please connect it to a charger. When the battery is sufficiently charged, your device will enter shipping mode automatically.	
+Your device is unable to enter shipping mode because the battery level is high. Please disconnect it from the charger. When the battery is sufficiently discharged, your device will enter shipping mode automatically.	
 Your device is unable to enter shipping mode due to a low battery level. Please connect it to a charger. When the battery is sufficiently charged, your device will enter shipping mode automatically.	Twoje urządzenie nie może przejść w tryb sprzedaży z powodu zbyt niskiego stanu naładowania baterii. Proszę podłączyć je do ładowarki. Gdy bateria osiągnie odpowiedni poziom naładowania, Twoje urządzenie przejdzie w tryb sprzedaży automatycznie.
 Your device is unable to enter shipping mode due to a high battery level. Please disconnect it from the charger. When the battery is sufficiently discharged, your device will enter shipping mode automatically.	Twoje urządzenie nie może przejść w tryb sprzedaży z powodu zbyt wysokiego stanu naładowania baterii. Proszę odłączyć je od ładowarki. Gdy bateria osiągnie odpowiedni poziom rozładowania, Twoje urządzenie przejdzie w tryb sprzedaży automatycznie.
 Your Kindle is connected to a USB cable and is unable to enter shipping mode. Please disconnect the cable.	Twój Kindle jest podłączony do kabla USB i nie można przejść do trybu sprzedaży. Proszę odłączyć kabel.
@@ -79,7 +86,9 @@ This is a managed device. Settings Menu is locked. For information, contact: {co
 Toggle Wireless Locked	Włącz/Wyłącz łączności bezprzewodowej jest zablokowane
 This is a managed device. Toggle Wireless is locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Włączanie/wyłączanie sieci bezprzewodowej jest zablokowane. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
 Airplane Mode Locked	Tryb samolotowy jest zablokowany
+Aeroplane Mode Locked	Tryb samolotowy jest zablokowany
 This is a managed device. Airplane Mode is locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Tryb samolotowy jest zablokowany. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
+This is a managed device. Aeroplane Mode is locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Tryb samolotowy jest zablokowany. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
 Wi-Fi Settings Locked	Ustawienia sieci Wi-Fi są zablokowane
 This is a managed device. Wi-Fi Settings configuration is locked. For information, contact: {contactInfo}.	To urządzenie jest zdalnie zarządzane. Konfiguracja ustawień Wi-Fi jest zablokowana. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
 Kindle Store Locked	Sklep Kindle jest zablokowany.
@@ -107,12 +116,16 @@ Offer Expired	Oferta jest już nieaktualna
 Your purchase could not be completed. This offer has expired.	Zakupy nie mogą być dokończone. Ta oferta jest już nieaktualna.
 Kindle Special Offers	Oferty specjalne Kindle
 Details for this Special Offer are no longer available. Turn wireless on to receive the latest content.	Szczegóły tej oferty są już niedostępne. Włącz sieć bezprzewodową, aby otrzymać najnowsze oferty.
+Details for this Special Offer are no longer available. Turn on wireless to receive the latest content.	Szczegóły tej oferty są już niedostępne. Włącz sieć bezprzewodową, aby otrzymać najnowsze oferty.
 Details for this Special Offer are not available while parental controls are enabled.	Szczegóły tej oferty specjalnej nie będą dostępne dopóki włączona jest kontrola rodzicielska.
+Details for this Special Offer are not available while Parental Controls are enabled.	Szczegóły tej oferty specjalnej nie będą dostępne dopóki włączona jest Kontrola Rodzicielska.
 Details for this Special Offer are no longer available.	Szczegóły tej oferty są już niedostępne.
 Device Not Registered	Urządzenie nie jest zarejestrowane
 You must register your Kindle to make a purchase.	Aby robić zakupy musisz zarejestrować swojego Kindle.
 Pending Purchases	Oczekujące zamówienia
+Purchases Pending	Oczekujące zamówienia
 You already have {count,plural,=0 {no pending orders} one {an pending order} other { # pending orders}} for this special offer.	Masz już {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
+You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	Masz już {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
 Debugging Scripts	Debugowanie skryptu
 Extended debugging scripts are currently enabled	Zaawansowane debugowanie skryptów jest teraz włączone
 Restart Required	Wymagane jest ponowne uruchomienie
@@ -121,11 +134,13 @@ Power	Zasilanie
 Please select from the following options:	Wybierz z następujących opcji:
 VoiceView	VoiceView
 VoiceView is not supported. Please turn off Parental controls and Device passcode if any and also keep the device language as English to turn on VoiceView.	VoiceView nie jest obsługiwane. Proszę wyłączyć kontrolę rodzicielską i, jeśli istnieje, kod dostępu urządzenia, a także ustawić język urządzenia na angielski, aby włączyć VoiceView.
+VoiceView is not supported. Please turn off Parental Controls and Device Passcode, if any, and also keep the device language set to English to turn on VoiceView.	VoiceView nie jest obsługiwane. Proszę wyłączyć kontrolę rodzicielską i, jeśli istnieje, kod dostępu urządzenia, a także ustawić język urządzenia na angielski, aby włączyć VoiceView.
 Please turn off Parental Controls before turning on VoiceView.	Proszę wyłączyć kontrolę rodzicielską przed włączeniem VoiceView.
 Please turn off the passcode on your Kindle to enable VoiceView.	Proszę wyłączyć kod dostępu do urządzenia na swoim Kindle do włączenia VoiceView.
 Please set the device language to English (US) or English (UK) before turning on VoiceView.	Proszę ustawić język interfejsu urządzenia na Angielski (US) lub Polski przed włączeniem VoiceView.
 Alert	Alarm
 We detect that you've unplugged your USB adapter. VoiceView will be turned off.	Wykryliśmy, że odłączyłeś swój adapter USB. VoiceView zostanie wyłączone.
+We detect that you've unplugged your USB adaptor. VoiceView will be turned off.	Wykryliśmy, że odłączyłeś swój adapter USB. VoiceView zostanie wyłączone.
 The VoiceView screen reader has been enabled on your Kindle.&nbsp<br><br>VoiceView will provide spoken feedback when you interact with the Kindle screen.	Czytanie z ekranu VoiceView zostało włączone na Twoim Kindle.&nbsp<br><br>VoiceView będzie mówił podczas obsługiwania ekranu czytnika.
 SCREEN OFF	WYŁĄCZ
 Updating Fonts	Aktualizacja czcionek
@@ -134,7 +149,9 @@ LATER	AKTUALIZUJ PÓŹNIEJ
 NOW	AKTUALIZUJ TERAZ
 Device Error	Błąd urządzenia
 An unexpected error has occurred. This can happen if you recently disconnected your Kindle from a computer without safely ejecting it. Please wait while your Kindle attempts to resolve this error.	Wystąpił nieokreślony błąd. Mogło się tak zdarzyć jeśli Twój Kindle był odłączany od komputera bez wcześniejszego bezpiecznego usunięcia z systemu. Poczekaj, aż Kindle zakończy rozwiązywanie problemu.
+An unexpected error has occurred. This can happen if you recently disconnected your Kindle from a computer without ejecting it safely. Please wait while your Kindle attempts to resolve this error.	Wystąpił nieokreślony błąd. Mogło się tak zdarzyć jeśli Twój Kindle był odłączany od komputera bez wcześniejszego bezpiecznego usunięcia z systemu. Poczekaj, aż Kindle zakończy rozwiązywanie problemu.
 Update Error	Błąd aktualizacji
+An invalid update file has been loaded on your device. Please go to www.amazon.com/devicesupport to access the Kindle Software Update page or to contact Kindle Customer Service for assistance.	
 Battery Too Low	Zbyt niski stan baterii
 Kindle must be charged to resell. Please connect to charger for at least one hour and try again.	Kindle musi być naładowany przed odsprzedażą. Proszę podłączyć go do ładowarki przynajmniej na godzinę i spróbować ponownie.
 Feature Not Available	Funkcja nie jest dostępna
@@ -143,14 +160,19 @@ CONTINUE	KONTYNUUJ
 Device Not Registered	Urządzenie niezarejestrowane
 You must register your Kindle to view this offer.	Aby obejrzeć tę ofertę musisz zarejestrować swojego Kindle.
 An exception has occured while recording. The logs have been collected in {log_name}.	Podczas nagrywania wystąpił wyjątek. Logi zostały zgromadzone w pliku {log_name}.
+An exception occurred while recording. The logs have been collected in {log_name}.	Podczas nagrywania wystąpił wyjątek. Logi zostały zgromadzone w pliku {log_name}.
 Recording of test case {test_name} is completed succesfully. Recordlog is in {record_log_name}. The test output logs have been collected in {log_name}. Keep recycling the folder to regain space.	Nagrywanie przypadku testowego {test_name} zostało pomyślnie zakończone. Log nagrania jest w pliku {record_log_name}. Logi wynikowe zastały zgromadzone w pliku {log_name}. Opróżnij folder, aby odzyskać miejsce.
+Recording of test case {test_name} has been completed successfully. Record log is in {record_log_name}. The test output logs have been collected in {log_name}. Keep recycling the folder to regain space.	Nagrywanie przypadku testowego {test_name} zostało pomyślnie zakończone. Log nagrania jest w pliku {record_log_name}. Logi wynikowe zastały zgromadzone w pliku {log_name}. Opróżnij folder, aby odzyskać miejsce.
 Device Error	Błąd urządzenia
 An unrecoverable device error has occurred. Please back up all of your non-Amazon content to avoid data loss. When your backup is complete, tap Continue.	Wystąpił nienaprawialny błąd urządzenia. Proszę wykonać kopię zapasową wszystkich danych spoza Amazonu, aby uniknąć utraty tych danych. Po wykonaniu kopii, dotknij Kontynuuj.
 Voice Files Not Detected	Nie wykryto plików z głosami
+We do not detect any voice files on your device. For voice file download instructions, please contact Kindle Customer Service at http://www.amazon.com/help/kindlevoicefiles.	
 The charging cover has been disconnected. VoiceView will be turned off.	Ładowanie okładki zostało przerwane. VoiceView zostanie wyłączony.
 Your Kindle battery is low. Enabling VoiceView will drain the battery faster.	Niski poziom naładowania baterii. Włączenie funkcji VoiceView szybciej rozładuje baterię.
 Bluetooth Device not Found	Nie odnaleziono urządzenia Bluetooth
 Searching for Bluetooth audio devices to pair with your Kindle VoiceView screen reader.<br><br>Please wait...	Wyszukiwanie urządzeń audio Bluetooth do sparowania z czytaniem z ekranu VoiceView.<br><br>Proszę czekać...
 Cannot find Bluetooth audio device.<br><br>Make sure your device is on and within range.	Nie można odnaleźć urządzeń audio Bluetooth.<br><br>Upewnij się, że Twoje urządzenie jest włączone i znajduje się w pobliżu.
 We've detected a pairable Bluetooth audio device: {device_name}.<br><br>Hold 2 fingers on your Kindle screen to pair this device with the Kindle VoiceView screen reader. If you don't want to use VoiceView, tap \"CANCEL PAIRING.\"<br><br>VoiceView is an accessibility feature that provides spoken feedback when you interact with your Kindle screen.<br><br>Wait 5 seconds to skip this Bluetooth audio device.	Wykryliśmy możliwe do sparowania urządzenie audio Bluetooth: {device_name}.<br><br>Trzymaj dwa palce na ekranie swojego Kindle aby sparować to urządzenie z czytaniem z ekranu VoiceView. Jeśli nie chcesz użyć VoiceView, dotknij \"Anuluj parowanie.\"<br><br>VoiceView jest funkcją ułatwiającą dostęp poprzez wymawianie nazw elementów podczas obsługi ekranu czytnika.<br><br>Odczekaj 5 sekund, aby pominąć to urządzenie audio Bluetooth.
+We've detected a pairable Bluetooth audio device: {device_name}.<br><br>Hold two fingers on your Kindle screen to pair this device with the Kindle VoiceView screen reader. If you don't want to use VoiceView, tap \"CANCEL PAIRING.\"<br><br>VoiceView is an accessibility feature that provides spoken feedback when you interact with your Kindle screen.<br><br>Wait 5 seconds to skip this Bluetooth audio device.	Wykryliśmy możliwe do sparowania urządzenie audio Bluetooth: {device_name}.<br><br>Trzymaj dwa palce na ekranie swojego Kindle aby sparować to urządzenie z czytaniem z ekranu VoiceView. Jeśli nie chcesz użyć VoiceView, dotknij \"Anuluj parowanie.\"<br><br>VoiceView jest funkcją ułatwiającą dostęp poprzez wymawianie nazw elementów podczas obsługi ekranu czytnika.<br><br>Odczekaj 5 sekund, aby pominąć to urządzenie audio Bluetooth.
 We could not connect to your Bluetooth audio device.<br><br> Make sure your audio device is on and in pairing mode, press and hold the Power button on your Kindle for 7 seconds, then hold 2 fingers on the screen.	Nie mogliśmy połączyć się z Twoim urządzeniem audio Bluetooth.<br><br> Upewnij się, że Twoje urządzenie audio jest włączone i znajduje się w trybie parowania, naciśnij i przytrzymaj przycisk zasilania na swoim Kindle przez 7 sekund, a następnie trzymaj dwa palce na ekranie.
+We could not connect to your Bluetooth audio device.<br><br> Make sure your audio device is on and in pairing mode, press and hold the Power button on your Kindle for 7 seconds, and then hold two fingers on the screen.	Nie mogliśmy połączyć się z Twoim urządzeniem audio Bluetooth.<br><br> Upewnij się, że Twoje urządzenie audio jest włączone i znajduje się w trybie parowania, naciśnij i przytrzymaj przycisk zasilania na swoim Kindle przez 7 sekund, a następnie trzymaj dwa palce na ekranie.

@@ -1,0 +1,7 @@
+An error occurred: Main class not found. Please contact the developer.	
+An error occurred: Main class or nullary constructor not public. Please contact developer.	
+An error occurred: Main class is not concrete. Please contact the developer.	
+An error occurred: Main class failed to load due to static initialisation errors. Please contact the developer.	
+An error occurred: Main class failed to load due to security exception. Please contact the developer.	
+An error occurred: Main class does not inherit from com.amazon.kindle.kindlet.Kindlet. Please contact the developer.	
+An error occurred: Main class instantiation threw a RuntimeException. Please contact the developer.	

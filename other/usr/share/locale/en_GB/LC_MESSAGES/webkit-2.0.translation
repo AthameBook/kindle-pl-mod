@@ -71,7 +71,7 @@ RLM _Right-to-left mark	RLM - znak od p_rawej do lewej
 RLO Right-to-left o_verride	RLO - na_dpisywanie od prawej do lewej
 Reason	Powód
 Recent searches	Najnowsze wyniki wyszukiwania
-Reset	Reset
+Reset	Resetuj
 Resizable Text Areas	Pole tekstowe o zmiennym rozmiarze
 Returns the @web_view's document title	Zwraca tytuł dokumentu @web_view
 Returns the current URI of the contents displayed by the @web_view	Zwraca aktualny adres URI zawartości wyświetlanej przez @web_view

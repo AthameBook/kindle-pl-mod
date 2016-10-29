@@ -1,7 +1,7 @@
  Currently Reading	 Teraz czytam
 ➕ Follow	➕ Obserwuj
  Following	 Obserwowany
- Read	 Przeczytane	
+ Read	 Przeczytane
  Want to Read	 Chcę przeczytać
 {0,choice,-1#Community|0#Community ({0,number,integer})|1000000#Community (999999)}	{0,choice,-1#Społeczność|0#Społeczność ({0,number,integer})|1000000#Społeczność (999999)}
 {0,choice,-1#Following|0#Following ({0,number,integer})|1000000#Following (999999)}	{0,choice,-1#Obserwowani|0#Obserwowani ({0,number,integer})|1000000#Obserwowani (999999)}

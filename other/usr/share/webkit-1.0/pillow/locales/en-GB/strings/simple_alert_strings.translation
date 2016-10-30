@@ -6,7 +6,7 @@ Feature Not Available	Opcja niedostępna
 This feature is not available in demo mode.	Ta opcja nie jest dostępna w trybie demonstracyjnym.
 Low Memory	Mało pamięci
 There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Zbyt mało pamięci, aby dodawać lub edytować notatki i oznaczenia w tym dokumencie. Zwolnij pamięć usuwając część zawartości Twojego Kindle.
-There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Zbyt mało pamięci, aby dodawać lub edytować notatki i oznaczenia dla tego dokumentu. Zwolnij więcej pamięci usuwając część zawartości Twojego Kindle.
+There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Zbyt mało pamięci, aby dodawać lub edytować notatki i oznaczenia w tym dokumencie. Zwolnij pamięć usuwając część zawartości z czytnika.
 Battery Level is Low	Niski poziom naładowania baterii
 Your battery is running low. Please charge your Kindle.	Bateria jest na wyczerpaniu. Naładuj swojego Kindle.
 Your battery is running low. Please connect your Kindle to a power source or the charging cover.	Bateria jest na wyczerpaniu. Podłącz swojego Kindle do źródła zasilania lub do okładki z ładowarką.
@@ -22,8 +22,8 @@ Your batteries are running low. Please connect your Kindle and charging cover to
 Your batteries are running low. Please connect your Kindle and charging cover to a power source. If your wireless is turned on, try turning it off to extend your reading time.	Bateria w okładce jest na wyczerpaniu. Podłącz swojego Kindle oraz okładkę do źródła zasilania. Jeśli włączona jest łączność bezprzewodowa, to wyłącz ją, aby wydłużyć czas czytania.
 Very Low Batteries	Bardzo niski poziom naładowania baterii
 Your batteries are almost depleted and your Kindle will shut down soon. Please connect your Kindle and charging cover to a power source.	Bateria jest prawie wyczerpana i Kindle wkrótce zostanie wyłączony. Podłącz swojego Kindle oraz okładkę do źródła zasilania.
-Your cover is not properly connected. Please check the connection. If it is still not charging, contact Kindle Customer Service at www.amazon.com/devicesupport.	
-Your cover cannot charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. 
+Your cover is not properly connected. Please check the connection. If it is still not charging, contact Kindle Customer Service at www.amazon.com/devicesupport.	Twoja okładka nie jest prawidłowo podłączona. Proszę sprawdzić podłączenie. Jeśli wciąż nie będzie się ładowała słaba, skontaktuj się z działem obsługi klienta Kindle na www.amazon.com/devicesupport.
+Your cover cannot charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. Twoja okładka nie ładuje się. Proszę sprawdzić podłączenie do czytnika. Aby uzyskać pomoc, skontaktuj się z działem obsługi klienta Kindle na www.amazon.com/devicesupport.
 Your cover is unable to charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. 
 Charging Cover Error	Błąd ładowania okładki
 Charging Cover Connection	Podłączenie okładki do ładowania
@@ -55,11 +55,11 @@ The item failed to close properly. Unless you close this dialog box your device 
 Shipping Mode Failed	Tryb sprzedaży zakończony niepowodzeniem
 Unable to enter shipping mode due to missing dictionaries or fonts.	Nie można ustawić trybu sprzedaży ze względu na brak słowników lub czcionek.
 Unable to enter shipping mode due to battery level falling below permissible range.	Nie można ustawić trybu sprzedaży ponieważ poziom naładowania baterii jest poniżej dopuszczalnego zakresu.
-Unable to enter shipping mode owing to missing dictionaries or fonts.	
-Unable to enter shipping mode owing to battery level falling below permissible range.	
+Unable to enter shipping mode owing to missing dictionaries or fonts.	Nie można ustawić trybu sprzedaży ze względu na brak słowników lub czcionek.
+Unable to enter shipping mode owing to battery level falling below permissible range.	Nie można ustawić trybu sprzedaży ponieważ poziom naładowania baterii jest poniżej dopuszczalnego zakresu.
 Shipping Mode Error	Błąd trybu sprzedaży
-Your device is unable to enter shipping mode because the battery level is low. Please connect it to a charger. When the battery is sufficiently charged, your device will enter shipping mode automatically.	
-Your device is unable to enter shipping mode because the battery level is high. Please disconnect it from the charger. When the battery is sufficiently discharged, your device will enter shipping mode automatically.	
+Your device is unable to enter shipping mode because the battery level is low. Please connect it to a charger. When the battery is sufficiently charged, your device will enter shipping mode automatically.	Twoje urządzenie nie może przejść w tryb sprzedaży z powodu zbyt niskiego stanu naładowania baterii. Proszę podłączyć je do ładowarki. Gdy bateria osiągnie odpowiedni poziom naładowania, Twoje urządzenie przejdzie w tryb sprzedaży automatycznie.
+Your device is unable to enter shipping mode because the battery level is high. Please disconnect it from the charger. When the battery is sufficiently discharged, your device will enter shipping mode automatically.	Twoje urządzenie nie może przejść w tryb sprzedaży z powodu zbyt wysokiego stanu naładowania baterii. Proszę odłączyć je od ładowarki. Gdy bateria osiągnie odpowiedni poziom rozładowania, Twoje urządzenie przejdzie w tryb sprzedaży automatycznie.
 Your device is unable to enter shipping mode due to a low battery level. Please connect it to a charger. When the battery is sufficiently charged, your device will enter shipping mode automatically.	Twoje urządzenie nie może przejść w tryb sprzedaży z powodu zbyt niskiego stanu naładowania baterii. Proszę podłączyć je do ładowarki. Gdy bateria osiągnie odpowiedni poziom naładowania, Twoje urządzenie przejdzie w tryb sprzedaży automatycznie.
 Your device is unable to enter shipping mode due to a high battery level. Please disconnect it from the charger. When the battery is sufficiently discharged, your device will enter shipping mode automatically.	Twoje urządzenie nie może przejść w tryb sprzedaży z powodu zbyt wysokiego stanu naładowania baterii. Proszę odłączyć je od ładowarki. Gdy bateria osiągnie odpowiedni poziom rozładowania, Twoje urządzenie przejdzie w tryb sprzedaży automatycznie.
 Your Kindle is connected to a USB cable and is unable to enter shipping mode. Please disconnect the cable.	Twój Kindle jest podłączony do kabla USB i nie można przejść do trybu sprzedaży. Proszę odłączyć kabel.
@@ -124,8 +124,8 @@ Device Not Registered	Urządzenie nie jest zarejestrowane
 You must register your Kindle to make a purchase.	Aby robić zakupy musisz zarejestrować swojego Kindle.
 Pending Purchases	Oczekujące zamówienia
 Purchases Pending	Oczekujące zamówienia
-You already have {count,plural,=0 {no pending orders} one {an pending order} other { # pending orders}} for this special offer.	Masz już {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
-You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	Masz już {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
+You already have {count,plural,=0 {no pending orders} one {an pending order} other { # pending orders}} for this special offer.	Masz {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
+You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	Masz {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
 Debugging Scripts	Debugowanie skryptu
 Extended debugging scripts are currently enabled	Zaawansowane debugowanie skryptów jest teraz włączone
 Restart Required	Wymagane jest ponowne uruchomienie
@@ -151,7 +151,7 @@ Device Error	Błąd urządzenia
 An unexpected error has occurred. This can happen if you recently disconnected your Kindle from a computer without safely ejecting it. Please wait while your Kindle attempts to resolve this error.	Wystąpił nieokreślony błąd. Mogło się tak zdarzyć jeśli Twój Kindle był odłączany od komputera bez wcześniejszego bezpiecznego usunięcia z systemu. Poczekaj, aż Kindle zakończy rozwiązywanie problemu.
 An unexpected error has occurred. This can happen if you recently disconnected your Kindle from a computer without ejecting it safely. Please wait while your Kindle attempts to resolve this error.	Wystąpił nieokreślony błąd. Mogło się tak zdarzyć jeśli Twój Kindle był odłączany od komputera bez wcześniejszego bezpiecznego usunięcia z systemu. Poczekaj, aż Kindle zakończy rozwiązywanie problemu.
 Update Error	Błąd aktualizacji
-An invalid update file has been loaded on your device. Please go to www.amazon.com/devicesupport to access the Kindle Software Update page or to contact Kindle Customer Service for assistance.	
+An invalid update file has been loaded on your device. Please go to www.amazon.com/devicesupport to access the Kindle Software Update page or to contact Kindle Customer Service for assistance.	Na Twój czytnik został załadowany błędny plik z aktualizacją. Proszę przejść na www.amazon.com/devicesupport, aby przejść do strony z aktualizacjami lub uzyskać wsparcie w dziale obsługi klienta Kindle.
 Battery Too Low	Zbyt niski stan baterii
 Kindle must be charged to resell. Please connect to charger for at least one hour and try again.	Kindle musi być naładowany przed odsprzedażą. Proszę podłączyć go do ładowarki przynajmniej na godzinę i spróbować ponownie.
 Feature Not Available	Funkcja nie jest dostępna
@@ -166,7 +166,7 @@ Recording of test case {test_name} has been completed successfully. Record log i
 Device Error	Błąd urządzenia
 An unrecoverable device error has occurred. Please back up all of your non-Amazon content to avoid data loss. When your backup is complete, tap Continue.	Wystąpił nienaprawialny błąd urządzenia. Proszę wykonać kopię zapasową wszystkich danych spoza Amazonu, aby uniknąć utraty tych danych. Po wykonaniu kopii, dotknij Kontynuuj.
 Voice Files Not Detected	Nie wykryto plików z głosami
-We do not detect any voice files on your device. For voice file download instructions, please contact Kindle Customer Service at http://www.amazon.com/help/kindlevoicefiles.	
+We do not detect any voice files on your device. For voice file download instructions, please contact Kindle Customer Service at http://www.amazon.com/help/kindlevoicefiles.	Na czytniku nie wykryto żadnych plików z głosami. Aby uzyskać instrukcję pobierania głosów, proszę skontaktować się z działem obsługi klienta Kindle na http://www.amazon.com/help/kindlevoicefiles.
 The charging cover has been disconnected. VoiceView will be turned off.	Ładowanie okładki zostało przerwane. VoiceView zostanie wyłączony.
 Your Kindle battery is low. Enabling VoiceView will drain the battery faster.	Niski poziom naładowania baterii. Włączenie funkcji VoiceView szybciej rozładuje baterię.
 Bluetooth Device not Found	Nie odnaleziono urządzenia Bluetooth

@@ -6,7 +6,7 @@ Feature Not Available	Opcja niedostępna
 This feature is not available in demo mode.	Ta opcja nie jest dostępna w trybie demonstracyjnym.
 Low Memory	Mało pamięci
 There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Zbyt mało pamięci, aby dodawać lub edytować notatki i oznaczenia w tym dokumencie. Zwolnij pamięć usuwając część zawartości Twojego Kindle.
-There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Zbyt mało pamięci, aby dodawać lub edytować notatki i oznaczenia dla tego dokumentu. Zwolnij więcej pamięci usuwając część zawartości Twojego Kindle.
+There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Zbyt mało pamięci, aby dodawać lub edytować notatki i oznaczenia w tym dokumencie. Zwolnij pamięć usuwając część zawartości z czytnika.
 Battery Level is Low	Niski poziom naładowania baterii
 Your battery is running low. Please charge your Kindle.	Bateria jest na wyczerpaniu. Naładuj swojego Kindle.
 Your battery is running low. Please connect your Kindle to a power source or the charging cover.	Bateria jest na wyczerpaniu. Podłącz swojego Kindle do źródła zasilania lub do okładki z ładowarką.
@@ -23,8 +23,8 @@ Your batteries are running low. Please connect your Kindle and charging cover to
 Very Low Batteries	Bardzo niski poziom naładowania baterii
 Your batteries are almost depleted and your Kindle will shut down soon. Please connect your Kindle and charging cover to a power source.	Bateria jest prawie wyczerpana i Kindle wkrótce zostanie wyłączony. Podłącz swojego Kindle oraz okładkę do źródła zasilania.
 Your cover is not properly connected. Please check the connection. If it is still not charging, contact Kindle Customer Service at www.amazon.com/devicesupport.	Twoja okładka nie jest prawidłowo podłączona. Proszę sprawdzić podłączenie. Jeśli wciąż nie będzie się ładowała słaba, skontaktuj się z działem obsługi klienta Kindle na www.amazon.com/devicesupport.
-Your cover cannot charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. 	Twoja okładka nie ładuje się. Proszę sprawdzić podłączenie do czytnika. Aby uzyskać pomoc, skontaktuj się z działem obsługi klienta Kindle na www.amazon.com/devicesupport. 
-Your cover is unable to charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. Twoja okładka nie może się ładować. Proszę sprawdzić podłączenie do czytnika. Aby uzyskać pomoc, skontaktuj się z działem obsługi klienta Kindle na www.amazon.com/devicesupport. 
+Your cover cannot charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. Twoja okładka nie ładuje się. Proszę sprawdzić podłączenie do czytnika. Aby uzyskać pomoc, skontaktuj się z działem obsługi klienta Kindle na www.amazon.com/devicesupport.
+Your cover is unable to charge. Please check the device connection. For help, contact Kindle Customer Service at www.amazon.com/devicesupport. 
 Charging Cover Error	Błąd ładowania okładki
 Charging Cover Connection	Podłączenie okładki do ładowania
 Your charging cover may not be properly connected to your Kindle. Please try connecting your cover and Kindle again. If your battery is low, connect your Kindle and cover to a USB charger.	Twoja okładka ładująca może nie być prawidłowo podłączona do Kindle. Spróbuj połączyć swoją okładkę i Kindle ponownie. Jeśli bateria jest słaba, podłącz Kindle i okładkę do ładowarki USB.
@@ -124,8 +124,8 @@ Device Not Registered	Urządzenie nie jest zarejestrowane
 You must register your Kindle to make a purchase.	Aby robić zakupy musisz zarejestrować swojego Kindle.
 Pending Purchases	Oczekujące zamówienia
 Purchases Pending	Oczekujące zamówienia
-You already have {count,plural,=0 {no pending orders} one {an pending order} other { # pending orders}} for this special offer.	Masz już {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
-You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	Masz już {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
+You already have {count,plural,=0 {no pending orders} one {an pending order} other { # pending orders}} for this special offer.	Masz {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
+You already have {count,plural,=0 {no orders pending} one {an order pending} other { # orders pending}} for this special offer.	Masz {count,plural,=0 {0 oczekujących zamówień} one {1 oczekujące zamówienie} other { # oczekujących zamówień}} z tej oferty specjalnej.
 Debugging Scripts	Debugowanie skryptu
 Extended debugging scripts are currently enabled	Zaawansowane debugowanie skryptów jest teraz włączone
 Restart Required	Wymagane jest ponowne uruchomienie

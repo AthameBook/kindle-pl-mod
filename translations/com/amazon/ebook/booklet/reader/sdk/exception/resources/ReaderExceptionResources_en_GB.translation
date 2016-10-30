@@ -16,8 +16,8 @@ Low Memory	Mało pamięci
 Memory Full	Pamięć pełna
 No Dictionary Found	Żaden słownik nie istnieje
 Page cannot be displayed.	Strona nie może być wyświetlona.
-Some data could not be displayed. 	Część danych nie mogła być wyświetlona. 
 Some data could not be displayed.	Część danych nie mogła być wyświetlona.
+Some data could not be displayed. 	Część danych nie mogła być wyświetlona.
 Sorry, you cannot change the size of text in the Section list.	Przepraszamy, nie możesz zmienić rozmiaru tekstu na liście działów.
 Table of Contents could not be loaded. 	Nie można załadować spisu treści. 
 The item you were reading has been removed and is no longer available on your Kindle.	Pozycja, którą czytałeś, została usunięta i nie jest już dostępna na czytniku.
@@ -45,7 +45,8 @@ Unable to Open Item	Nie można otworzyć pozycji
 Unable to Perform Action	Nie można wykonać działania
 Unable to save clipping. You have reached the clipping limit for this book.	Nie można zapisać wycinka. Osiągnąłeś limit wycinków dla tej książki.
 Unable to save clipping. You have reached the clipping limit set by the publisher{0,choice,0#|1#, {1}}.	Nie można zapisać wycinka. Dotarłeś do limitu wycinków ustawionego przez wydawcę {0,choice,0#|1#, {1}}.
-Unable to Sync to Furthest Page Read. 	Nie można zsynchronizować do ostatniej strony. 
+Unable to Sync to Furthest Page Read.	Nie można zsynchronizować do ostatniej strony.
+Unable to Sync to Furthest Page Read. 	Nie można zsynchronizować do ostatniej strony.
 Unable to Sync	Nie można zsynchronizować
 Unable to update Home.	Nie można zaktualizować głównego ekranu.
 You will not be able to add/share {0} this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.	Nie możesz dodać/udostępnić {0} tej pozycji ponieważ na karcie pamięci SD brakuje miejsca. Proszę zwolnić miejsce na karcie pamięci SD przez usunięcie części pozycji.

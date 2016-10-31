@@ -1,12 +1,12 @@
 {0,plural,=0 {} one {{0,number,integer} mention} other {{0,number,integer} mentions}}	{0,plural,=0 {} one {{0,number,integer} wzmianka} other {{0,number,integer} wzmianek}}
 {0,plural,=0 {} one {{0,number,integer} More} other {{0,number,integer} More}}	{0,plural,=0 {} one {{0,number,integer} więcej} other {{0,number,integer} więcej}}
-Additional clips beyond your furthest page read are hidden. Tap to show all clips.	Dodatkowe przypięcia poza najdalszą czytaną stroną są ukryte. Dotknij, aby pokazać wszystkie przypięcia.
+Additional clips beyond your furthest page read are hidden. Tap to show all clips.	Dodatkowe wycinki poza najdalszą czytaną stroną są ukryte. Dotknij, aby pokazać wszystkie przypięcia.
 All Mentions	Wszystkie wzmianki
 Alphabetical	Alfabetycznie
 Also See:	Zobacz też:
 By Relevance	Wg użyteczności
 Cancel	Anuluj
-Clips beyond your furthest page read are hidden. Tap to show all clips.	Przypięcia poza najdalszą czytaną stroną są ukryte. Dotknij, aby pokazać wszystkie przypięcia.
+Clips beyond your furthest page read are hidden. Tap to show all clips.	Wycinki poza najdalszą czytaną stroną są ukryte. Dotknij, aby pokazać wszystkie wycinki.
 Current Page	Bieżąca strona
 Do you find X-Ray useful?	Czy uważasz X-Ray za użyteczne?
 Entries starting with:	Wpisy rozpoczynające się na:
@@ -19,7 +19,7 @@ Go to pg {0}	Idź do str {0}
 Go to	Idź do
 Go To	Idź do
 Go	Idź
-Hide Unread Clips	Ukryj nieprzeczytane przypięcia
+Hide Unread Clips	Ukryj nieprzeczytane wycinki
 Highlighted ✓	Podkreślono ✓
 Highlighted	Podkreślono
 Highlight	Podkreśl
@@ -32,14 +32,14 @@ More	Więcej
 next	dalej
 None found	Nic nie znaleziono
 No	Nie
-Notable Clips	Znaczące przypięcia
+Notable Clips	Znaczące wycinki
 page {0}	strona {0}
 pg {0}	str {0}
 Please note that we are unable to respond directly to feedback submitted via this form	Proszę pamiętać, że nie będziemy w stanie odpowiedzieć na opinię przekazaną za pośrednictwem tego formularza
 previous	wstecz
 Send Us Feedback	Wyślij nam komentarz
 Share	Udostępnij
-Show All Clips	Pokaż wszystkie przypięcia
+Show All Clips	Pokaż wszystkie wycinki
 Show Less	Pokaż mniej
 Show More	Pokaż więcej
 Sorry, an error has occurred.	Przepraszamy, wystąpił błąd

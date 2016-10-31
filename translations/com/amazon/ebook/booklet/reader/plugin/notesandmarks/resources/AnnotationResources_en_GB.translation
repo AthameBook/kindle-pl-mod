@@ -4,7 +4,7 @@
 {0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
 {0}’s Highlight	Podkreślenie {0}
 {0}’s Note	Notatka {0}
-All Notes & Marks ({0,number,integer})	Wszystkie notatki i oznaczenia ({0,number,integer})
+All Notes & Marks ({0,number,integer})	Wszystkie notatki i podkreślenia ({0,number,integer})
 All	Wszystko
 Bookmarks	Zakładki
 Delete	Usuń
@@ -16,8 +16,8 @@ Highlights	Podkreślenia
 Items {0,number,integer} of {1,number,integer}	Pozycje {0,number,integer} z {1,number,integer}
 Items {0,number,integer}-{1,number,integer} of {2,number,integer}	Pozycje {0,number,integer}–{1,number,integer} z {2,number,integer}
 Note {0}	Notatka {0}
-Notes & Marks ({0,number,integer}) ·	Notatki i oznaczenia ({0,number,integer}) ·
-Notes & Marks	Notatki i oznaczenia
+Notes & Marks ({0,number,integer}) ·	Notatki i podkreślenia ({0,number,integer}) ·
+Notes & Marks	Notatki i podkreślenia
 Notes	Notatki
 Popular Highlights ({0,number,integer})	Popularne podkreślenia ({0,number,integer})
 Popular Highlights	Popularne podkreślenia
@@ -26,9 +26,9 @@ Public Notes from {0}.	Publiczne notatki z {0}.
 Public Notes	Publiczne notatki
 Show	Pokaż
 Show...	Pokaż...
-View Notes & Marks	Zobacz notatki i oznaczenia
+View Notes & Marks	Zobacz notatki i podkreślenia
 Your Bookmarks ({0,number,integer})	Twoje zakładki ({0,number,integer})
 Your Highlights ({0,number,integer})	Twoje podkreślenia ({0,number,integer})
-Your Notes & Marks ({0,number,integer})	Twoje notatki i oznaczenia ({0,number,integer})
+Your Notes & Marks ({0,number,integer})	Twoje notatki i podkreślenia ({0,number,integer})
 Your Notes ({0,number,integer})	Twoje notatki ({0,number,integer})
 Yours	Twoje

@@ -5,7 +5,7 @@ Add to Downloaded	Dodaj kolekcję na czytnik
 Add To Home	Dodaj do ekranu głównego
 Add/Remove Items	Dodaj/Usuń pozycje
 Date: 	Data: 
-Delete	Usuń kolekcję
+Delete	Usuń
 Download Latest Issue	Pobierz najnowsze wydanie
 Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Wydania pobrane: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje pobrane: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }

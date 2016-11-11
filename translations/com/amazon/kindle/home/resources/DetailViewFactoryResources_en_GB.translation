@@ -2,7 +2,7 @@
 {0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {Liczba opanowanych słów: {0,number,integer}} one {Liczba opanowanych słów: {0,number,integer} word} other {Liczba opanowanych słów: {0,number,integer} words} }
 About Vocabulary Builder	O powtarzaniu słówek
 Add to Downloaded	Dodaj kolekcję na czytnik
-Add To Home	Dodaj do ekranu głównego
+Add To Home	Pobierz na czytnik
 Add/Remove Items	Dodaj/Usuń pozycje
 Date: 	Data: 
 Delete	Usuń

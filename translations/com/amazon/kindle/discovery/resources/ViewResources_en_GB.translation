@@ -82,7 +82,7 @@ Facebook E-mail	E-mail z Facebooka
 Facebook Password	Hasło do Facebooka
 Find and share books that you love, see what your friends are reading and get recommendations from the world's largest network of readers.	Znajdź i udostępniaj książki, które kochasz, zobacz co Twoi znajomi czytają i uzyskuj porady w największej na świecie społeczności czytelników.
 finished reading	przeczytał(a) książkę
-Follow these notable readers and authors to view their reviews and recommendations.	Obserwuj ważnych czytelników i autorów, aby zobaczyć ich opinie i zalecenia.
+Follow these notable readers and authors to view their reviews and recommendations.	Obserwuj ważnych czytelników i autorów, aby zobaczyć ich opinie i rekomendacje.
 Follow these notable readers to view their reviews and recommendations{0,select, with_connect_message {, or connect with friends from Facebook.} other {.}}	Obserwuj tych wartych polecenia czytelników, aby zobaczyć ich recenzje i polecenia{0,select, with_connect_message { lub połącz się ze znajomymi z Facebooka.} other {.}}
 Followers ({0})	Obserwujący ({0})
 Following ({0})	Obserwowani ({0})

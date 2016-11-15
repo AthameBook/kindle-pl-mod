@@ -33,7 +33,7 @@
                 },
                 {
                     "width" : 823,
-                    "label": "SPACE",
+                    "label": "SPACJA",
                     "value": " ",
                     "x" : 245,
                     "y" : 314 
@@ -80,7 +80,7 @@
                 },
                 {
                     "width" : 686,
-                    "label": "SPACE",
+                    "label": "SPACJA",
                     "value": " ",
                     "x" : 382,
                     "y" : 314 
@@ -119,7 +119,7 @@
                 },
                 {
                     "width" : 823,
-                    "label": "SPACE",
+                    "label": "SPACJA",
                     "value": " ",
                     "x" : 245,
                     "y" : 314 
@@ -166,7 +166,7 @@
                 },
                 {
                     "width" : 686,
-                    "label": "SPACE",
+                    "label": "SPACJA",
                     "value": " ",
                     "x" : 382,
                     "y" : 314 
@@ -707,6 +707,8 @@
                     "y" : 113 
                 },
                 {
+                    "modifier" : 1,
+                    "hold": 208,
                     "label": "-",
                     "value": "-",
                     "x" : 930,
@@ -1717,58 +1719,64 @@
                 {
                     "label": "–",
                     "value": "–",
-                    "x": 102,
+                    "x": 40,
                     "y": -69 
                 },
                 {
-                    "label": "—",
-                    "value": "—",
-                    "x": 241,
+                    "label": "„",
+                    "value": "„",
+                    "x": 177,
+                    "y": -69 
+                },
+                {
+                    "label": "”",
+                    "value": "”",
+                    "x": 314,
                     "y": -69 
                 },
                 {
                     "label": ",",
                     "value": ",",
-                    "x": 380,
+                    "x": 451,
                     "y": -69 
                 },
                 {
                     "modifier" : 1,
                     "label": ":",
                     "value": ":",
-                    "x": 519,
+                    "x": 588,
                     "y": -69 
                 },
                 {
                     "label": ";",
                     "value": ";",
-                    "x": 656,
+                    "x": 725,
                     "y": -69 
                 },
                 {
                     "label": "…",
                     "value": "…",
-                    "x": 775,
+                    "x": 863,
                     "y": -69 
                 },
                 {
                     "modifier" : 1,
                     "label": "!",
                     "value": "!",
-                    "x": 914,
+                    "x": 1000,
                     "y": -69 
                 },
                 {
                     "modifier" : 1,
                     "label": "?",
                     "value": "?",
-                    "x": 1079,
+                    "x": 1137,
                     "y": -69 
                 },
                 {
                     "label": ".",
                     "value": ".",
-                    "x": 1218,
+                    "x": 1274,
                     "y": -69 
                 }
             ]
@@ -1991,6 +1999,36 @@
                     "label": "'",
                     "value": "'",
                     "x": 863,
+                    "y": -69 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical minus",
+            "type": 8192,
+            "diacritical": 208,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "modifier" : 1,
+                    "label": "–",
+                    "value": "–",
+                    "x": 519,
+                    "y": -69 
+                },
+                {
+                    "label": "—",
+                    "value": "—",
+                    "x": 656,
+                    "y": -69 
+                },
+                {
+                    "label": "-",
+                    "value": "-",
+                    "x": 775,
                     "y": -69 
                 }
             ]

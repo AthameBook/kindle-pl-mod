@@ -33,7 +33,7 @@
                 },
                 {
                     "width": 602,
-                    "label": "SPACE",
+                    "label": "SPACJA",
                     "offset_y": 30,
                     "value": " ",
                     "font": "dialog bold 6",
@@ -82,7 +82,7 @@
                 },
                 {
                     "width": 502,
-                    "label": "SPACE",
+                    "label": "SPACJA",
                     "offset_y": 30,
                     "value": " ",
                     "font": "dialog bold 6",
@@ -123,7 +123,7 @@
                 },
                 {
                     "width": 602,
-                    "label": "SPACE",
+                    "label": "SPACJA",
                     "offset_y": 30,
                     "value": " ",
                     "font": "dialog bold 6",
@@ -172,7 +172,7 @@
                 },
                 {
                     "width": 502,
-                    "label": "SPACE",
+                    "label": "SPACJA",
                     "offset_y": 30,
                     "value": " ",
                     "font": "dialog bold 6",
@@ -716,6 +716,8 @@
                     "y": 113 
                 },
                 {
+                    "modifier" : 1,
+                    "hold": 208,
                     "label": "-",
                     "value": "-",
                     "x": 686,
@@ -1535,12 +1537,18 @@
                 {
                     "label": "–",
                     "value": "–",
+                    "x": 36,
+                    "y": -71 
+                },
+                {
+                    "label": "„",
+                    "value": "„",
                     "x": 136,
                     "y": -71 
                 },
                 {
-                    "label": "—",
-                    "value": "—",
+                    "label": "”",
+                    "value": "”",
                     "x": 236,
                     "y": -71 
                 },
@@ -1998,6 +2006,36 @@
                 {
                     "label": "'",
                     "value": "'",
+                    "x": 636,
+                    "y": -71 
+                }
+            ]
+        },
+        {
+            "comment": "diacritical minus",
+            "type": 8192,
+            "diacritical": 208,
+            "height": 100,
+            "width" : 100,
+            "font" : "dialog 11",
+            "modifier" : 0,
+            "keys": [
+                {
+                    "modifier" : 1,
+                    "label": "–",
+                    "value": "–",
+                    "x": 436,
+                    "y": -71 
+                },
+                {
+                    "label": "—",
+                    "value": "—",
+                    "x": 536,
+                    "y": -71 
+                },
+                {
+                    "label": "-",
+                    "value": "-",
                     "x": 636,
                     "y": -71 
                 }

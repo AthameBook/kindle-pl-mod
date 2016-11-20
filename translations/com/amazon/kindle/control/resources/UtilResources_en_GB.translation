@@ -1,4 +1,4 @@
-{0}: {1,date,EEE}, {1,date,medium}~~~~Are you sure you want to delete this issue?	{0}: {1,date,EEE}, {1,date,medium}~~~~Czy na pewno chcesz usunąć ten problem?
+{0}: {1,date,EEE}, {1,date,medium}~~~~Are you sure you want to delete this issue?	{0}: {1,date,EEE}, {1,date,medium}~~~~Czy na pewno chcesz usunąć to wydanie?
 "{0}" cannot be delivered because of the file size. You can either cancel the download, transfer the item via USB or connect to Wi-Fi to download this item.	Nie udało się dostarczyć pliku „{0}” ze względu na zbyt duży rozmiar. Skopiuj tę pozycję przez USB lub połącz się z siecią Wi-Fi i ponownie spróbuj ją pobrać.
 "{0}" cannot be delivered. You can either cancel the download or connect to Wi-Fi to download this item.	Nie udało się dostarczyć pliku „{0}”. Zrezygnuj z pobierania lub połącz się z siecią Wi-Fi i ponownie spróbuj pobrać tę pozycję.
 "{0}" cannot be downloaded because Aeroplane Mode is turned on. You can either cancel the download or turn off Aeroplane Mode.	Nie można pobrać pliku „{0}” ponieważ włączony jest tryb samolotowy. Zrezygnuj z pobierania lub wyłącz tryb samolotowy.

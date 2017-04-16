@@ -1,21 +1,27 @@
 {0,select,mrpr{Sync to Most Recent Page Read} other{Sync to Furthest Page Read}}	{0,select,mrpr{Synchronizuj ostatnio czytaną stronę} other{Synchronizuj najdalszą czytaną stronę}}
 Add Note	Dodaj notatkę
+alignment options	opcje wyrównania
+ALIGNMENT	WYRÓWNANIE
 Animation	Animacja
 Beginning	Początek
 Book Description	Opis książki
 Buy This Book Now	Kup teraz tę książkę
 Cancel	Anuluj
+CANCEL	ANULUJ
 Contrast	Kontrast
 CONTRAST	KONTRAST
 Cover	Okładka
+Crop Margins	Przytnij marginesy
 darker	+1
 darkest	+2
 DARKEST	NAJCIEMNIEJSZY
 default	domyślnie
 Delete Note	Usuń notatkę
 Delete	Usuń
+DELETE	USUŃ
 Display Settings	Ustawienia wyświetlania
 Edit Note	Edytuj notatkę
+EDIT	EDYTUJ
 End	Koniec
 Enter a location ({0} - {1})	Podaj lokację ({0}–{1})
 Enter a page ({0}) or location ({1} - {2})	Podaj stronę ({0}) lub lokację ({1}–{2})
@@ -25,6 +31,7 @@ Enter a page (1 - {0})	Podaj stronę (1–{0})
 Enter a page or location ({1} - {2})	Podaj stronę lub lokację ({1}–{2})
 Enter a page	Podaj stronę
 Enter password: 	Wprowadź hasło: 
+Enter password	Wprowadź hasło
 Fit to Screen	Dopasuj do ekranu
 font options	ustawienia czcionki
 font size options	ustawienia rozmiaru czcionki
@@ -36,6 +43,9 @@ GO TO	IDŹ DO
 Highlight	Podkreśl
 Incorrect password. Please try again.	Nieprawidłowe hasło. Spróbuj jeszcze raz.
 Incorrect Password	Nieprawidłowe hasło
+justified	wyjustowanie
+landscape	tryb krajobrazowy
+left aligned	wyrównanie do lewej
 lighter	-1
 lightest	-2
 LIGHTEST	NAJJAŚNIEJSZY
@@ -43,6 +53,7 @@ line spacing options	ustawienia odstępu między wierszami
 Loc {0} of {1}	Lokacja {0} z {1}
 Loc {0}	Lokacja {0}
 Location	Lokacja
+LOCATION	LOKACJA
 Lock Rotation	Blokada rotacji
 Low Memory	Mało pamięci
 margin options	ustawienia marginesu
@@ -58,14 +69,17 @@ Page {0} of {1}	Strona {0} z {1}
 Page {0}	Strona {0}
 Page or Location	Strona lub lokacja
 Page Refresh	Odświeżanie strony
-Page	Strona
 Page 	Strona
+Page	Strona
 PAGE	STRONA
 Password-Protected	Chronione hasłem
 PDF Display Settings	Ustawienia wyświetlania PDF
+portrait	tryb portretowy
+Preview Double Page Spread	Podgląd dwóch stron
 Publisher Font	Czcionka wydawcy
 READING PROGRESS	POSTĘP CZYTANIA
 Save	Zapisz
+SAVE	ZAPISZ
 Settings	Ustawienia
 Shared Notes & Highlights	Udostępnione notatki i podkreślenia
 Share	Udostępnij
@@ -77,10 +91,11 @@ Sync	Synchronizuj
 Table of Contents	Spis treści
 Table of Contents...	Spis treści...
 There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from the Home screen.	Brak wystarczającej ilości pamięci, aby dodawać lub edytować notatki i podkreślenia w tym dokumencie. Spróbuj zwolnić pamięć usuwając część zawartości ze swojego Kindle.
+This book does not support Left Alignment and other Enhanced Typography options.	Ta książka nie wspiera wyrównania do lewej i innych opcji Ulepszonej Typografii
 This PDF is password-protected.	Ten PDF jest chroniony hasłem.
 Unlock Rotation	Odblokowanie rotacji
 View in Store	Pokaż w sklepie
 View Notes	Zobacz notatki
 View Note	Zobacz notatkę
-wide	szeroki
 Virtual Panel	Panel wirtualny
+wide	szeroki

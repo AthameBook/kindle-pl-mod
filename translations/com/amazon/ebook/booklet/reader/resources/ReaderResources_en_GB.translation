@@ -4,6 +4,7 @@ alignment options	opcje wyrównania
 ALIGNMENT	WYRÓWNANIE
 Animation	Animacja
 Beginning	Początek
+BOLD	GRUBOŚĆ
 Book Description	Opis książki
 Buy This Book Now	Kup teraz tę książkę
 Cancel	Anuluj
@@ -36,6 +37,7 @@ Fit to Screen	Dopasuj do ekranu
 font options	ustawienia czcionki
 font size options	ustawienia rozmiaru czcionki
 FONT	CZCIONKA
+FONT SIZE	ROZMIAR CZCIONKI
 Go to Page or Location	Przejdź do strony lub lokacji
 Go to...	Idź do...
 Go To	Idź do
@@ -85,6 +87,7 @@ Shared Notes & Highlights	Udostępnione notatki i podkreślenia
 Share	Udostępnij
 Shop in Kindle Store	Zakupy w sklepie Kindle
 size {0}	rozmiar {0}
+SIZE	ROZMIAR
 SPACING	ODSTĘP
 Submit	Prześlij
 Sync	Synchronizuj

@@ -1,0 +1,22 @@
+ALL	WSZYSTKO
+BOOK	KSIĄŻKA
+HIGHLIGHTS	ZAZNACZENIA
+Highlight	Zaznaczenia
+ISSUE	WYDANIA
+Loc {0}	Lok {0}
+NOTES	NOTATKI
+NOTES AND HIGHLIGHTS	NOTATKI I ZAZNACZENIA
+No Results	Brak wyników
+No book results for "{0}" were found.	Brak książek dla "{0}".
+No issue results for "{0}" were found.	Brak wydań dla "{0}".
+No notes and highlights results for "{0}" were found.~~~~ You can highlight and take notes at any location in a Kindle book and search for them here.	Brak notatek i zaznaczeń dla "{0}".~~~~ Możesz zaznaczać fragmenty tekstu i robić notatki w dowolnym miejscu książki, a następnie wyszukać je tutaj.
+No notes and highlights results for "{0}" were found.~~~~ You can highlight and take notes at any location in an issue and search for them here.	Brak notatek i zaznaczeń dla "{0}".~~~~ Możesz zaznaczać fragmenty tekstu i robić notatki w dowolnym wydaniu, a następnie wyszukać je tutaj.
+No results for "{0}" were found.	Brak wyników dla "{0}".
+Note	Notatka
+Page 	Strona 
+Page {0}	Stona {0}
+Result	Wynik
+Result {0,number,integer} to {1,number,integer} of {2,number,integer}	Wynik {0,number,integer} do {1,number,integer} z {2,number,integer}
+Result {0,number,integer}-{1,number,integer} of {2,number,integer}	Wynik {0,number,integer}-{1,number,integer} z {2,number,integer}
+Results	Wyniki
+Results {0,number,integer} to {1,number,integer} of {2,number,integer}	Wyniki {0,number,integer} do {1,number,integer} z {2,number,integer}

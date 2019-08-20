@@ -1,24 +1,42 @@
-{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}	{0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {Wydań: {0,number,integer}}}
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {Pozycji: {0,number,integer}}}
-Abc	Abc
-Archived Items	Zarchiwizowane pozycje
-Blog	Blog
+Showing:	Wyświetlanie:
+OPENING...	OTWIERANIE...
+{1, select, true {READY - {0}} other {{0}}}	{1, select, true {GOTOWE - {0}} other {{0}}}
+COMPLETE	GOTOWE
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {Liczba pozycji: {0,number,integer}}}
+AUDIBLE	AUDIO
+MUSIC	MUZYKA
+PERSONAL	OSOBISTE
+NOTICE	OGŁOSZENIE
+RECEIPT	POTWIERDZENIE
+NEW	NOWE
+RENTAL	WYPOŻYCZONE
+EXPIRED	WYGASŁE
+ARCHIVED	ZARCHIWIZOWANE
+ACTIVE	AKTYWNA ZAWARTOŚĆ
+EXPIRING	WYGASAJĄCE
+SAMPLE	PRÓBKA
+READ	PRZECZYTANE
 Book	Książka
 Collection	Kolekcja
-COLLECTION	KOLEKCJA
-COMPLETE	UKOŃCZONY
+Archived Items	Zarchiwizowane pozycje
+Periodical Back Issues	Wydania czasopism
 Dictionaries	Słowniki
-Dictionary	Słownik
-DOC	DOKUMENT
-DOWNLOADING...	POBIERANIE...
-Images	Obrazki
-Letter	List
-Magazine	Czasopismo
-My Clippings	Moje wycinki
 Newspaper	Gazeta
+Magazine	Magazyn
 Notice	Ogłoszenie
-OPENING...	OTWIERANIE...
-Periodical Back Issues	Archiwalne numery czasopisma
-Personal	Osobiste
-Receipt	Paragon
-Rental	Wypożyczanie
+Active	Aktywna zawartość
+Images	Obrazy
+Your Clippings	Twoje wycinki
+Personal	Dokument osobisty
+Audible	Audio
+Rental	Wypożyczony
+Letter	List
+Dictionary	Słowniki
+Receipt	Potwierdzenie
+abonnement	abonament
+Abonnement Kindle	Abonament Kindle
+DOC	DOKUMENT
+COLLECTION	KOLEKCJA
+SERIES	SERIE
+ON LOAN	W WYPOŻ.
+KEEP	CHRON.

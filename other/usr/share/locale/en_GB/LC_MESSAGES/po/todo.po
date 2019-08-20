@@ -1,0 +1,5 @@
+msgid "todo.message.checking"
+msgstr "Sprawdzanie..."
+
+msgid "todo.message.nonewitems"
+msgstr "Brak nowych pozycji"

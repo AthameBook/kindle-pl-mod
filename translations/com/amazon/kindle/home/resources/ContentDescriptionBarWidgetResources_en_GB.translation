@@ -1,0 +1,24 @@
+{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}	{0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {Wydań: {0,number,integer}}}
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	{0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {Pozycji: {0,number,integer}}}
+Abc	Abc
+Archived Items	Zarchiwizowane pozycje
+Blog	Blog
+Book	Książka
+Collection	Kolekcja
+COLLECTION	KOLEKCJA
+COMPLETE	UKOŃCZONY
+Dictionaries	Słowniki
+Dictionary	Słownik
+DOC	DOKUMENT
+DOWNLOADING...	POBIERANIE...
+Images	Obrazki
+Letter	List
+Magazine	Czasopismo
+My Clippings	Moje wycinki
+Newspaper	Gazeta
+Notice	Ogłoszenie
+OPENING...	OTWIERANIE...
+Periodical Back Issues	Archiwalne numery czasopisma
+Personal	Osobiste
+Receipt	Paragon
+Rental	Wypożyczanie

@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kfxreader HEAD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Improved Page Flip"
+msgstr "Ulepszone przewracanie stron"
+
+msgid "Loc %d"
+msgstr "Lokacja %d"
+
+msgid ""
+"Now you can use Page Flip to view multiple pages of the book at once. Use "
+"the arrows to move through the book and the toggle button to change how many "
+"pages are shown."
+msgstr ""
+"Możesz użyć funkcji Page Flip, aby przeglądać wiele stron naraz. Strzałkami "
+"możesz poruszać się po książce, a przyciski przełączają o tyle stron, ile "
+"widzisz na ekranie."
+
+msgid "OK"
+msgstr "OK"
+
+msgid ""
+"Once you start turning pages, your last page or location number is saved at "
+"the bottom of the screen so you won't lose your place."
+msgstr ""
+"Gdy zaczniesz przewracać strony, Twoja ostatnia strona lub lokacja jest "
+"zapisywana na dole ekranu, więc nie utracisz swojego położenia."
+
+msgid "Page %s"
+msgstr "Strona %s"
+
+msgid "You are now reading the full title."
+msgstr "Teraz czytasz pełny tytuł."

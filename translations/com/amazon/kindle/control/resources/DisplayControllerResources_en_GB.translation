@@ -16,3 +16,12 @@ Settings	Ustawienia
 showing {0, number, integer}	wyświetlanie {0, number, integer}
 Sort by	Sortuj wg
 TITLE	WG TYTUŁU
+DATE (REVERSE)	WG DATY (WSTECZ)
+SERIES	WG SERII
+SERIES (REVERSE)	WG SERII (WSTECZ)
+Filter Menu	Filtrowanie
+Sort Menu	Sortowanie
+SORT	SORTOWANIE
+FILTER	FILTROWANIE
+Series	Serie
+{0} showing {1, number, integer}	{0} wyświetlanie {1, number, integer}

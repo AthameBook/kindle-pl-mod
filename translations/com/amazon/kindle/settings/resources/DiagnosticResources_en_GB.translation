@@ -12,3 +12,16 @@ Switch automatically (recommended)	Automatyczne przełączanie (zalecane)
 Switching Wireless Providers	Zmiana połączenia bezprzewodowego
 Unknown	Nieznany
 Your Kindle will lose its connection during this process. Manually switching wireless providers may take several minutes to complete, and your Kindle may not reconnect successfully to the Amazon Whispernet network.~~~~Do you wish to continue?	W trakcie tego procesu Twój Kindle straci połączenie z siecią. Ręczne przełączanie sieci bezprzewodowych może potrwać kilka minut. Może się również zdarzyć, że Twój Kindle nie połączy się ponownie z siecią Amazon Whispernet.~~~~Czy chcesz kontynuować?
+Sorry, WAN information is not available at this time.	Przykro nam, nie możemy teraz pobrać informacji o sieci WAN.
+Start tcpdump	Uruchomienie tcpdump
+Stop tcpdump	Zatrzymanie tcpdump
+Tcpdump is not running	Tcpdump nie jest uruchomione
+Tcpdump is running	Tcpdump jest uruchomione
+Test Download	Test pobierania
+Test Download Speed	Test szybkosci pobierania
+The device does not have WiFi	Urządzenie nie posiada Wi-Fi
+URL to download file from	URL pliku do pobrania
+URL to ping	URL dla polecenia ping
+URL to traceroute	URL dla traceroute
+{0, select, 0 {DOWN} 1 {UP} other {}}	{0, select, 0 {W DÓŁ} 1 {DO GÓRY} other {}}
+{0,date,full} {1,time,full}~~Downloading from {2}	{0,date,full} {1,time,full}~~Pobieranie z {2}

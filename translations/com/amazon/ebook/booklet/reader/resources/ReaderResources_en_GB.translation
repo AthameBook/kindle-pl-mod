@@ -102,3 +102,69 @@ View Notes	Zobacz notatki
 View Note	Zobacz notatkę
 Virtual Panel	Panel wirtualny
 wide	szeroki
+Page Display	Ustawienia strony
+Compact	Motyw kompaktowy
+Standard	Motyw standardowy
+Large	Motyw powiększony
+Low Vision	Dla niedowidzących
+Dyslexic	Dla dyslektyków
+Custom	Własne ustawienia
+Font & Page Settings	Ustawienia czcionki i strony
+THEMES	MOTYWY
+Manage Page Display Themes	Zarządzaj motywami ustawienia strony
+Save your current settings to a new theme.	Zapisz aktualne ustawienia strony jako nowy motyw.
+Maximum number of themes reached. Delete an existing theme to create a new one.	Została przekroczona maksymalna liczba motywów. Usuń istniejący motyw, aby utworzyć nowy.
+Manage page display theme.	Zarządzaj motywem ustawienia strony.
+UPDATE	AKTUALIZUJ
+Update Theme	Aktualizuj motyw
+Are you sure you want to save your current settings to "{0}"? It will override the previous settings in this theme.	Czy jesteś pewien, że chcesz zapisać aktualne ustawienia "{0}"? Poprzednie ustawienia motywu zostaną nadpisane.
+Save Current Settings	Zapisz aktualne ustawienia
+Save current settings to a new theme. The new theme will appear under Page Display.	Zapisz aktualne ustawienia jako nowy motyw. Motyw będzie wyświetlany w Ustawieniach strony.
+Theme {0}	Motyw {0}
+The theme name you entered already exists. Please enter a different theme name.	Istnieje już motyw o takiej nazwie. Proszę podać inną nazwę.
+SHOW	POKAŻ
+HIDE	UKRYJ
+Rename	Zmień nazwę
+Show	Pokaż
+Hide	UKRYJ
+Rename Theme	Zmień nazwę motywu
+Enter a new name for your theme.	Podaj nową nazwę motywu.
+Delete Theme	Usuń motyw
+Are you sure you want to delete "{0}"?	Czy jesteś pewien, że chcesz usunąć "{0}"?
+Save current settings to a new theme	Zapisz aktualne ustawienia jako nowy motyw
+Update this	Aktualizuj motyw
+Theme with the current settings	Motyw z aktualnymi ustawieniami
+Overflow access to Rename, Delete and Hide/Show Options for this	Dostęp to opcji zmiany nazwy, usuwania, pokazywania/ukrywania motywu
+Theme	Motyw
+Invert whether show or hide this	Odwróć ustawienia pokazywania lub ukrywania motywu
+Theme on Aa drop-down menu	Motyw w rozwijalnym menu Aa
+Spacing	Odstęp
+Margins	Marginesy
+Orientation	Orientacja
+Alignment	Wyrównanie tekstu
+READING	CZYTANIE
+Reading Progress	Wskaźnik postępu czytania
+Enter Password	Podaj hasło
+There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Brak pamięci, aby dodać lub edytować notatki. Usuń zawartość, aby zwolnić pamięć.
+PAGE DISPLAY 	USTAWIENIA STRONY 
+right aligned	wyrównanie do prawej
+reading progress options	ustawienia postępu czytania
+Custom: 	Własna: 
+You have not yet picked from your Customised Sideloaded Fonts	Nie wybrałeś jeszcze swoich własnych czcionek
+Your current Customised Sideloaded Font choice is 	Aktualną własną czcionką jest 
+Go to your Customised Sideloaded Fonts Menu	Idź do menu własnych czcionek
+Custom Fonts ({0})	Własne czcionki ({0})
+Bold	Grubość
+Bold Control Slider use plus and minus buttons	Zmień grubość czcionki używając przycisków plus i minus
+Size	Rozmiar
+Size Control Slider use plus and minus buttons	Zmień rozmiar czcionki używając przycisków plus i minus
+Increase boldness now 	Zwiększ grubość teraz 
+Increase size now 	Zwiększ rozmiar teraz 
+ of 	 z 
+Decrease boldness now 	Zmniejsz grubość teraz 
+Decrease size now 	Zmniejsz rozmiar teraz 
+Increase Contrast now	Zwiększ kontrast teraz
+Decrease Contrast now	Zmniejsz kontrast teraz
+Contrast Control Slider uses plus and minus buttons	Zmień kontrast używając przycisków plus i minus
+Show Clock While Reading	Pokaż zegar podczas czytania
+Font Menu Drop-Down Dialog	Rozwijalne menu wyboru czcionki

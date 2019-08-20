@@ -1,1 +1,2 @@
-Volume	Volume
+Volume	Głośność
+{0, select, 1 {{0} - Quietest} 8 {{0} - Loudest} other{{0}}}	{0, select, 1 {{0} - Najciszej} 8 {{0} - Najgłośniej} other{{0}}}

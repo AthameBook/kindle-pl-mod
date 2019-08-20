@@ -2,9 +2,9 @@ Add All Items on This Page	Dodaj wszystkie pozycje z tej strony
 Author	Według autora
 Close	Zamknij
 Collection	Według kolekcji
-Date	Data
+Date	Według daty
 Exit FreeTime	Opuść FreeTime
-Exit Kindle for Kids	Zamknij Kindle dla Dzieci
+Exit Kindle for Kids	Zamknij Kindle for Kids
 Experimental	Funkcje eksperymentalne
 Feature under development	Funkcjonalność w trakcie tworzenia
 Member Count	Według liczby pozycji
@@ -19,3 +19,10 @@ Sync My Kindle	Synchronizuj
 Title	Według tytułu
 Vocabulary Builder	Powtarzanie słówek
 Web Browser	Przeglądarka internetowa
+Sync Your Kindle	Synchronizuj
+Exit {0}	Wyjście {0}
+Your Library	Twoja biblioteka
+Your Reading Lists	Lista czytanych książek
+Date (Reverse)	Według daty (wstecz)
+Series Order	Kolejność serii
+Series Order (Reverse)	Kolejność serii (wstecz)

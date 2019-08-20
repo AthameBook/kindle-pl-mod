@@ -1,0 +1,513 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: webkit HEAD\n"
+"Report-Msgid-Bugs-To: http://bugs.webkit.org/\n"
+"POT-Creation-Date: 2010-02-25 15:53-0300\n"
+"PO-Revision-Date: 2009-07-14 02:01+0100\n"
+"Last-Translator: Bruce Cowan <bcowan@fastmail.co.uk>\n"
+"Language-Team: British English <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " files"
+msgstr " pliki"
+
+msgid "(None)"
+msgstr "(Brak)"
+
+msgid "A bitmask representing the state of the modifier keys"
+msgstr "Maska bitowa reprezentująca stan klawiszy modyfikujących"
+
+msgid "A username and password are being requested by the site %s"
+msgstr "Żądanie podania nazwy użytkownika i hasła wysłane przez stronę %s"
+
+msgid "Alternate Title"
+msgstr "Alternatywny tytuł"
+
+msgid "An associated WebKitWebSettings instance"
+msgstr "Powiązana instancja WebKitWebSettings"
+
+msgid "Auto Load Images"
+msgstr "Automatyczne ładowanie obrazków"
+
+msgid "Auto Shrink Images"
+msgstr "Automatyczne zmniejszanie obrazków"
+
+msgid "Automatically shrink standalone images to fit."
+msgstr ""
+"Automatycznie zmniejszanie wielkości obrazów, aby zmieściły się na ekranie."
+
+msgid "Button"
+msgstr "Przycisk"
+
+msgid "Check Spelling While _Typing"
+msgstr "_Sprawdzanie pisowni w trakcie pisania"
+
+msgid "Check _Grammar With Spelling"
+msgstr "Sprawdzanie _gramatyki w trakcie pisania"
+
+msgid "Choose File"
+msgstr "Wybierz plik"
+
+msgid "Cop_y Image"
+msgstr "Ko_piuj obrazek"
+
+msgid "Copy Link Loc_ation"
+msgstr "_Kopiuj adres lokacji"
+
+msgid "Copy target list"
+msgstr "Lista celów kopiowania"
+
+msgid "Current Size"
+msgstr "Obecny rozmiar"
+
+msgid "Cursive Font Family"
+msgstr "Zestaw czcionek pochyłych"
+
+msgid "Custom Encoding"
+msgstr "Niestandardowe kodowanie"
+
+msgid "Default Encoding"
+msgstr "Domyślne kodowanie"
+
+msgid "Default Font Family"
+msgstr "Domyślny zestaw czcionek"
+
+msgid "Default Font Size"
+msgstr "Domyślny rozmiar czcionki"
+
+msgid "Default Monospace Font Size"
+msgstr "Domyślny rozmiar czcionki z ustaloną szerokością"
+
+msgid "Destination URI"
+msgstr "Docelowy adres URI"
+
+msgid "Determines the current progress of the download"
+msgstr "Informacje o bieżącym postępie pobierania"
+
+msgid "Determines the current status of the download"
+msgstr "Informacje o bieżącym stanie pobierania"
+
+msgid "Editable"
+msgstr "Edytowalne"
+
+msgid "Enable Developer Extras"
+msgstr "Włącz dodatki dla deweloperów"
+
+msgid "Enable JavaScript profiling"
+msgstr "Włącz profilowanie języka JavaScript"
+
+msgid "Enable Plugins"
+msgstr "Włącz wtyczki"
+
+msgid "Enable Private Browsing"
+msgstr "Włącz przegladanie prywatne"
+
+msgid "Enable Scripts"
+msgstr "Włącz skrypty"
+
+msgid "Enable embedded plugin objects."
+msgstr "Włącz osadzanie wtyczek."
+
+msgid "Enable embedded scripting languages."
+msgstr "Włącz osadzanie języka skryptowego."
+
+msgid "Enables private browsing mode"
+msgstr "Wł. tryb prywatnego przeglądania stron"
+
+msgid "Enables special extensions that help developers"
+msgstr "Wł. specjalne dodatki, które wspomagają deweloperów"
+
+msgid "Encoding"
+msgstr "Kodowanie"
+
+msgid "Enforce 96 DPI"
+msgstr "Wymuś 96 DPI"
+
+msgid "Enforce a resolution of 96 DPI"
+msgstr "Wymuś rozdzielczość 96 DPI"
+
+msgid "Fantasy Font Family"
+msgstr "Zestaw czcionek Fantasy"
+
+msgid "Full content zoom"
+msgstr "Zmiana rozmiaru całej zawartości"
+
+msgid "Ignore _Grammar"
+msgstr "Ignoruj _gramatykę"
+
+msgid "Input _Methods"
+msgstr "Metody _wprowadzania"
+
+msgid "Inspect _Element"
+msgstr "Sprawdź _pozycję"
+
+msgid "Inspected URI"
+msgstr "Sprawdzony adres URI"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "LRE - _osadzanie od lewej do prawej"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM - znak od l_ewej do prawej"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO - _nadpisywanie od lewej do prawej"
+
+msgid "Last visited Time"
+msgstr "Czas ostatniej wizyty"
+
+msgid "Load images automatically."
+msgstr "Automatyczne ładowanie obrazków."
+
+msgid "Minimum Font Size"
+msgstr "Minimalny rozmiar czcionki"
+
+msgid "Minimum Logical Font Size"
+msgstr "Minimalny logiczny rozmiar czcionki"
+
+msgid "Modifier state"
+msgstr "Stan modyfikatora"
+
+msgid "Monospace Font Family"
+msgstr "Zestaw czcionek ze stałą szerokością"
+
+msgid "Name"
+msgstr "Nazwa"
+
+msgid "Network Request"
+msgstr "Żądanie z sieci"
+
+msgid "No Guesses Found"
+msgstr "Nie znaleziono żadnych sugestii"
+
+msgid "No recent searches"
+msgstr "Brak wcześniejszych wyników wyszukiwania"
+
+msgid "Open Link in New _Window"
+msgstr "Otwórz skrót w nowym _oknie"
+
+msgid "Open _Frame in New Window"
+msgstr "Otwórz _ramkę w nowym oknie"
+
+msgid "Open _Image in New Window"
+msgstr "Otwórz o_brazek w nowym oknie"
+
+msgid "Original URI"
+msgstr "Oryginalny adres URI"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF _znak formatowania kierunku tekstu"
+
+msgid "Password:"
+msgstr "Hasło:"
+
+msgid "Paste target list"
+msgstr "Lista docelowa wklejania"
+
+msgid "Print Backgrounds"
+msgstr "Drukuj tło"
+
+msgid "Profile the executed JavaScript."
+msgstr "Profil uruchamiania skryptów JavaScript."
+
+msgid "Progress"
+msgstr "Postęp"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "RLE - o_sadzanie od prawej do lewej"
+
+msgid "RLM _Right-to-left mark"
+msgstr "RLM - znak od p_rawej do lewej"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "RLO - na_dpisywanie od prawej do lewej"
+
+msgid "Reason"
+msgstr "Powód"
+
+msgid "Recent searches"
+msgstr "Najnowsze wyniki wyszukiwania"
+
+msgid "Reset"
+msgstr "Resetuj"
+
+msgid "Resizable Text Areas"
+msgstr "Pole tekstowe o zmiennym rozmiarze"
+
+msgid "Returns the @web_view's document title"
+msgstr "Zwraca tytuł dokumentu @web_view"
+
+msgid "Returns the current URI of the contents displayed by the @web_view"
+msgstr "Zwraca aktualny adres URI zawartości wyświetlanej przez @web_view"
+
+msgid "Sa_ve Image As"
+msgstr "_Zapisz obrazek jako"
+
+msgid "Sans Serif Font Family"
+msgstr "Zestaw czcionek Sans Serif"
+
+msgid "Serif Font Family"
+msgstr "Zestaw czcionek Serif"
+
+msgid "Settings"
+msgstr "Ustawienia"
+
+msgid "Spelling and _Grammar"
+msgstr "Sprawdzanie pisowni i _gramatyki"
+
+msgid "Status"
+msgstr "Stan"
+
+msgid "Submit"
+msgstr "Zatwierdź"
+
+msgid "Suggested Filename"
+msgstr "Proponowana nazwa pliku"
+
+msgid "The URI of a stylesheet that is applied to every page."
+msgstr "Adres URI arkusza stylów, który będzie zastosowany do każdej strony."
+
+msgid "The URI of the history item"
+msgstr "Adres URI elementu historii"
+
+msgid "The URI that is currently being inspected"
+msgstr "Adres URI, który jest obecnie sprawdzany"
+
+msgid "The URI that was requested as the target for the navigation"
+msgstr "Adres URI, który jest żądany jako cel nawigacji"
+
+msgid "The Web View that renders the Web Inspector itself"
+msgstr "Widok strony internetowej renderowany przez kontroler WWW"
+
+msgid "The alternate title of the history item"
+msgstr "Alternatywny tytuł elementu historii"
+
+msgid "The associated WebKitWebInspector instance"
+msgstr "Powiązana instancja WebKitWebInspector"
+
+msgid "The button used to click"
+msgstr "Przycisk używany do klikania"
+
+msgid "The current URI of the contents displayed by the frame"
+msgstr "Aktualny adres URI zawartości wyświetlanej w ramce"
+
+msgid "The custom encoding of the web view"
+msgstr "Niestandardowe kodowanie widoku strony internetowej"
+
+msgid "The default Cursive font family used to display text."
+msgstr "Domyślny zestaw czcionek pochyłych używany do wyświetlania tekstu."
+
+msgid "The default Fantasy font family used to display text."
+msgstr "Domyślny zestaw czcionek Fantasy używany do wyświetlania tekstu."
+
+msgid "The default Sans Serif font family used to display text."
+msgstr "Domyślny zestaw czcionek Sans Serif używany do wyświetlania tekstu."
+
+msgid "The default Serif font family used to display text."
+msgstr "Domyślny zestaw czcionek Serif używany do wyświetlania tekstu."
+
+msgid "The default encoding of the web view"
+msgstr "Domyślne kodowanie widoku strony internetowej"
+
+msgid "The default encoding used to display text."
+msgstr "Domyślne kodowanie tekstu używane do wyświetlania tekstu."
+
+msgid "The default font family used to display monospace text."
+msgstr ""
+"Domyślny zestaw czcionek używany do wyświetlania tekstu o stałej szerokości."
+
+msgid "The default font family used to display text."
+msgstr "Domyślny zestaw czcionek używany do wyświetlania tekstu.."
+
+msgid "The default font size used to display monospace text."
+msgstr ""
+"Domyślny rozmiar czcionki używany do wyświetlania tekstu o stałej szerokości."
+
+msgid "The default font size used to display text."
+msgstr "Domyślny rozmiar czcionki używany do wyświetlania tekstu."
+
+msgid "The destination URI where to save the file"
+msgstr "Docelowy adres URI, gdzie należy zapisać plik"
+
+msgid "The document title of the frame"
+msgstr "Tytuł dokumentu w ramce"
+
+msgid "The filename suggested as default when saving"
+msgstr "Domyślna nazwa pliku sugerowana przed zapisem"
+
+msgid "The length of the data already downloaded"
+msgstr "Rozmiar pobranych danych"
+
+msgid "The level of zoom of the content"
+msgstr "Poziom powiększenia zawartości"
+
+msgid "The list of targets this web view supports for clipboard copying"
+msgstr ""
+"Lista celów, dla których widok strony internetowej wspiera kopiowanie do "
+"schowka"
+
+msgid "The list of targets this web view supports for clipboard pasting"
+msgstr ""
+"Lista celów, dla których widok strony internetowej wspiera wklejanie ze "
+"schowka"
+
+msgid "The minimum font size used to display text."
+msgstr "Minimalny rozmiar czcionki używany do wyświetlania tekstu."
+
+msgid "The minimum logical font size used to display text."
+msgstr "Minimalny logiczny rozmiar czcionki używany do wyświetlania tekstu."
+
+msgid "The name of the frame"
+msgstr "Nazwa ramki"
+
+msgid "The network request for the URI that should be downloaded"
+msgstr "Żądanie sieciowe dla adresu URI, który ma być pobierany"
+
+msgid "The original URI of the history item"
+msgstr "Oryginalny adres URI elementu historii"
+
+msgid "The reason why this navigation is occurring"
+msgstr "Powód dla którego wystąpiła ta nawigacja"
+
+msgid "The time at which the history item was last visited"
+msgstr "Czas ostatniej wizyty w elemencie historii"
+
+msgid "The title of the history item"
+msgstr "Tytuł elementu historii"
+
+msgid "The total size of the file"
+msgstr "Całkowity rozmiar pliku"
+
+msgid "The value by which the zoom level is changed when zooming in or out."
+msgstr "Wartość, o którą zmienia się poziom powiększenia lub pomniejszenia."
+
+msgid "Title"
+msgstr "Tytuł"
+
+msgid "Total Size"
+msgstr "Całkowity rozmiar"
+
+msgid "Transparent"
+msgstr "Przeźroczysty"
+
+msgid "URI"
+msgstr "Adres URI"
+
+msgid "Unknown"
+msgstr "Nieznany"
+
+msgid "Upload File"
+msgstr "Ładowanie pliku"
+
+msgid "User Stylesheet URI"
+msgstr "Adres URI arkusza stylów użytkownika"
+
+msgid "User cancelled the download"
+msgstr "Użytkownik przerwał pobieranie"
+
+msgid "Username:"
+msgstr "Nazwa użytkownika:"
+
+msgid "Web Inspector"
+msgstr "Kontroler strony internetowej"
+
+msgid "Web View"
+msgstr "Widok strony internetowej"
+
+msgid "Whether background images should be printed."
+msgstr "Czy obrazki tła powinny być drukowane."
+
+msgid "Whether content can be modified by the user"
+msgstr "Czy zawartość może być zmieniana przez użytkownika"
+
+msgid "Whether content has a transparent background"
+msgstr "Czy zawartość ma przeźroczyste tło"
+
+msgid "Whether text areas are resizable."
+msgstr "Czy pola tekstowe mają zmienny rozmiar."
+
+msgid "Whether the full content is scaled when zooming"
+msgstr "Czy cała zawartość jest skalowana przy powiększaniu"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ - _spójnik zerowej szerokości"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "ZWNJ - rozłącznik z_erowej szerokości"
+
+msgid "ZWS _Zero width space"
+msgstr "ZWS - spacja _zerowej szerokości"
+
+msgid "Zoom Stepping Value"
+msgstr "Wartość kroku powiększenia"
+
+msgid "Zoom level"
+msgstr "Poziom powiększenia"
+
+msgid "_Check Document Now"
+msgstr "_Sprawdź dokument"
+
+msgid "_Clear recent searches"
+msgstr "_Wyczyść poprzednie wyniki wyszukiwania"
+
+msgid "_Download Linked File"
+msgstr "_Pobierz powiązany plik"
+
+msgid "_Font"
+msgstr "_Czcionka"
+
+msgid "_Hide Spelling and Grammar"
+msgstr "_Ukryj sprawdzanie pisowni i gramatyki"
+
+msgid "_Ignore Spelling"
+msgstr "_Ignoruj sprawdzanie pisowni"
+
+msgid "_Insert Unicode Control Character"
+msgstr "Ws_taw kontrolny znak Unicode"
+
+msgid "_Learn Spelling"
+msgstr "_Ucz się sprawdzania pisowni"
+
+msgid "_Look Up in Dictionary"
+msgstr "_Sprawdź w słowníku"
+
+msgid "_Open Link"
+msgstr "_Otwórz skrót"
+
+msgid "_Outline"
+msgstr "K_ontury"
+
+msgid "_Reload"
+msgstr "_Przeładuj"
+
+msgid "_Search the Web"
+msgstr "_Wyszukaj w sieci Web"
+
+msgid "_Show Spelling and Grammar"
+msgstr "_Pokaż sprawdzanie pisowni i gramatyki"
+
+msgid "activate"
+msgstr "aktywuj"
+
+msgid "check"
+msgstr "zaznacz"
+
+msgid "definition"
+msgstr "definicja"
+
+msgid "jump"
+msgstr "przeskocz"
+
+msgid "press"
+msgstr "naciśnij"
+
+msgid "select"
+msgstr "wybierz"
+
+msgid "term"
+msgstr "termin"
+
+msgid "uncheck"
+msgstr "odznacz"

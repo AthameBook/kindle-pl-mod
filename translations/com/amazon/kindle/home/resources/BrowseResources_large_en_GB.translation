@@ -1,0 +1,16 @@
+Your Library	Twoja biblioteka
+{1, select, 0 {{0}} 1 {{0} {1, number, integer} item} other {{0} {1, number, integer} items}}	{1, select, 0 {{0}} 1 {{0} {1, number, integer} pozycja} other {{0} {1, number, integer} pozycji}}
+Your Reading Lists	Listy czytanych książek
+Kindle Store 	Sklep Kindle 
+Abonnement Kindle 	Abonament Kindle 
+See What Your Friends Are Reading 	Zobacz co czytają Twoi znajomi 
+All Items	Wszystkie pozycje
+Books	Książki
+Comics	Komiksy
+Periodicals	Czasopisma
+Audible	Audio
+Docs	Dokumenty
+Active Content	Aktywna zawartość
+Collections	Kolekcje
+Your Items	Twoje pozycje
+Shared Items	Udostępnione pozycje

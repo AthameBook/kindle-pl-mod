@@ -1,0 +1,17 @@
+msgid "blanket.font.name"
+msgstr "dialog"
+
+msgid "qboot.resume.dtcp.msg"
+msgstr "WYBUDZANIE..."
+
+msgid "qboot.resume.dtcp.msg.bgcolorpattern"
+msgstr "0.0,0.0,0.0"
+
+msgid "qboot.resume.dtcp.msg.fontsize"
+msgstr "10"
+
+msgid "qboot.resume.dtcp.msg.rect"
+msgstr "0.0,0.0,257.5,26.88"
+
+msgid "qboot.resume.dtcp.msg.textcolorpattern"
+msgstr "1.0,1.0,1.0"

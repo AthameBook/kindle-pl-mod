@@ -25,12 +25,12 @@ Firmware Version: 	Wersja oprogramowania:
 First Name	Imię
 Gender	Płeć
 Hide Password	Ukryj hasło
-<html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB free}{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>	<html><b>MAC adres karty Wi-Fi:</b>&nbsp;{1}<br/><b>Numer seryjny:</b>&nbsp;{2}<br/><b>Rodzaj sieci:</b>&nbsp;{3}<br/><b>Wersja oprogramowania:</b>&nbsp;{4}<br/><b>Wolne miejsce:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB}{5,select, 0 {} 1 {<br/><b>ID polisy:</b>&nbsp;{6}} other{}}</html>
+<html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB free}{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>	<html><b>Adres MAC karty Wi-Fi:</b>&nbsp;{1}<br/><b>Numer seryjny:</b>&nbsp;{2}<br/><b>Rodzaj sieci:</b>&nbsp;{3}<br/><b>Wersja oprogramowania:</b>&nbsp;{4}<br/><b>Wolne miejsce:</b>&nbsp;{0,choice, -1#Unknown|0#{0,number,integer} MB}{5,select, 0 {} 1 {<br/><b>ID polisy:</b>&nbsp;{6}} other{}}</html>
 Incorrect password. Please try again	Nieprawidłowe hasło. Spróbuj ponownie
 Join Household	Dołącz do Rodziny.
 Language	Język
 Login ID	ID logowania
-Network Capability: 	Możliwości sieciowe: 
+Network Capability: 	Rodzaj sieci: 
 Password	Hasło
 Personalise your Kindle by giving it a name that appears on the Home screen.	Spersonalizuj swojego Kindle nadając mu nazwę, która pojawi się na ekranie głównym.
 Please log in to Goodreads.com and unlink your Facebook account under "Edit Profile > apps"	Zaloguj się w Goodreads.com i odłącz swoje konto w serwisie Facebook pod „Ustawienia > Aplikacje”
@@ -57,7 +57,7 @@ We are unable to delete the Wi-Fi passwords from this device. Please try again l
 WHAT'S NEW	CO NOWEGO
 Whispersync for Books uses data from this device to keep your Kindle apps in sync, back up your annotations and provide other features. If you turn off Whispersync for this device, this device will not send such usage data to Amazon's servers and some features will be unavailable to you, including syncing your reading location from this device across other devices.	Whispersync for Books wykorzystuje dane z tego czytnika, aby utrzymać synchronizację aplikacji Kindle, kopię zapasową adnotacji i zapewnić inne funkcje. Jeśli wyłączysz Whispersync dla tego urządzenia, to czytnik nie będzie wysyłać tych danych na serwery Amazon i niektóre funkcje nie będą dostępne dla Ciebie, w tym synchronizacja ostatnio czytanej strony z tego czytnika przez inne urządzenia.
 Whispersync for Books	Whispersync for Books
-Wi-Fi MAC Address: 	Adres MAC Wi-Fi: 
+Wi-Fi MAC Address: 	Adres MAC karty Wi-Fi: 
 Your Amazon account will no longer be linked with your Facebook account.	Twoje konto Amazon nie będzie dłużej połączone z kontem z Facebooka.
 Your Amazon account will no longer be linked with your Twitter account.	Twoje konto Amazon nie będzie dłużej połączone z kontem z Twittera.
 Your Amazon account will no longer be linked with your Weibo account.	Twoje konto Amazon nie będzie dłużej połączone z kontem Weibo.
@@ -65,3 +65,30 @@ Your Kindle is currently unable to connect. Please make sure you are within wire
 Your Kindle will be deregistered from your Amazon account, some features will not work, and some settings may not be saved. After deregistering, you can register your Kindle to another Amazon account.~~~~Are you sure you want to deregister?	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon, niektóre funkcje przestaną działać, a pewne ustawienia mogą nie być zapisane. Po wyrejestrowaniu można zarejestrować Kindle na innym koncie Amazon.~~~~Czy na pewno chcesz wyrejestrować?
 Your Kindle will be deregistered from your Amazon account, some features will not work and some settings may not be saved. After deregistering, you can register your Kindle to another Amazon account.~~~~Are you sure you want to deregister?	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon, niektóre funkcje przestaną działać, a pewne ustawienia mogą nie być zapisane. Po wyrejestrowaniu można zarejestrować Kindle na innym koncie Amazon.~~~~Czy na pewno chcesz wyrejestrować?
 Your Kindle will be deregistered from your Amazon account. This will remove all content from the device and many features will not work. Items you purchased from an Amazon store will remain available in the Cloud and can be downloaded again. After deregistering, you can register your Kindle to another Amazon account.~~~~Are you sure you want to deregister?	Twój Kindle zostanie wyrejestrowany z Twojego konta Amazon. Spowoduje to usunięcie całej zawartości z czytnika, niektóre funkcje przestaną działać. Pozycje zakupione w sklepie Amazona pozostaną dostępne w Chmurze i możesz je pobrać ponownie. Po wyrejestrowaniu, możesz zarejestrować Kindle na innym koncie Amazon.~~~~Czy na pewno chcesz wyrejestrować?
+E-mail or Phone Number	E-mail lub numer telefonu
+For additional account security, please visit the Amazon website below on your mobile phone, tablet or computer and sign in.	W celu dodatkowego zabezpieczenia konta odwiedź stronę internetową Amazon i zaloguj się na niej.
+<html>For additional account security, please visit the Amazon website below on your mobile phone, tablet or computer and sign in.<br/>&nbsp;<br/>www.amazon.com/code<br/>&nbsp;<br/>{0}<br/>&nbsp;<br/>To get the code, go to the next page. </html>	<html>W celu dodatkowego zabezpieczenia konta odwiedź stronę internetową Amazon i zaloguj się na niej.<br/>&nbsp;<br/>www.amazon.com/code<br/>&nbsp;<br/>{0}<br/>&nbsp;<br/>Przejdź do następnej strony, aby pobrać kod. </html>
+To get the code, go to the next page.	Aby pobrać kod, przejdź do następnej strony.
+Enter this verification code on the Amazon website to register this Kindle. The code will be valid for 10 minutes.	Wpisz ten kod weryfikacyjny na stronie internetowej Amazon, aby zarejestrować swojego Kindle. Kod będzie ważny przez 10 minut.
+For help, please contact Kindle Customer Service at www.amazon.com/devicesupport.	W celu uzyskania pomocy skontaktuj się z centrum obsługi klienta Kindle na stronie www.amazon.com/devicesupport.
+Verify Account	Zweryfikuj konto
+NEXT	DALEJ
+BACK	WSTECZ
+NEXT	DALEJ
+BACK	WSTECZ
+ Get New Code	 Pobierz nowy kod
+The information you entered does not match an Amazon account. Please try again.\n\nFor help please contact Kindle Customer Service at amazon.com/devicesupport.	Wprowadzone dane nie są zgodne z kontem Amazon. Spróbuj ponownie.\n\nW celu uzyskania pomocy skontaktuj się z centrum obsługi klienta Kindle na stronie amazon.com/devicesupport.
+<html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0} free{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>	<html><b>Adres MAC karty Wi-Fi:</b>&nbsp;{1}<br/><b>Numer seryjny:</b>&nbsp;{2}<br/><b>Rodzaj sieci:</b>&nbsp;{3}<br/><b>Wersja oprogramowania:</b>&nbsp;{4}<br/><b>Wolne miejsce:</b>&nbsp;{0} wolne{5,select, 0 {} 1 {<br/><b>Policy ID:</b>&nbsp;{6}} other{}}</html>
+Wi-Fi + 3G (4G LTE in US)	Wi-Fi + 3G (4G LTE w US)
+Wi-Fi + LTE (where available) + 3G	Wi-Fi + LTE (o ile występuje) + 3G
+WHATʼS NEW	CO NOWEGO
+Power Saver	Oszczędzanie energii
+Power Saver is a low-power sleep mode for when this Kindle is not in use. Disabling Power Saver makes your Kindle turn on faster for every reading session, but you will need to charge more frequently.	W trybie oszczędzania energii Twój Kindle będzie wolniej się uruchamiał, ale bateria będzie dłużej działa, bez konieczności ładowania.
+Whispersync for Books uses data from this device to keep your Kindle apps in sync, back up your annotations and provide other features. If you turn off Whispersync for this device, this device will not send such usage data to Amazonʼs servers and some features will be unavailable to you, including syncing your reading location from this device across other devices.	Whispersync for Books wykorzystuje dane z tego urządzenia do synchronizacji aplikacji Kindle, tworzenia kopii zapasowych adnotacji i udostępniania innych funkcji. Jeśli wyłączysz Whispersync dla tego urządzenia, to niektóre funkcje (w tym synchronizacja ostatnio czytanej strony na innych urządzeniach) będą niedostępne.
+Privacy	Prywatność
+Learn More	Dowiedz się więcej
+An error occurred while trying to connect to the server. Please check your Internet connection or try again later.\n\nIf the problem persists, please contact Kindle Customer Service at www.amazon.com/devicesupport.	Wystąpił problem podczas połączenia z serwerem. Sprawdź połaczenie z internetem i spróbuj ponownie.\n\nJeśli problem będzie się powtarzał, to skontaktuj się z centrum obsługi klienta Kindle na stronie www.amazon.com/devicesupport.
+{0} free	{0} wolne
+An error occurred while trying to connect to the server. Please check your Internet connection or try again later.~~~~If the problem persists, please contact Kindle Customer Service at www.amazon.com/devicesupport.	Wystąpił problem podczas połączenia z serwerem. Sprawdź połaczenie z internetem i spróbuj ponownie.~~~~Jeśli problem będzie się powtarzał, to skontaktuj się z centrum obsługi klienta Kindle na stronie www.amazon.com/devicesupport.
+The information you entered does not match an Amazon account. Please try again.~~~~For help please contact Kindle Customer Service at amazon.com/devicesupport.	Wprowadzone dane nie są zgodne z kontem Amazon. Spróbuj ponownie.~~~~W celu uzyskania pomocy skontaktuj się z centrum obsługi klienta Kindle na stronie amazon.com/devicesupport.
+We use data about your use of this device to provide customised marketing offers you might enjoy and to improve our products and services for all users. You can opt out of allowing us to use personal data collected by the operating system of this device for these purposes by disabling this setting. Disabling this setting will not affect: (1) your ability to use the features of this device, as we will continue to collect and process your data to deliver those features to you; or (2) whether you receive marketing offers, though those offers may be less relevant to you.	Dane na temat korzystania z tego urządzenia są wykorzystywane w celu przygotowania spersonalizowanych ofert marketingowych oraz do ulepszania naszych produktów i usług. Możesz zablokować wykorzystywanie danych zebranych przez system operacyjny tego urządzenia, wyłączając to ustawienie. Po wyłączeniu nadal będziesz otrzymywał oferty marketingowe, ale mogą być one dla Ciebie mniej interesujące.

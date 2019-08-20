@@ -1,2 +1,7 @@
 Exit	Wyjście
 Verify Demo	Weryfikuj Demo
+Demo content MD5 matches	Zgodność MD5 zawartości demo
+Demo content image present	Obraz zawartości demo
+Demo manifest (demo.json) present	Manifest demo (demo.json)
+Loading...	Ładowanie...
+Never	Nigdy

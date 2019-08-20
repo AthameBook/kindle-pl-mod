@@ -5,14 +5,20 @@
 {0,plural,=0 {No pages} one {{0,number,integer} page} other {{0,number,integer} pages}}	{0,plural,=0 {Brak stron} one {{0,number,integer} strona} other {Stron: {0,number,integer}}}
 About This Book	O książce
 An error occurred, please try again.	Wystąpił błąd, spróbuj ponownie później.
+An error occurred while posting your rating. Please try again.	W trakcie wysyłania Twojej oceny wystąpił błąd. Spróbuj ponownie później.
+An error occurred while updating your Goodreads profile. Please link to your Goodreads account in Kindle Settings.	Podczas aktualizacji Twojego profilu Goodreads wystąpił błąd. Zweryfikuj dane konta Goodreads w ustawieniach Kindle.
+An error occurred while updating your Goodreads profile. Please try again or visit the Goodreads website or app to make this change.	Podczas aktualizacji Twojego profilu Goodreads wystąpił błąd. Spróbuj ponownie później lub wprowadź zmiany na stronie internetowej Goodreads.
+Are you sure?	Czy jesteś pewien?
 Author biography	Biografia autora
 Before You Go...	Zanim pójdziesz...
 Book Description	Opis książki
 Buy for {0}	Kup {0}
 Buy Now	Kup teraz
 Cancel	Anuluj
+CANCEL	ANULUJ
 Do you find this feature useful?	Czy uważasz, że ta funkcja jest przydatna?
 Enjoyed this Sample?	Zadowolony z próbki?
+Error Updating Profile	Błąd aktualizacji profilu
 Following	Obserwowani
 Follow	Obserwuj
 Get e-mails about new releases by this author	Informuj mnie e-mailem o nowych pozycjach tego autora
@@ -20,6 +26,7 @@ Get e-mails about new releases from {0}	Informuj mnie e-mailem o nowych pozycjac
 Get new release updates, improved recommendations, and more coming soon	Otrzymuj nowe pozycje, ulepszone rekomendacje, a wkrótce więcej
 Kindle Customer	Klient
 Mark as Currently Reading	Oznacz jako „Teraz czytam”
+Moving this book will remove it from its current custom shelf. Are you sure you want to remove this?	Przeniesienie książki usunie ją z dotychczasowej półki. Czy jesteś pewien, że chcesz to zrobić?
 No	Nie
 Please note that we are unable to respond directly to feedback submitted via this form	Proszę pamiętać, że nie będziemy w stanie odpowiedzieć na opinię przekazaną za pośrednictwem tego formularza
 Post on Amazon (as {0}) and Goodreads	Wyślij do Amazon (jako {0}) i Goodreads
@@ -30,6 +37,9 @@ Processing	Przetwarzanie
 Processing...	Przetwarzanie...
 Rate this Book	Oceń tę książkę
 Rated {0,number,0.#} out of {1,number,integer} stars	Oceniono na {0,number,0.#} z {1,number,integer} gwiazdek
+Rating Error	Błąd w trakcie oceniania
+REMOVE	USUŃ
+Removing a book deletes all activity for that book (likes, comments, ratings, reviews, quotes, etc.) from your Goodreads profile.	Usunięcie książki spowoduje również usunięcie z Twojego profilu Goodreads wszystkich aktywności, które są z nią związane (polubień, komentarzy, ocen, recenzji, cytatów itp.)
 Re-subscribe	Włącz subskrybcję
 See in store	Zobacz w sklepie
 See in Store	Zobacz w sklepie
@@ -44,10 +54,37 @@ Subscribing...	Włączanie subskrybcji...
 Unsubscribe	Wyłącz subskrybcję
 Update on Amazon (as {0}) and Goodreads	Aktualizuj w Amazon (jako {0}) i Goodreads
 Update on Amazon (as {0})	Aktualizuj w Amazon (jako {0})
+UPDATE	AKTUALIZUJ
 Updated on Amazon (as {0}) and Goodreads	Aktualizowane w Amazon (jako {0}) i Goodreads
 Updated on Amazon (as {0})	Aktualizowane w Amazon (jako {0})
+Updating Your Profile...	Aktualizacja Twojego profilu...
+Updating...	Aktualizacja...
 Yes	Tak
+YES	TAK
 You are no longer subscribed to e-mails.	Subskrybcja została wyłączona.
 You are subscribed to new release e-mails from {0}	Subskrybcja {0} została włączona
 Your Rating on Amazon	Twoja ocena z Amazon
 Your Rating	Twoja ocena
+Moving this book will remove it from its current customised shelf. Are you sure you want to remove this?	Przeniesienie książki usunie ją z dotychczasowej półki. Czy jesteś pewien, że chcesz to zrobić?
+Mark as Read on Goodreads	Oznacz książkę w Goodreads jako przeczytaną
+On my profile as:	Skorzystaj z mojego profilu:
+On my Goodreads profile as:	Skorzystaj z mojego profilu Goodreads:
+Toggle button on. Double-tap to toggle.	Włącz przełącznik. Stuknij dwukrotnie w ekran, aby przełączyć.
+Toggle button off. Double-tap to toggle.	Wyłącz przełącznik. Stuknij dwukrotnie w ekran, aby przełączyć.
+Auto-update on Goodreads	Automatyczna aktualizacja na Goodreads
+New! Automatically let your friends see the books you start reading. For books you want to keep private, just turn it off.	Nowość! Automatycznie pokazuj znajomym książki, które zaczniesz czytać. W przypadku książek, które chcesz zachować jako prywatne, wyłącz je.
+NOT NOW	NIE TERAZ
+New! Automatically let your friends and followers know youʼve finished.	Nowość! Automatycznie pokazuj znajomym i obserwującym książki, które skończyłeś czytać.
+Tip: 	Porada: 
+Reading is more fun with friends. Keep this on to let your friends and followers see the books you start reading.	Czytanie z przyjaciółmi daje więcej radości. Pozwól, aby Twoi znajomi i obserwujący zobaczyli książki, które zaczniesz czytać.
+Reading is more fun with friends. Turn this on to let your friends and followers see the books you start reading.	Czytanie z przyjaciółmi daje więcej radości. Włącz to, aby Twoi znajomi i obserwujący zobaczyli książki, które zaczniesz czytać.
+An error occurred earlier while updating your Goodreads profile for this book. Please try updating it again.	Wystąpił błąd podczas aktualizacji profilu Goodreads, spróbuj ponownie później.
+It looks like you’re offline. Ratings, reviews and reading activity will update when you are back online.	Wygląda na to, że jesteś offline. Oceny, recenzje i aktywności czytelnicze zostną aktualizowane po powrocie do trybu online.
+Want to Read	Chcę przeczytać
+Currently Reading	Teraz czytam
+Read	Przeczytana
+Not on Profile	Brak profilu
+Remove from Profile	Usuń z profilu
+Clear rating	Wyczyść ocenę
+Selected	Wybrany
+Not selected	Niewybrany

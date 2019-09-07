@@ -3,9 +3,12 @@ Limit Reached	Limit został osiągnięty
 Server Error	Błąd serwera
 The name you entered included characters that are not supported. Please enter the name again.	Nazwa, którą wprowadziłeś zawiera niedozwolone znaki. Proszę ponownie wprowadzić nazwę.
 Unsupported Characters	Niedozwolone znaki
-Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z FreeTime bez ograniczeń. Proszę spróbować później.
-We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z Kindle dla Dzieci bez ograniczeń. Proszę spróbować później.
-You have reached the limit of adult profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dla dorosłych dozwolony w Kindle dla Dzieci.
-You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dla dzieci dozwolony w Kindle dla Dzieci.
+Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z FreeTime Unlimited. Proszę spróbować później.
+We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z Kindle for Kids Unlimited. Proszę spróbować później.
+You have reached the limit of adult profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dla dorosłych dozwolony w Kindle for Kids.
+You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dla dzieci dozwolony w Kindle for Kids.
 You have reached the limit on the number of adult profiles allowed for FreeTime.	Osiągnąłeś limit liczby profili dla dorosłych dozwolony w Kindle FreeTime.
 You have reached the limit on the number of children who can register with FreeTime.	Osiągnąłeś limit liczby dzieci, które można zarejestrować w Kindle FreeTime.
+Weʼre sorry, there was an error with unsubscribing from {0}. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z {0}. Proszę spróbować później.
+You have reached the limit of adult profiles allowed for {0}.	Osiągnąłeś limit liczby profili dla dorosłych dozwolony w {0}.
+You have reached the limit of children allowed for {0}.	Osiągnąłeś limit liczby profili dla dzieci dozwolony w {0}.

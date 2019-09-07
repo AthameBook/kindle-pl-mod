@@ -23,3 +23,7 @@ Similar to "{0}"	Podobne do „{0}”
 Tell us about your favourite genres	Opowiedz nam o swoich ulubionych gatunkach
 Unselect All	Odznacz wszystkie
 Welcome to Goodreads, {0}!	Witamy w Goodreads, {0}!
+Are you sure youʼre done?	Czy jesteś pewien, że jesteś gotowy?
+Goodreads learns about your personal taste from your ratings and then generates unique recommendations that are just for you.~~You need to rate at least 10 books to get personalised recommendations. Youʼve rated {0,plural,=0 {no books} one {{0,number,integer} book} other {{0,number,integer} books} } so far.	Goodreads analizuje Twój gust na podstawie Twoich ocen, a następnie generuje unikalne rekomendacje, które są wybrane dla Ciebie.~~Potrzebujesz ocenić co najmniej 10 książek, aby uzyskać spersonalizowane rekomendacje. Jak dotąd {0,plural,=0 {nie oceniłeś żadnej książki} one {oceniłeś {0,number,integer} książkę} other {liczba ocenionych książek wynosi {0,number,integer}} }.
+Here are genres youʼve selected. Tap a selected genre to remove it or add more to get personalised recommendations.	Oto gatunki wybrane dla Ciebie. Dotknij wybrany gatunek, aby go usunąć, lub dodaj więcej, aby uzyskać spersonalizowane rekomendacje
+IʼM DONE	JESTEM GOTOWY

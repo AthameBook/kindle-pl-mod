@@ -6,9 +6,10 @@
 {0} {1, plural, =0 {({1, number, integer} books)} one {({1, number, integer} book)} other {({1, number, integer} books)} }	{0} {1, plural, =0 {({1, number, integer} książek)} one {({1, number, integer} książka)} other {(liczba książek: {1, number, integer})} }
  ({0,plural,=0{{1} books} one {{1} book} other {{1} books}})	 ({0,plural,=0{{1} książek} one {{1} książka} other {liczba książek: {1}}})
 Add books from your library that are great for children. Parents can set reading goals and track progress while children earn badges and awards for reading. <ul>Learn More</ul>	Dodaj książki ze swojej biblioteki, które nadają się dla dzieci. Rodzice mogą ustalać cele czytelnicze i śledzić postępy dzieci. Dzieci mogą zdobywać odznaki i nagrody za czytanie. <ul>Dowiedz się więcej</ul>
-Add books you own or upgrade to Kindle for Kids Unlimited to access hundreds of books and thousands of games, apps and movies on Fire tablets and Fire TV.	Dodaj własne książki lub aktualizuj do Kindle dla Dzieci bez ograniczeń, aby wybierać wśród setek książek i tysięcy gier, aplikacji i filmów na tabletach Fire oraz Fire TV.
-Add books you own or upgrade to Kindle FreeTime Unlimited to access hundreds of books and thousands of games, apps and movies on Fire tablets and Fire TV.	Dodaj własne książki lub aktualizuj do Kindle FreeTime bez ograniczeń, aby wybierać wśród setek książek i tysięcy gier, aplikacji i filmów na tabletach Fire oraz Fire TV.
+Add books you own or upgrade to Kindle for Kids Unlimited to access hundreds of books and thousands of games, apps and movies on Fire tablets and Fire TV.	Dodaj własne książki lub aktualizuj do Kindle for Kids Unlimited, aby wybierać wśród setek książek i tysięcy gier, aplikacji i filmów na tabletach Fire oraz Fire TV.
+Add books you own or upgrade to Kindle FreeTime Unlimited to access hundreds of books and thousands of games, apps and movies on Fire tablets and Fire TV.	Dodaj własne książki lub aktualizuj do Kindle FreeTime Unlimited, aby wybierać wśród setek książek i tysięcy gier, aplikacji i filmów na tabletach Fire oraz Fire TV.
 Add New Profile	Dodaj nowy profil
 Get started in 4 steps:	Rozpocznij w 4 krokach:
 GET STARTED	ROZPOCZNIJ
 Start	Rozpocznij
+Add books that you own or upgrade to {0} to access hundreds of books and thousands of games, apps and films on Fire tablets and Fire TV.	Dodaj posiadane książki lub uaktualnij do {0}, aby uzyskać dostęp do setek książek oraz tysięcy gier, aplikacji i filmów na tablety Fire i Fire TV.

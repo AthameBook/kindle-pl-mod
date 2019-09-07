@@ -2,7 +2,7 @@
 {0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {Liczba opanowanych słów: {0,number,integer}} one {Liczba opanowanych słów: {0,number,integer} word} other {Liczba opanowanych słów: {0,number,integer} words} }
 About Vocabulary Builder	O powtarzaniu słówek
 Add to Downloaded	Dodaj kolekcję na czytnik
-Add To Home	Pobierz na czytnik
+Add To Home	Dodaj do ekranu domowego
 Add/Remove Items	Dodaj/Usuń pozycje
 Date: 	Data: 
 Delete	Usuń
@@ -16,7 +16,7 @@ In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number
 Latest Issue: {0,date,short}	Najnowsze wydanie: {0,date,short}
 Learn more	Dowiedz się więcej
 Manage FreeTime Items	Zarządzaj pozycjami FreeTime
-Manage Kindle for Kids Items	Zarządzaj pozycjami Kindle dla Dzieci
+Manage Kindle for Kids Items	Zarządzaj pozycjami Kindle for Kids
 Narrator: 	Narrator: 
 Open Latest Issue	Otwórz najnowsze wydanie
 Remove All Back Issues	Usuń wszystkie archiwalne numery
@@ -25,8 +25,23 @@ Rename	Zmień nazwę kolekcji
 Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Razem wydań: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem pozycji: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Turn Off FreeTime	Wyłącz FreeTime
-Turn Off Kindle for Kids	Wyłącz Kindle dla Dzieci
+Turn Off Kindle for Kids	Wyłącz Kindle for Kids
 Turn Off Vocabulary Builder	Wyłącz funkcję powtarzania słówek
 Unknown	Nieznany
 View Achievements	Pokaż osiągnięcia
 View Back Issues	Zobacz archiwalne numery
+Add to Home	Dodaj do ekranu domowego
+Audiobook Description	Opis audiobooka
+Book Description	Opis książki
+Buy This Audiobook Now	Kup teraz ten audiobook
+Buy This Book Now	Kup teraz tą książkę
+Latest Item: {0,date,short}	Ostatnia pozycja: {0,date,short}
+Owned: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Własność: {0,plural,=0 {brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
+Remove from List	Usuń z listy
+See In Store	Sprawdź w sklepie
+Submit Series Feedback	Prześlij opinie o serii
+Total in series: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	razem w serii: {0,plural,=0 {brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
+Try a Sample	Sprawdź próbkę
+Turn off {0}	Wyłącz {0}
+View in Store	Zobacz w sklepie
+View on Goodreads	Zobacz w Goodreads

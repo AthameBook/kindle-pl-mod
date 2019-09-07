@@ -1,0 +1,2 @@
+msgid "dpm.default.contactinfo"
+msgstr "Administrator Twojego systemu"

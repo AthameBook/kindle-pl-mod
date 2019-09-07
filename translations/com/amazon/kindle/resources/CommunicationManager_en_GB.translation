@@ -1,0 +1,5 @@
+comm.message.connecting=Łączenie z siecią bezprzewodową
+comm.message.items.deleted=Pozycje usunięte
+comm.message.items.downloaded=Pozycje pobrane
+comm.message.no.new.items=Brak nowych pozycji
+comm.message.radio.turned.off=Sieć bezprzewodowa wyłączona

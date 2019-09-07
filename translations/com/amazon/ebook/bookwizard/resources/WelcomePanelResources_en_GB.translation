@@ -5,3 +5,4 @@ Hi {0},	Cześć {0},
 In two easy steps, weʼll help you get personalised book recommendations.	W dwóch prostych krokach, pomożemy Ci spersonalizować rekomendacje książek.
 LETʼS GET STARTED	ZACZNIJMY
 NO, THANK YOU	NIE, DZIĘKUJĘ
+{0,select,true{In two easy steps, weʼll help you get free personalised book samples from your favourite genres.} other{In two easy steps, weʼll help you get personalised book recommendations from your favourite genres.}}	{0,select,true{W dwóch prostych krokach, pomożemy Ci w otrzymaniu bezpłatnych próbek książek z ulubionych kategorii.} other{W dwóch prostych krokach, pomożemy Ci w otrzymaniu bezpłatnych próbek książek z ulubionych kategorii.}}

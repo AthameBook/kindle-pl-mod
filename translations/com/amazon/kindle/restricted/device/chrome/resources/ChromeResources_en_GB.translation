@@ -28,7 +28,7 @@ Go to Home	Idź do ekranu głównego
 Home	Ekran główny
 Index Items	Indeks pozycji
 Kindle Search	Szukaj w Kindle
-LIGHT	ŚWIATŁO
+LIGHT	OŚWIETLENIE
 Max Brightness	Maks. jasność
 MAX	MAX
 Menu	Menu
@@ -65,3 +65,32 @@ WAN Connected 3G	Połączenie WAN 3G
 WAN Connected Edge	Połączenie WAN Edge
 Wi-Fi Connected. Signal Strength {0} Bars	Połączenie Wi-Fi. Siła sygnału {0} kresek
 Your Kindle is not registered. Please go to Settings to register. For help, contact Kindle Customer Service at www.kindle.com/support.	Twój Kindle nie jest zarejestrowany. Zarejestruj czytnik. W razie problemów skontaktuj się pomocą na www.kindle.com/support.
+Battery 	Bateria 
+Highlights	Podkreślenia
+Sections	Sekcje
+Connecting to Bluetooth device	Połączenie z urządzeniem Bluetooth
+Search Audible Store for "{0}"	Szukaj "{0}" w sklepie Audible
+Search Audible Store	Szukaj w sklepie Audible
+back	powrót
+home	start
+settings	ustawienia
+store	sklep
+characters	znaki
+progress	postęp
+forward	do przodu
+highlights	podkreślenia
+sections	sekcje
+WAN Connected 4G	Połączenie WAN 4G
+Sections	Sekcje
+There are no results found in Audible Store.	Brak wyników w sklepie Audible
+Search Kindle Store for "{0}"	Szukaj "{0}" w sklepie Kindle
+Sync Your Kindle	Synchronizuj
+BRIGHTNESS	OŚWIETLENIE
+Auto Brightness {0, select, true { On } other { Off }}	Oświetlenie automatyczne {0, select, true { Wł. } other { Wył. }}
+WARMTH	TEMPERATURA BARWY ŚWIATŁA
+Schedule	Harmonogram
+Schedule on until sunrise	Harmonogram wł. przed świtem
+Schedule off until sunset	Harmonogram wył. przed świtem
+Schedule on until {0,time,short}	Harmonogram wł. przed {0,time,short}
+Schedule off until {0,time,short}	Harmonogram wył. przed {0,time,short}
+Warm Light {0, select, true { On } other { Off }}	Ciepłe światło {0, select, true { Wł. } other { Wył. }}

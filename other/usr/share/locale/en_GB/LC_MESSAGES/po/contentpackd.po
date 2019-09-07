@@ -1,0 +1,2 @@
+msgid "cp.fonts.updated"
+msgstr "Czcionki zaktualizowane"

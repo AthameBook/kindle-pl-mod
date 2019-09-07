@@ -56,7 +56,7 @@ ERROR	BŁĄD
 IGNORE	IGNORUJ
 insufficient space	za mało miejsca
 INSUFFICIENT SPACE	ZA MAŁO MIEJSCA
-Kindle for Kids has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and Kindle for Kids.	Kindle dla Dzieci zostało wyłączone i nie będzie więcej pojawiało się na głównym ekranie. Aby je włączyć, idź do Ustawienia, Opcje czytnika, Kontrola rodzicielska i Kindle dla Dzieci.
+Kindle for Kids has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and Kindle for Kids.	Kindle for Kids zostało wyłączone i nie będzie więcej pojawiało się na głównym ekranie. Aby je włączyć, idź do Ustawienia, Opcje czytnika, Kontrola rodzicielska i Kindle for Kids.
 Kindle FreeTime has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and FreeTime.	Kindle FreeTime zostało wyłączone i nie będzie dłużej wyświetlane na Twoim ekranie głównym. Aby włączyć tę usługę, przejdź do Ustawień, Opcji czytnika, Kontroli rodzicielskiej i FreeTime.
 licence at limit	kończy się licencja
 Memory is Full	Pamięć jest pełna
@@ -75,7 +75,7 @@ This Collection is synced across all your devices and will be deleted on any dev
 This collection will no longer appear on your device. You can see the collection in the Cloud by tapping All. To add it to your device again, press and hold the collection. Removing a collection from your device does not remove the content inside that collection from your library.	Ta kolekcja nie będzie dłużej widoczna na czytniku. Możesz zobaczyć kolekcję w Chmurze przez dotknięcie Wszystko. Aby dodać ją ponownie do czytnika, naciśnij i przytrzymaj kolekcję. Usunięcie kolekcji z czytnika nie usuwa zawartości kolekcji z biblioteki.
 This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	Ta kolekcja będzie pokazywana tylko w widoku Kolekcje. Naciśnij i przytrzymaj kolekcję, aby zmienić jej ustawienia wyświetlania.
 Turn Off FreeTime	Wyłącz FreeTime
-Turn Off Kindle for Kids	Wyłącz Kindle dla Dzieci
+Turn Off Kindle for Kids	Wyłącz Kindle for Kids
 TURN OFF	WYŁĄCZ
 Turn On Wireless?	Czy włączyć sieć bezprzewodową?
 Unable to Sync	Nie można zsynchronizować
@@ -86,3 +86,16 @@ Wi-Fi Required	Wymagane połączenie Wi-Fi
 Wi-Fi required	wymagane Wi-Fi
 WI-FI REQUIRED	WYMAGANE WI-FI
 You are currently offline and your collection will not be updated until you connect to the Internet.~~~~Do you want to connect now?	Nie jesteś w tej chwili połączony z Internetem i dlatego nie można aktualizować kolekcji.~~~~Czy chcesz się teraz połączyć?
+SETTINGS	USTAWIENIA
+Turn off {0}	Wyłącz {0}
+Download complete	Pobieranie zakończone
+"{0}" cannot be downloaded because your Kindle doesnʼt have enough free memory. You can either make more Kindle memory available by removing content from Home, or cancel the download.	Nie można pobrać "{0}" ponieważ na Twoim Kindle brakuje wolnej pamięci. Spróbuj zwolnić pamięć usuwając ze swojego czytnika część zawartości lub zrezygnuj z pobierania.
+Audible Filter is On	Filtr Audio jest włączony
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.	Lorem Ipsum jest standardowym tekstem, wykorzystywanym w branży drukarskiej od XVI wieku, w celu przetestowania składu książki.
+There is not enough storage space available to download "{0}". You can manage storage in Settings.	Na dysku czytnika jest zbyt mało miejsca, aby można było pobrać "{0}".	Funkcje do zarządzania pamięcią czytnika, znajdują się w Ustawieniach.
+You have new Audible content available, but this Kindle is set to only display this content inside the Library Audible filter view.~~~~You can change the Audible Content view option from Settings.	Dostępna jest nowa zawartość Audible, ale ten Kindle jest ustawiony w taki sposób, żeby audiobooki były wyświetlane tylko wtedy, gdy został wybrany filtr Audio.~~~~W ustawieniach czytnika możesz zmienić sposób wyświetlania zawartości Audible.
+{0} has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and {1}.	Usługa {0} została wyłączona i nie będzie już wyświetlana na ekranie domowym. Aby ją ponownie włączyć, przejdź do ustawień kontroli rodzicielskiej i {1}.
+{0} – downloading	{0} – pobieranie
+{1, select, true {{0} READY TO PLAY} other {{0} DOWNLOADING}}	{1, select, true {{0} GOTOWE DO ODTWARZANIA} other {{0} POBIERANIE}}
+{1, select, true {{0} – READY TO PLAY} other {{0} – DOWNLOADING}}	{1, select, true {{0} – GOTOWE DO ODTWARZANIA} other {{0} – POBIERANIE}}
+{1, select, true {{0} – READY} other {{0}}}	{1, select, true {{0} – GOTOWE} other {{0}}}

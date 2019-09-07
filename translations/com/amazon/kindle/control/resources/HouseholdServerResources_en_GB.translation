@@ -11,9 +11,13 @@ This Amazon account was part of another household in the last 180 days and canno
 This household had another adult added in the last 180 days, so a new adult cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	Ta Rodzina ma innego dorosłego dodanego w ostatnich 180 dniach, więc nowy dorosły nie może być dodany. Prosimy o kontakt z obsługą klienta Kindle na www.amazon.com/devicesupport dla dalszej pomocy.
 Unable to Add	Nie udało się dodać
 Unsupported Characters	Niedozwolone znaki
-Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z FreeTime bez ograniczeń. Prosimy spróbować później.
-We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z Kindle dla Dzieci bez ograniczeń. Prosimy spróbować później.
-You have reached the limit of adult profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dorosłych dozwolony dla Kindle dla Dzieci.
-You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dzieci dozwolony dla Kindle dla Dzieci.
+Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z FreeTime Unlimited. Prosimy spróbować później.
+We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z Kindle for Kids Unlimited. Prosimy spróbować później.
+You have reached the limit of adult profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dorosłych dozwolony dla Kindle for Kids.
+You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.	Osiągnąłeś limit profili dzieci dozwolony dla Kindle for Kids.
 You have reached the limit on the number of adult profiles allowed for FreeTime.	Osiągnąłeś limit liczby profili dla dorosłych dozwolony w Kindle FreeTime.
 You have reached the limit on the number of children who can register with FreeTime.	Osiągnąłeś limit liczby dzieci, które można zarejestrować w Kindle FreeTime.
+Weʼre sorry, there was an error with unsubscribing from {0}. Please try again later.	Przepraszamy, wystąpił błąd podczas wyrejestrowania z {0}. Prosimy spróbować później.
+You have reached the limit of adult profiles allowed for {0}.	Osiągnąłeś limit liczby profili dla dorosłych dozwolony w {0}.
+You have reached the limit of children allowed for {0}.	Osiągnąłeś limit liczby profili dla dzieci dozwolony w {0}.
+{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.}  update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.}  other { Weʼre currently experiencing problems, please try again later.} }	{0, select, create { Aktualnie występują problemy z tworzeniem nowych profili. Spróbuj ponownie później.}  update { Aktualnie występują problemy z edytowaniem profili. Spróbuj ponownie później.} remove { Aktualnie występują problemy z usuwaniem profili. Spróbuj ponownie później.}  other { Aktualnie występują problemy. Spróbuj ponownie później.} }

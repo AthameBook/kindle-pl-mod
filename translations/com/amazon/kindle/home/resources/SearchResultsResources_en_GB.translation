@@ -21,3 +21,6 @@ Text in Books ({0,number,integer})	Tekst w książkach ({0,number,integer})
 There werenʼt any content matches in your library for "{0}".	Nie ma żadnych wyników w Twojej bibliotece przy wyszukiwaniu „{0}”.
 There werenʼt any title or author matches in your library for "{0}".	Nie ma żadnego tytułu lub autora w bibliotece zgodnych z wyszukiwaniem „{0}”.
 Your search was not successful because your Kindle memory is full. Please make more Kindle memory available by removing content from the Home screen.	Twoje wyszukiwanie nie powiodło się ponieważ pamięć Twojego Kindle jest pełna. Usuń niektóre pozycje z ekranu głównego, aby zwiększyć dostępną pamięć na czytniku.
+Audible Store	Sklep Audible
+Audible Store ({0,number,integer})	Sklep Audible ({0,number,integer})
+Your Items ({0})	Twoje pozycje ({0})
